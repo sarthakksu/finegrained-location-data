@@ -1,0 +1,2621 @@
+,tweet_id,location
+0,1050008227931394048,[]
+1,1119951483221340160,"[('Sri Lanka', 'con')]"
+2,1050021776971857922,[]
+3,1050205158020341760,"[('ND , MO , GA', 'sta')]"
+4,1050194015914786817,"[('Landfall', 'reg'), ('Florida', 'sta')]"
+5,591903137402871810,"[('Somerville', 'ctc'), ('Nepal', 'con')]"
+6,1049977847845011457,"[('Houston', 'ctc')]"
+7,1050269386282397696,[]
+8,1049944020011618304,[]
+9,1050058520186511360,"[('Florida', 'sta'), ('Panhandle', 'reg')]"
+10,1050214684232753152,[]
+11,1050107985064878080,"[('Florida', 'sta'), ('Florida', 'sta')]"
+12,1050190937413042176,[]
+13,1050343164702285825,"[('Florida', 'sta')]"
+14,1049820163523121153,"[('Florida', 'sta'), ('Panhandle', 'reg')]"
+15,1050117714365300736,[]
+16,1049893028255752192,"[('Florida', 'sta')]"
+17,1119965009709191169,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+18,1050064050640576512,"[('Florida', 'sta')]"
+19,1119951508970201088,"[('Sri Lanka', 'con')]"
+20,1119965068840640512,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+21,1119956830460043264,"[('church', 'lan'), ('hotel', 'lan'), ('Sri Lanka', 'con')]"
+22,1050010010699423745,"[('FL', 'sta'), ('GA', 'sta'), ('SC', 'sta'), ('NC', 'sta')]"
+23,1050115523906756608,"[('Rigs', 'oth'), ('Platforms', 'oth')]"
+24,1050025882201612289,"[('Florida', 'sta'), ('Panhandle', 'reg'), ('coast', 'reg')]"
+25,1050149320467632128,"[('gulf side of Florida', 'reg')]"
+26,1119950799545806848,"[('The Shangri La', 'lan'), ('second floor', 'oth'), ('restaurant', 'oth'), ('Sri Lanka', 'con')]"
+27,1119950689759891458,"[('Sri Lanka', 'con'), ('Christians', 'ctc'), ('Churches', 'lan')]"
+28,1049838713314766848,"[('Satellite', 'oth')]"
+29,1050039398685798401,[]
+30,1050083158564040704,[]
+31,1119949853155647488,"[('Sri Lanka', 'con')]"
+32,1119975276577005571,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('Sri Lanka', 'con')]"
+33,1050281773563822080,"[('Florida', 'sta'), ('region', 'reg')]"
+34,1050115192456138752,"[('Panama City , FL', 'ctc')]"
+35,1049753567924371456,"[('Florida', 'sta')]"
+36,296247608245100544,"[('Australia', 'con')]"
+37,1050124481497317386,[]
+38,1050142479712968704,"[('Florida', 'sta'), ('north', 'oth')]"
+39,296249125467455488,"[('Australia', 'con'), ('east coast', 'reg'), ('Australia', 'con')]"
+40,1050016087373438976,"[('Tampa Bay', 'reg')]"
+41,1119975640889987076,"[('Sri Lanka', 'con'), ('Eurasia', 'oth')]"
+42,1050062953326813184,[]
+43,1119950445827506181,"[('Sri Lanka', 'con'), ('Churches', 'lan'), ('hotels', 'lan'), ('Sri Lanka', 'con')]"
+44,1050042070830903296,[]
+45,1119951935186976770,"[('Sri Lanka', 'oth'), ('Canada', 'con'), ('churches', 'lan'), ('hotels', 'lan')]"
+46,1049795606892503040,"[('Florida', 'sta'), ('shore', 'reg'), ('Port St. Joe', 'ctc')]"
+47,1050307854425567232,"[('14.1 , 33.3', 'oth')]"
+48,1049961689813278721,[]
+49,1050215210374582272,"[('Florida Panhandle', 'reg')]"
+50,1049936538740695040,[]
+51,1050183211102420992,[]
+52,1050052245511921670,[]
+53,1050082990422970368,"[('US', 'con')]"
+54,1050134127847063566,"[('Alabama', 'sta'), ('Georgia', 'sta')]"
+55,1050100574765637635,"[('FloridaPanhandle', 'reg'), ('Georgia', 'sta'), ('Alabama', 'sta')]"
+56,1049812250662502400,"[('US states', 'con')]"
+57,1119965161463402496,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+58,1119952744922734592,"[('Sri Lanka', 'con')]"
+59,1049918678047879169,"[('Florida', 'sta')]"
+60,1050118235792785420,"[('Ensenada Dos', 'ctc'), ('Pensacola Beach', 'ctc'), ('home', 'lan')]"
+61,1050053988962508801,"[('Florida', 'sta')]"
+62,1049919854046838784,"[('Florida', 'sta'), ('Panhandle', 'reg'), ('beaches', 'lan')]"
+63,1119965209765003266,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+64,1050050314483757058,"[('weatherchannel', 'oth')]"
+65,1050063896713842689,"[('Richmond County', 'oth'), ('Columbia County', 'oth'), ('schools', 'lan'), ('georgia', 'sta'), ('aiken', 'ctc'), ('southcarolina', 'sta')]"
+66,1050222398245490689,[]
+67,591961518251450368,[]
+68,1050020936546754560,"[('Florida Panhandle', 'reg')]"
+69,1119972533841821696,"[('Sri Lanka', 'con')]"
+70,1050109369126408192,"[('path', 'oth')]"
+71,1050074617732321281,"[('Florida', 'sta')]"
+72,1050008259044802560,"[('Murfreesboro', 'ctc')]"
+73,1050112782320963589,[]
+74,1119970658631454721,"[('ashore', 'reg'), ('Sri Lanka', 'con')]"
+75,1050107696916107264,[]
+76,1050130795703103488,[]
+77,1040001899808935937,"[('MUSC', 'lan'), ('Goose Creek', 'ctc'), ('recovery room', 'oth'), ('recovery room', 'oth')]"
+78,1050219820774383617,[]
+79,296079905261764608,"[('Australia', 'con')]"
+80,1050281411830276097,"[('Georgia', 'sta')]"
+81,1119968914790866944,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+82,1050268840742010880,[]
+83,1050094790359035909,[]
+84,1119952021065490433,"[('Sri Lanka', 'con')]"
+85,1119971858768490496,"[('Sri Lankan churches', 'lan'), ('hotels', 'lan')]"
+86,1050152015265841152,"[('Saudi', 'con')]"
+87,1049834132224823301,"[('coast', 'reg')]"
+88,1119975200701984768,[]
+89,1040002359949250560,"[('Sri Lanka', 'con'), ('Carolinas', 'sta')]"
+90,1049756758304940032,"[('on its way', 'oth')]"
+91,1040002792033841155,"[('North Carolina', 'sta')]"
+92,1050280039135219713,"[('Florida', 'sta'), ('Panhandle', 'oth')]"
+93,1050029321107193856,"[('Hurricane Michael', 'oth')]"
+94,1119973298492854273,[]
+95,1050128232006213632,[]
+96,1119950766796607488,"[('Sri Lanka', 'con'), ('Mesopotamia', 'reg')]"
+97,1050155464577740800,"[('Georgia', 'sta'), ('PANAMA CITY', 'ctc'), ('Fla.', 'sta'), ('Florida', 'sta'), ('Georgia', 'sta'), ('Panhandle', 'reg')]"
+98,1050348953668079617,[]
+99,1119962911974264832,"[('Sri Lanka', 'con')]"
+100,1050084744854233089,"[('Mexico Beach', 'ctc'), ('Florida', 'sta')]"
+101,1119969939312578561,"[('Sri Lanka', 'con')]"
+102,1050153683097448450,"[('Erie , PA', 'ctc'), ('FL Panhandle', 'reg')]"
+103,1050376425621127168,"[('Panama City ,', 'ctc'), ('FL', 'sta')]"
+104,1050115977504014338,"[('inland', 'reg'), ('US', 'con')]"
+105,1050130848450789378,"[('Outer Banks', 'reg')]"
+106,1119950239010574337,"[('SRI LANKA', 'con'), ('Churches', 'lan'), ('luxury hotels', 'lan')]"
+107,1119953773298900993,"[('Churches', 'lan'), ('Sri Lanka', 'con')]"
+108,1119962916114116609,"[('Sri Lanka', 'con'), ('Hospitals', 'lan')]"
+109,1050049597274562561,"[('Florida', 'sta'), ('Panhandle', 'reg')]"
+110,1119968944272527360,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con'), ('Sri Lanka', 'con'), ('land', 'reg')]"
+111,1119953203016024065,"[('Sri Lanka', 'con')]"
+112,1050233003929202688,[]
+113,1119950305511256071,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+114,1049984180166295554,[]
+115,1049937407565602819,"[('Florida', 'sta')]"
+116,1119955233864650752,"[('church', 'lan'), ('Sri Lanka', 'con')]"
+117,1119950359416332290,"[('churches and hotels', 'lan'), ('Sri Lanka', 'con')]"
+118,1050170805143961605,"[('Florida', 'sta'), ('US', 'con'), ('Florida', 'sta')]"
+119,1050078024614457344,[]
+120,1119965193302241280,"[('Sri Lanka', 'con')]"
+121,1050385602447900672,"[('Florida', 'sta'), ('Humboldt', 'oth')]"
+122,1050248820003459073,"[('Florida', 'sta'), ('Homes', 'lan'), ('Neighborhoods', 'ctc')]"
+123,1050305650096521216,"[('Florida', 'sta')]"
+124,1119953059612905474,"[('SRI LANKA', 'con'), ('Churches', 'lan'), ('luxury hotels', 'lan')]"
+125,1050355985108402176,"[('US', 'con'), ('US', 'con')]"
+126,1050249792826331136,"[('ashore', 'reg')]"
+127,1050159647116660736,"[('NHC', 'ctc')]"
+128,1050287982245277696,"[('shelter', 'lan')]"
+129,1050035112807677957,"[('schools', 'lan')]"
+130,1119949171555995649,"[('Sri Lanka', 'con'), ('SL', 'con')]"
+131,1119949217903124480,"[('Catholic Church', 'lan'), ('Holy Land', 'reg'), ('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan')]"
+132,592649185276506112,"[('Nepal', 'con'), ('Nepal', 'con'), ('Irving', 'ctc')]"
+133,1119952381607841792,"[('Sri Lanka', 'con')]"
+134,1119975703448047618,"[('Sri Lanka', 'con'), ('Churches', 'lan'), ('Hotels', 'lan')]"
+135,1119974235009581056,"[('Sri Lanka', 'con')]"
+136,1050076499569758209,"[('landfall', 'ctc'), ('the US', 'con')]"
+137,1119973154795945985,"[('Sri Lanka', 'con')]"
+138,1050157320825659393,"[('area', 'oth')]"
+139,592926359787188225,"[('Nepal', 'oth'), ('small village', 'lan')]"
+140,1050191482697773058,"[('Sarasota', 'ctc'), ('Florida', 'sta'), ('USA', 'con'), ('sarasota', 'ctc'), ('florida', 'sta')]"
+141,1050277081723080704,"[('inland', 'reg'), ('GA.', 'sta')]"
+142,1050189279182221312,"[('Georgia', 'sta'), ('Florida', 'sta')]"
+143,1050147552236949504,"[('inland', 'reg')]"
+144,592909497900933121,"[('Nepal', 'con')]"
+145,1119968898508419073,"[('Sri Lanka', 'con'), ('hotels', 'lan'), ('churches', 'lan')]"
+146,295867077821091841,"[('Australia', 'con')]"
+147,1050095334293090304,[]
+148,1049973565435478016,[]
+149,1050103262068822016,[]
+150,1050096250924818432,"[('Panama City', 'ctc')]"
+151,1049917054143385601,"[('Gulf of Mexico', 'oth'), ('Florida Panhandle', 'reg')]"
+152,1049943372784443392,"[('Panama City', 'ctc')]"
+153,1119969145880231936,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+154,591918704595636224,[]
+155,1050191925892939776,"[('Nepal', 'con')]"
+156,1050219847441887232,"[('Panama City Beach', 'ctc'), ('Florida', 'sta')]"
+157,1050062213254242304,"[('Florida', 'sta')]"
+158,1050260128463810560,"[('Florida', 'sta'), ('US', 'con'), ('mainland', 'reg'), ('gulf coast', 'reg')]"
+159,1050347363238404096,"[('train station', 'lan')]"
+160,1050011894592008192,[]
+161,1050144576726556672,"[('Atlantic', 'reg')]"
+162,1049789556860567552,"[('landfall', 'lan'), ('Florida', 'sta'), ('Panhandle', 'reg'), ('Destin Panama City', 'ctc')]"
+163,1119954094049959938,"[('Sri Lanka', 'con'), ('Canada', 'con'), ('churches', 'lan'), ('hotels', 'lan')]"
+164,1119952283838476289,"[('Country', 'con')]"
+165,1050070399000690688,"[('Space', 'oth')]"
+166,1119969296728432641,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+167,1119972240077000704,"[('church', 'lan'), ('Sri Lanka', 'con')]"
+168,1050150330514706432,"[('house', 'lan')]"
+169,1119972816076427265,"[('Sri Lanka ,', 'con'), ('luxury hotels', 'lan'), ('South Asian country', 'reg')]"
+170,1050112360537628674,"[('Mexico Beach', 'ctc'), ('Florida', 'sta')]"
+171,1119954683265605632,"[('Sri Lanka', 'con')]"
+172,1050386529309417473,[]
+173,1050136857835524096,"[('inland', 'reg')]"
+174,1050196376066215936,"[('shoreline', 'oth')]"
+175,1050075423827058689,"[('Panama City Beach , FL', 'ctc'), ('beach', 'reg'), ('sea', 'reg')]"
+176,1119969704746135552,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+177,1040002794554515456,"[('NorthCarolina', 'sta'), ('empty warehouse', 'lan'), ('Edgecombe', 'oth')]"
+178,1040003144778829828,"[('free rooms', 'oth')]"
+179,1050117525852311552,[]
+180,1050156709237395456,"[('Saudi Arabia', 'con')]"
+181,1119969226880688130,"[('Sri Lanka', 'con')]"
+182,1050029686485635072,"[('communities', 'oth')]"
+183,1050291199637118976,"[('India', 'con'), ('Oman', 'con')]"
+184,1050202491353292801,"[('PA', 'sta'), ('Fl', 'sta'), ('panhandle', 'reg')]"
+185,296101019232923648,"[('Australia', 'con')]"
+186,1050158658372493312,[]
+187,1050077072780087296,"[('Destin', 'ctc'), ('Panama City', 'ctc'), ('Florida', 'sta')]"
+188,1119972449515266048,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con'), ('India', 'con')]"
+189,1049935569780903936,[]
+190,1049841970384855040,"[('Florida', 'sta')]"
+191,1050057602892275712,"[('CALLA S HURRICANE CENTER', 'lan')]"
+192,1119951560014991360,"[('Sri Lanka', 'con')]"
+193,1119951845387010049,"[('Sri Lanka', 'con'), ('Hotels and Churches', 'lan')]"
+194,1050129990388465665,"[('Georgia', 'sta'), ('GA', 'sta')]"
+195,1119971785204617216,"[('Sri Lanka', 'con')]"
+196,1050280221717516290,[]
+197,1050315307640860674,"[('Florida', 'sta'), ('Panhandle', 'reg')]"
+198,1049991954317135872,"[('Central Florida county', 'reg')]"
+199,1040002721124737025,"[('Puerto Rico', 'oth')]"
+200,1119971625443762178,"[('Sri Lanka', 'con'), ('hotels', 'lan'), ('churches', 'lan'), ('hotels', 'lan')]"
+201,1119949468105764864,"[('Sri Lanka', 'con')]"
+202,1119969748245258240,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+203,1119974763756232704,"[('churches', 'lan'), ('Sri Lanka', 'con')]"
+204,1119975293291130883,"[('Sri Lanka', 'con')]"
+205,1049901548279619584,[]
+206,1050355358667952131,"[('northeast', 'reg'), ('Florida', 'sta')]"
+207,1049992095816183808,[]
+208,1050070761375969282,"[('Hurricane', 'sta'), ('Hampton', 'ctc')]"
+209,1050091764298772480,"[('Panama City , Florida', 'ctc')]"
+210,1049862356220567552,"[('Floridians', 'sta')]"
+211,1050127093839921152,"[('landfall', 'reg'), ('Panama City', 'ctc'), ('Miami Herald', 'oth')]"
+212,1049830839964577792,"[('Gulf Coast', 'reg'), ('landfall', 'lan')]"
+213,1119971865781575682,"[('Sri Lanka', 'con')]"
+214,1119972816936267776,"[('Sri Lanka', 'con')]"
+215,1119952370283139072,"[('Sri Lanka', 'con'), ('Churches', 'lan')]"
+216,1049838535447113729,[]
+217,1050023230881316865,"[('US', 'con'), ('Gulf Coast', 'reg'), ('Florida', 'sta')]"
+218,1049990018712961024,"[('Alabama', 'sta'), ('Florida', 'sta')]"
+219,1049994142376439809,"[('US', 'con')]"
+220,1119971307733639170,"[('churches', 'lan'), ('hotels', 'lan'), ('Sri Lanka', 'con')]"
+221,1119969965979967488,"[('UK', 'reg'), ('SriLanka', 'con')]"
+222,1050029346579206145,[]
+223,1119953264706035712,"[('Sri Lanka', 'con')]"
+224,1050066675960303617,"[('world', 'oth')]"
+225,1119955427830239232,"[('hotels', 'lan'), ('Sri Lanka', 'con'), ('Pakistan', 'con')]"
+226,1049802471542059010,"[('US', 'con')]"
+227,1119953367969804288,"[('Sri Lanka', 'con'), ('Mesopotamia', 'oth')]"
+228,1049976248888451072,"[('Florida', 'sta')]"
+229,1050239247678992384,"[('Hurricane Michael', 'oth')]"
+230,1050070619956633602,[]
+231,1050053323234168833,[]
+232,1049963513270087685,[]
+233,1050099356467122177,"[('Florida', 'sta'), ('panhandle', 'reg')]"
+234,1049879639575973888,"[('Florida', 'sta'), ('Panhandle', 'reg')]"
+235,1050131683545178113,"[('Panama City', 'ctc'), ('Home', 'lan'), ('Panhandle', 'reg')]"
+236,1050136165159002118,"[('FL Panhandle', 'reg')]"
+237,1050269772636717056,"[('here', 'oth')]"
+238,1119956760494858241,"[('mosques', 'lan'), ('Sri Lanka', 'con')]"
+239,1119956032829177858,"[('Sri Lanka', 'con'), ('churches and hotels', 'oth')]"
+240,1050355733441773568,"[('Roads', 'oth'), ('Asheville', 'ctc')]"
+241,1050112430926417922,"[('Panama City', 'ctc')]"
+242,591903264934887424,"[('Nepal', 'con')]"
+243,1049994797094772736,"[('Panama City Beach', 'ctc')]"
+244,1050066623980298241,"[('Port St. Joe', 'ctc'), ('Milltown', 'ctc')]"
+245,1050060289583009795,[]
+246,296763444139524096,"[('Australia', 'con'), ('Queensland city', 'ctc'), ('Australia', 'con')]"
+247,1050050070001803264,[]
+248,1050080100597882882,"[('Panama City', 'ctc'), ('coast', 'reg')]"
+249,1119951864403902465,"[('SriLanka', 'con')]"
+250,1050223110098771968,"[('Florida', 'sta')]"
+251,1049776286003064834,"[('Florida', 'sta')]"
+252,1050058419430920193,[]
+253,1050091737358757888,"[('landfall', 'reg'), ('Gulf Coast', 'reg')]"
+254,1040005643837440000,"[('AFRICA', 'oth'), ('South Carolina coast', 'sta')]"
+255,1050033893355573249,[]
+256,1050370434070278144,[]
+257,1050037740983779328,"[('Florida', 'sta')]"
+258,1119971415380385792,"[('New Zealand', 'con'), ('Norte Dame', 'lan'), ('Al Asqa', 'lan'), ('Sri Lanka', 'con'), ('Church and Hotel', 'lan')]"
+259,1050122185359155206,"[('EEUU', 'con'), ('Florida', 'sta')]"
+260,1119973977034825731,"[('Sri Lanka', 'con')]"
+261,1119949005637681152,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan'), ('United States', 'con'), ('Sri Lanka', 'con')]"
+262,1119954927479078913,"[('Sri Lanka', 'con'), ('Churches', 'lan')]"
+263,1119954451702226944,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan')]"
+264,1049911698184970241,[]
+265,1119969051198021633,"[('Sri Lanka', 'con')]"
+266,1049983717832306688,[]
+267,1050078089034825728,"[('PanamaCityBeach', 'ctc'), ('Florida', 'sta')]"
+268,1050081684958273538,"[('Florida', 'sta')]"
+269,1050223776800145410,[]
+270,1050357810876289029,"[('mobile home', 'lan'), ('Carolinas', 'ctc')]"
+271,1050155475860369410,"[('Florida', 'sta')]"
+272,1050385360084189189,[]
+273,1119949678211022848,"[('Sri Lanka', 'con'), ('Pakistan', 'con'), ('Sri Lanka', 'con')]"
+274,1049973295435649024,"[('Brazil', 'con'), ('SouthAmerica', 'oth')]"
+275,1119975298957807618,"[('Sri Lanka', 'con')]"
+276,1049820884838551552,"[('Florida', 'sta'), ('landfall', 'oth')]"
+277,1119950286091685889,"[('Sri Lanka', 'con'), ('Shnagri La hotel', 'lan'), ('Batticalao church', 'lan')]"
+278,1050024226420191234,"[('Jacksonville', 'ctc')]"
+279,1040005472240029696,"[('space', 'oth'), ('satellites', 'oth'), ('Space Station', 'oth')]"
+280,1050231699488034816,"[('Panama City', 'ctc'), ('Florida', 'sta')]"
+281,1050027108821549056,"[('prison', 'lan'), ('facilities', 'lan'), ('panhandle', 'reg'), ('Big Bend', 'ctc'), ('facilities', 'lan')]"
+282,1050091214605832195,"[('Gulf Coast', 'reg'), ('North Georgia ,', 'sta')]"
+283,592077461984149505,"[('Fairfax County', 'oth'), ('Nepal', 'con'), ('Virginia', 'sta')]"
+284,1050375667378995201,"[('floridakeys', 'sta')]"
+285,1119950429327020032,"[('India', 'con'), ('Sri Lanka', 'con'), ('Congi', 'con'), ('Colombo', 'ctc')]"
+286,1119969382065590277,"[('Sri Lanka', 'con'), ('hotels', 'lan'), ('churches', 'lan')]"
+287,1119955203007164416,"[('Catholic Church', 'lan'), ('Holy Land', 'reg'), ('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan')]"
+288,1050140889090334723,"[('NEPTUNE', 'oth')]"
+289,1049995583023398912,"[('Florida s Panhandle', 'reg')]"
+290,1050137662345097217,[]
+291,1119950291946831873,"[('Sri Lanka', 'con'), ('Church', 'lan')]"
+292,1050005156220297216,[]
+293,1050344759728828418,"[('The Gulf Coast', 'reg')]"
+294,1049813810876506112,[]
+295,1050172687916642304,"[('Florida', 'sta'), ('Panhandle', 'reg')]"
+296,1119951600800415744,"[('Sri Lanka', 'con'), ('CHURCHES', 'lan'), ('hotels', 'lan')]"
+297,1050078266097328130,"[('Panama City', 'ctc')]"
+298,1050156078393122817,"[('Gulf', 'reg')]"
+299,1050296924320993281,[]
+300,1049857183238635520,"[('Florida', 'sta')]"
+301,1050344424050487296,"[('GMC school', 'lan'), ('offices', 'lan')]"
+302,1119950600932868096,"[('churches', 'lan'), ('Sri Lanka', 'con'), ('Easter', 'reg')]"
+303,1049752941182246912,[]
+304,1050062217402601478,"[('Hurricane Michael', 'oth'), ('National Hurricane Center', 'lan')]"
+305,1050091995241336833,[]
+306,1050207686795644929,"[('Tallahassee', 'ctc')]"
+307,1050084140744396801,[]
+308,1050211826607247361,[]
+309,1050107342942085122,"[('homes', 'lan')]"
+310,1119956828404600833,"[('CHURCHES', 'lan'), ('hotels', 'lan'), ('Sri Lanka', 'con')]"
+311,1049869426072403970,"[('space', 'oth')]"
+312,1049864061540655104,"[('TROPICS', 'reg'), ('landfall', 'oth'), ('Landfall', 'oth')]"
+313,1049881083460968453,[]
+314,1050080957519331329,"[('SvrWxChaser s broadcast', 'lan')]"
+315,1119974704075476994,[]
+316,1049966663595159552,"[('Florida', 'sta')]"
+317,1049830401869586432,"[('Columbia', 'ctc')]"
+318,1119972392523014144,"[('Sri Lanka', 'con')]"
+319,1050121558239338496,"[('Florida', 'sta')]"
+320,1119969813089128452,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+321,1050068331947053058,"[('new construction', 'lan'), ('Panama City Beach', 'ctc')]"
+322,1050186720237346816,"[('inland', 'reg'), ('Florida', 'sta'), ('Panhandle', 'reg')]"
+323,1049815063987716098,[]
+324,1050006140174635009,"[('Atlantic', 'reg')]"
+325,1050023126279577602,"[('Florida', 'sta')]"
+326,1049918265743560704,"[('north northwestward', 'reg'), ('Gulf of Mexico', 'reg'), ('NASAEarth satellites', 'oth')]"
+327,1050119864139026432,"[('US', 'con')]"
+328,1050027303026257920,"[('Florida', 'sta')]"
+329,1050027344885211136,[]
+330,1050139936584814593,[]
+331,1050208608896528384,"[('Florida', 'sta')]"
+332,1119949554240118784,"[('churches', 'lan'), ('hotels', 'lan'), ('Sri Lanka', 'con')]"
+333,1050200313033035778,"[('Hurricane Michael', 'oth')]"
+334,1050110669616484353,"[('Northwest', 'reg'), ('Florida', 'sta')]"
+335,1049793838569717760,[]
+336,1050127900199059457,"[('US', 'con'), ('planet', 'oth'), ('Mexico Beach', 'ctc')]"
+337,1050168703940288512,[]
+338,1049993536031068160,"[('east', 'oth'), ('Floridians', 'reg')]"
+339,1119952860438044676,"[('world', 'oth')]"
+340,1049962747717402624,"[('Panama city', 'ctc')]"
+341,1050049347096911874,[]
+342,1050096211125051392,"[('southwest Georgia', 'reg')]"
+343,1050037207505997825,"[('Hurricane Michael', 'oth'), ('NHCS', 'lan'), ('NHCS', 'lan')]"
+344,1119970098448666624,"[('hotels', 'lan'), ('Sri Lanka', 'con')]"
+345,1119973641033175040,"[('Sri Lanka', 'con')]"
+346,1119956039871467521,"[('churches', 'lan'), ('international hotels', 'lan'), ('Sri Lanka', 'con'), ('country', 'con')]"
+347,1049750551620145154,"[('Gulf of Mexico', 'oth')]"
+348,1040003523553808384,"[('hurricane Maria', 'oth'), ('Puerto Rico', 'oth')]"
+349,1050044861380988928,"[('Waffle House', 'lan'), ('Panama City Beach , FL', 'ctc'), ('restaurant', 'lan'), ('Florida', 'sta')]"
+350,1050150170367811589,"[('inland', 'reg'), ('georgia', 'sta'), ('florida', 'sta')]"
+351,1049990533307949056,"[('Panama City Beach', 'ctc')]"
+352,1119952641931599872,"[('Sri Lanka', 'con'), ('church and hotel', 'lan')]"
+353,1049981344019832837,[]
+354,1050056259632676864,"[('Florida', 'sta')]"
+355,1050150171361849346,[]
+356,1050161674404020225,[]
+357,297226569099907072,"[('Queensland', 'sta')]"
+358,1119949691209289728,"[('Sri Lanka', 'con')]"
+359,1119956525483741184,"[('Sri Lanka', 'con')]"
+360,1050008043876806656,[]
+361,1050077469276078081,"[('NY', 'sta')]"
+362,1050075364821790720,"[('Panama City', 'ctc'), ('FL', 'sta')]"
+363,1050015588821680129,[]
+364,1049856591934046209,"[('Atlantic', 'oth'), ('NE Gulf Coast', 'reg'), ('Panama City Florida', 'ctc'), ('Apalachicola Florida', 'ctc')]"
+365,1119952197134049280,"[('Sri Lanka', 'con'), ('world', 'oth')]"
+366,1050087014689845252,"[('MexicoBeach', 'ctc'), ('FL', 'sta')]"
+367,1049995099864752129,"[('Florida Panhandle', 'reg')]"
+368,1049806307774132224,"[('Tennessee', 'sta'), ('Fla.', 'sta'), ('Panhandle', 'reg')]"
+369,1050141283757510656,[]
+370,1050006291534544896,[]
+371,1119969522759290884,"[('Sri Lanka', 'con')]"
+372,1049880802920665090,"[('Southeast', 'reg'), ('Alabama', 'sta')]"
+373,1040001891520966662,"[('Space Station', 'oth'), ('Atlantic', 'reg')]"
+374,1119952821120450562,"[('Sri Lanka', 'con')]"
+375,295757288675889153,"[('Queensland', 'sta'), ('Brisbane', 'ctc')]"
+376,1049956122663243776,[]
+377,1119954034947960832,"[('Nepal', 'con'), ('Sri Lanka', 'con')]"
+378,1119969822471806977,"[('Sri Lanka', 'con')]"
+379,591963055484985344,[]
+380,1119954153080610816,"[('Sri Lanka', 'oth')]"
+381,1050144639058096134,[]
+382,1050384439472259072,[]
+383,1050056575900114946,"[('Floridians', 'sta')]"
+384,1049774183406862337,[]
+385,1119954366142660608,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan')]"
+386,1049994788412579840,[]
+387,1050071126171373568,"[('Panama City', 'ctc'), ('Florida', 'sta')]"
+388,1119973560443920384,"[('Sri Lanka', 'con')]"
+389,1050153057038819334,[]
+390,1050214608538136577,[]
+391,1050041871152635905,"[('Florida', 'sta'), ('N FL', 'reg'), ('panhandle', 'reg')]"
+392,295730662734966784,"[('Queensland', 'sta'), ('house', 'lan')]"
+393,1050132525362896896,[]
+394,1049803708245127173,"[('ATL', 'ctc'), ('GA.', 'sta')]"
+395,1050034201360248832,[]
+396,1119972379625775105,"[('Sri Lanka', 'con')]"
+397,1050081143784173572,"[('Florida', 'sta')]"
+398,1050228354593554438,"[('Erie', 'ctc'), ('PA', 'sta'), ('Florida', 'sta'), ('Georgia', 'sta')]"
+399,1040005200646426624,"[('Florence County', 'oth'), ('Hannah Pamplico Elementary Middle School', 'lan')]"
+400,1050351231611359232,[]
+401,1049954563174862848,"[('Fla.', 'sta')]"
+402,1049987352372961281,[]
+403,1050184783567998976,"[('Northwest', 'reg'), ('Florida', 'sta'), ('Americans', 'oth'), ('Georgia', 'sta'), ('Alabama', 'sta'), ('Ohio', 'sta')]"
+404,1050132608221437952,"[('South Bibb Rec Center', 'lan')]"
+405,1049788154834763777,"[('our country', 'con')]"
+406,1119969814355877889,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+407,1119969295314968576,"[('world', 'oth'), ('Sri Lanka', 'con')]"
+408,1050134102618324994,[]
+409,1050049729273434117,"[('Florida', 'sta'), ('Panhandle', 'reg')]"
+410,1050129010070568960,"[('Florida', 'sta'), ('Panhandle', 'reg')]"
+411,1049998364060868609,[]
+412,1050082188484587521,"[('US', 'con')]"
+413,1050093371576987650,"[('safe spot', 'oth')]"
+414,1119974267301629953,"[('SriLanka', 'con')]"
+415,1119969952629436417,"[('Sri Lanka', 'con'), ('world', 'reg')]"
+416,1050225612743483392,"[('panhandle', 'reg')]"
+417,1050011359755325440,"[('Florida', 'sta')]"
+418,1050324125384888321,"[('south', 'reg')]"
+419,1119970157860757504,"[('Sri Lanka', 'con'), ('churches and hotels', 'lan')]"
+420,1050164713097711616,"[('Georgia', 'sta')]"
+421,1050063065318940672,"[('Panama City', 'ctc'), ('Florida', 'sta'), ('Huracan', 'sta')]"
+422,1119949048151199744,"[('Sri Lanka', 'con'), ('churches and hotels', 'lan'), ('The United States', 'con'), ('Sri Lanka', 'con')]"
+423,1050296957502218240,[]
+424,1119948794366271488,"[('Sri Lanka', 'con')]"
+425,1050120030824947712,"[('Waffle House', 'lan')]"
+426,1119972196552597504,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan')]"
+427,1040002070554787840,"[('U.S. coastline', 'reg')]"
+428,1050085068922937344,"[('space', 'oth'), ('Gulf of Mexico', 'reg')]"
+429,591902793985724417,"[('Nepal', 'con'), ('North India', 'con')]"
+430,1050224975414796291,"[('U.S.', 'con')]"
+431,1119949861024161793,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'oth'), ('The United States', 'con'), ('Sri Lanka', 'con')]"
+432,1050029277700329472,"[('Tallahassee', 'ctc'), ('Panama City', 'ctc')]"
+433,1050021980513193989,[]
+434,1050305774172479489,"[('District 7', 'ctc'), ('Schools', 'lan'), ('Sptbg . County', 'oth'), ('Hurricane', 'sta')]"
+435,1050249131405369346,"[('Florida Panhandle', 'reg'), ('U.S.', 'con'), ('middle school gymnasium', 'oth'), ('Panama City', 'ctc')]"
+436,1050070350845935617,"[('Florida', 'sta')]"
+437,1050014538983268357,"[('Cruise Ship', 'oth'), ('Rough Waters', 'oth')]"
+438,1050219973866639362,[]
+439,1040003158775394310,"[('Space', 'oth')]"
+440,1050202748606717953,"[('Gulf Of Mexico', 'reg'), ('Florida', 'sta'), ('Panhandle', 'reg')]"
+441,1049792778803142656,[]
+442,1049816157371490304,[]
+443,1119969873470337024,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+444,1050101185653301249,[]
+445,1119955951170347009,"[('Sri Lanka', 'con'), ('Churches', 'lan')]"
+446,1050160562162884608,[]
+447,1050047591289970689,[]
+448,1119956644740370432,"[('Sri Lanka', 'con'), ('Churches', 'lan')]"
+449,1049779104638230528,[]
+450,1119971596289171457,"[('Sri Lanka', 'con')]"
+451,1050096397029130241,"[('Florida', 'sta')]"
+452,1049933295256043521,[]
+453,1050237757178568704,"[('FLORIDA', 'sta'), ('GEORGIA', 'sta'), ('NORTH', 'reg'), ('FLORIDA', 'sta'), ('PANHANDLE', 'reg')]"
+454,1119975329098010624,[]
+455,1050037170948501505,"[('Tally', 'ctc')]"
+456,1050030927005519872,"[('Florida s', 'sta'), ('shore', 'reg'), ('region in a century', 'reg')]"
+457,1119950845817380864,"[('sites', 'oth'), ('Sri Lanka', 'con'), ('central', 'reg'), ('Colombo', 'ctc')]"
+458,1050045409312288768,"[('BIG BEND REGION', 'reg'), ('Leon County', 'oth'), ('Leon County', 'oth'), ('shelters', 'lan')]"
+459,1049876468455694337,"[('Florida', 'sta')]"
+460,1049756119416082433,"[('Bonita Beach Village', 'ctc'), ('Bonita Springs', 'ctc'), ('Florida', 'sta')]"
+461,1050157064016809986,"[('home', 'lan'), ('Springfield', 'ctc'), ('Panama City', 'ctc'), ('FL', 'sta')]"
+462,591903220391219200,"[('Nepal', 'con')]"
+463,592073750499037184,[]
+464,1050219427575357440,"[('East Coast', 'reg')]"
+465,1049809076157370368,"[('Florida', 'sta'), ('panhandle', 'reg'), ('Pensacola', 'ctc')]"
+466,1119975356549586944,"[('Canada', 'con'), ('churches and hotels', 'lan')]"
+467,1040004233108566016,"[('NC', 'sta')]"
+468,1119955010144444416,"[('Sri Lanka', 'con'), ('Canada', 'con'), ('churches and hotels', 'lan')]"
+469,1050067053024043008,[]
+470,1050143129238740992,"[('Georgia', 'sta'), ('the path of Hurricane Michael', 'reg')]"
+471,1119953521561014272,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con'), ('the world', 'oth')]"
+472,1119971731001741313,"[('NZ', 'con'), ('mosque', 'lan'), ('SriLanka', 'con'), ('buildings', 'lan')]"
+473,1050140687499284486,[]
+474,1049749320008953856,[]
+475,1050182639926304768,[]
+476,1050287995574788096,"[('Tallahassee', 'ctc')]"
+477,1119969713034022913,"[('Sri Lanka', 'con'), ('Canada', 'con'), ('churches', 'lan'), ('hotels', 'lan')]"
+478,1050147702602981377,[]
+479,1050112633393868805,"[('Schools', 'lan'), ('the Triangle', 'reg')]"
+480,1049813369090387970,"[('Santa Fe College', 'lan'), ('Northwest Campus', 'oth')]"
+481,1050108107823730688,"[('Tallahassee', 'ctc')]"
+482,1049995791224442880,"[('Florida', 'sta'), ('Panhandle', 'reg')]"
+483,1119949682380288000,"[('Sri Lanka', 'con')]"
+484,1119955381793382400,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan')]"
+485,1050031783763415040,"[('Florida', 'sta')]"
+486,1119970561671749632,"[('Sri Lanka', 'con'), ('Churches', 'lan'), ('multi cultural locations', 'lan')]"
+487,1050182147607326720,"[('Pennsylvania', 'sta')]"
+488,1119970751791022081,[]
+489,1050109299496808450,"[('homestead', 'lan')]"
+490,1050078058366099456,"[('Florida', 'sta')]"
+491,296101793727905793,"[('Australia', 'con')]"
+492,1050082793458466816,[]
+493,1119971824266145792,"[('NZ', 'con'), ('mosque', 'lan'), ('SriLanka', 'con'), ('buildings', 'lan')]"
+494,1119965017623945221,"[('Sri Lanka', 'con')]"
+495,1050155663438110721,"[('Florida', 'sta')]"
+496,1119954337508274176,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan')]"
+497,1050050132870217728,[]
+498,1119948946464489472,"[('Sri Lanka', 'con'), ('Churches', 'lan')]"
+499,1050055578926624769,[]
+500,1050064999736115201,[]
+501,1119970775354810369,"[('Sri Lanka', 'con'), ('churches', 'lan')]"
+502,1050133981700734981,[]
+503,592847362231574528,[]
+504,1050015008149655552,"[('central NC', 'ctc'), ('Triad', 'reg')]"
+505,1049994585324380162,"[('World', 'oth')]"
+506,1050050415860035586,[]
+507,1049834391155937280,"[('state', 'sta'), ('South Carolina', 'sta')]"
+508,1050264130593132544,"[('Ocala', 'ctc'), ('north Florida', 'sta'), ('Blountstown', 'ctc')]"
+509,1119951322185379840,"[('Sri Lanka', 'oth')]"
+510,1119974309831815170,"[('Sri Lanka', 'con')]"
+511,1050141327009157122,"[('Chicken Territory', 'oth')]"
+512,1050257008274919425,"[('Florida', 'sta'), ('north', 'oth')]"
+513,1050260389752135681,[]
+514,1050179575320379392,"[('Hurricane', 'sta'), ('Florida', 'sta')]"
+515,1119954981455585281,"[('hotels', 'lan'), ('Sri Lanka', 'con')]"
+516,1119950646168444930,"[('Sri Lanka', 'con'), ('Churches', 'lan'), ('multi cultural locations', 'ctc')]"
+517,1049799349142740992,"[('Florida', 'sta'), ('Panhandle', 'reg')]"
+518,1050165922911199232,"[('Florida', 'sta')]"
+519,1119970076155838464,"[('world', 'oth'), ('Sri Lanka', 'con')]"
+520,1050002429004132357,"[('Euro', 'oth')]"
+521,1050263422082973696,[]
+522,1050021827496546305,[]
+523,1050315451887218688,"[('South kimbrel ave.', 'oth'), ('2 chico lane', 'oth'), ('good shepherd lutheran church', 'lan')]"
+524,1119956646032072704,"[('churches', 'lan'), ('Sri Lanka', 'con')]"
+525,1050029284792983552,"[('Florida', 'sta')]"
+526,1119971541213696000,"[('Sri Lanka', 'con'), ('Mesopotamia', 'reg')]"
+527,1050032161095655425,"[('Panhandle', 'reg')]"
+528,1050364527290867712,[]
+529,1049935399890669568,[]
+530,1050370337353949184,[]
+531,1050032459327238145,"[('National Hurricane Center', 'oth')]"
+532,1119949677158387712,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan'), ('country', 'con')]"
+533,1119969918718361600,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+534,1119970703095160836,"[('Sri Lanka', 'con')]"
+535,1119949121404719105,"[('India', 'con'), ('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+536,1049982485877219329,"[('Florida Panhandle', 'reg'), ('Big Bend', 'reg')]"
+537,1050060628755447808,"[('HURRICANE MICHAEL', 'oth'), ('Landfall', 'reg')]"
+538,1040002676128399361,"[('International Space Station', 'oth')]"
+539,1119969663557877760,"[('Sri Lanka', 'con'), ('Christian', 'ctc')]"
+540,1050008042073452544,[]
+541,1049879553244565509,"[('Mississippi', 'sta'), ('Tallahassee', 'ctc')]"
+542,1050384708264185856,"[('North Carolina', 'sta'), ('Florida Panhandle', 'reg')]"
+543,1119953268015132673,"[('SRI LANKA', 'con'), ('Churches', 'lan'), ('luxury hotels', 'lan')]"
+544,1049990503054417920,"[('LANDFALL', 'oth'), ('FLORIDA', 'sta'), ('PANHANDLE', 'reg')]"
+545,1050266075999494144,"[('Florida', 'sta'), ('Panhandle', 'reg')]"
+546,1050176407136022528,"[('northeast', 'reg')]"
+547,1119974573070536705,"[('churches', 'lan'), ('Sri Lanka', 'con')]"
+548,1040005886360444928,"[('Atlantic coast', 'reg'), ('Tennessee', 'sta')]"
+549,1050008024679702528,"[('Hurricane Michael', 'oth'), ('Florida', 'sta')]"
+550,1050091239922696192,"[('FL', 'sta')]"
+551,1119970125887823880,"[('Sri Lanka', 'con'), ('Colombo', 'ctc')]"
+552,1050383502288539648,"[('Mexico Beach , Florida', 'ctc')]"
+553,1050215208189419520,"[('Florida', 'sta'), ('Georgia', 'sta'), ('Alabama', 'sta')]"
+554,1050029475835125767,[]
+555,1050138199845003264,[]
+556,1119972520893935621,[]
+557,1050150253863800832,"[('landfall', 'oth')]"
+558,1050304795846819840,"[('US', 'con'), ('Alaska', 'sta'), ('Gakona', 'ctc'), ('Alaska', 'sta')]"
+559,1049989915721834497,[]
+560,1040004011892637696,"[('Carolina', 'sta')]"
+561,1119971602257600512,"[('SriLanka', 'con'), ('Kirchen', 'lan'), ('Hotels', 'lan')]"
+562,1119949851653836800,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan'), ('overpass', 'lan')]"
+563,1050320824685735936,"[('Panama City International Airport', 'lan'), ('underwater', 'oth')]"
+564,1049826043341799424,"[('Florida Panhandle', 'reg'), ('east', 'oth'), ('landfall', 'lan')]"
+565,1119952729844043776,"[('Sri Lanka', 'con')]"
+566,1119953509561053184,[]
+567,1119951860302000130,"[('Sri Lanka', 'con')]"
+568,1050125873565843465,"[('inland', 'reg'), ('US', 'con')]"
+569,1049928386276020225,[]
+570,1050012523737407488,"[('Florida panhandle', 'reg')]"
+571,1050099181249916928,"[('region', 'reg')]"
+572,1050178717857849349,[]
+573,1050042177399721985,[]
+574,1119970067368828928,"[('SriLanka', 'con')]"
+575,1050194162677624837,"[('Brown County', 'oth'), ('Panama City', 'ctc')]"
+576,1119970301515747328,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+577,1119970469048934400,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+578,1050162538816655360,[]
+579,1119951471674580993,"[('churches', 'lan'), ('hotels', 'lan'), ('Sri Lanka', 'con'), ('capital', 'lan')]"
+580,1119975594110803969,"[('Sri Lanka', 'con')]"
+581,1119949182385709056,"[('Notre Dame', 'lan'), ('Sri Lanka', 'con')]"
+582,1119974627856539651,"[('Sri Lanka', 'con')]"
+583,1050028052095348737,"[('safe place', 'oth')]"
+584,1119974633267171328,"[('India', 'con'), ('Sri Lanka', 'con'), ('Colombo', 'ctc')]"
+585,1119950266382594048,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('United States', 'con'), ('Sri Lanka', 'con')]"
+586,1119970721030115328,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+587,1050246228989173760,"[('military base', 'lan')]"
+588,1049838330483896321,[]
+589,1049750093237125120,"[('coastal', 'reg'), ('Levy Co.', 'oth'), ('CedarKey', 'ctc'), ('Yankeetown', 'ctc'), ('Suwannee River', 'oth'), ('Bronson Elementary School', 'lan'), ('Levy Co', 'oth'), ('Bronson', 'ctc'), ('Williston', 'ctc'), ('Chiefland', 'ctc'), ('Inglis', 'ctc'), ('OtterCreek', 'ctc'), ('Morriston', 'ctc')]"
+590,1119971123980947457,"[('Sri Lanka', 'con'), ('world', 'oth')]"
+591,1050231056278974464,"[('Florida', 'sta'), ('Panhandle', 'reg'), ('Florida', 'sta')]"
+592,1050216205116735488,"[('US', 'con')]"
+593,1050385820140662786,"[('Mexico Beach', 'ctc'), ('Florida', 'sta')]"
+594,1050095381441368064,[]
+595,1050163789755117568,"[('FL', 'sta')]"
+596,1119953392414203904,"[('Sri Lanka', 'con')]"
+597,1049801713291538436,"[('Florida Panhandle', 'reg')]"
+598,1050219644584226816,[]
+599,1050192231808856064,"[('arena', 'lan'), ('US', 'con')]"
+600,1050280357290004482,"[('Leon County', 'oth')]"
+601,1050083889161625600,"[('Tyndall AFB', 'lan'), ('Michael s eye wall', 'oth')]"
+602,1119956407737028609,"[('church', 'lan'), ('hotels', 'lan'), ('Sri Lanka', 'con')]"
+603,591902988374933504,"[('Nepal', 'con')]"
+604,1050322260278403072,"[('Georgia', 'sta'), ('Carolinas', 'sta')]"
+605,1050122898957053953,"[('Talahassee', 'ctc')]"
+606,1050133248125349888,[]
+607,1050390513663262721,"[('Florida', 'sta')]"
+608,1050058828606332930,"[('Alabama', 'sta')]"
+609,1049961049192099841,"[('Gulf of Mexico', 'reg'), ('Panama City', 'ctc'), ('FL', 'sta'), ('Tyndell AFB', 'lan'), ('Panama City', 'ctc')]"
+610,1050159056189620225,[]
+611,1050257189129134081,[]
+612,1119970259287646208,"[('Sri Lanka', 'con')]"
+613,1050302718382886912,[]
+614,296488229526437889,"[('Queensland', 'sta'), ('Australia', 'con')]"
+615,1119973664462704642,"[('Sri Lanka', 'con')]"
+616,1049804886039298050,[]
+617,1050280497883074561,"[('Saudi Arabia', 'con')]"
+618,1049963798034087937,"[('RiggsReport', 'lan'), ('gulf', 'reg')]"
+619,1050097516497293313,[]
+620,1040003432856182784,"[('FAYETTEVILLE', 'ctc')]"
+621,1049960033897861120,"[('landfall', 'ctc')]"
+622,1050363785960148992,"[('Southeast', 'reg')]"
+623,1050061595601235968,"[('UK', 'con'), ('Britain', 'con')]"
+624,1119972183906947078,"[('churches', 'lan'), ('hotels', 'lan'), ('Sri Lanka', 'con')]"
+625,1119950363199791105,"[('Sri Lanka', 'con'), ('United States', 'con'), ('Sri Lanka', 'con')]"
+626,1050074691044593670,"[('Florida', 'sta'), ('coast', 'reg'), ('landfall', 'lan')]"
+627,1049967968090816513,[]
+628,1119970950970335232,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+629,1119972393550790658,"[('Tamil Nadu', 'sta'), ('Middle East', 'reg'), ('UAE', 'oth'), ('Saudi', 'con'), ('Qatar', 'con'), ('Kuwait', 'con')]"
+630,1119970320562016256,"[('Sri Lanka', 'con')]"
+631,1050107660551491591,"[('campus', 'lan')]"
+632,1049749049509728256,[]
+633,1049896432633880576,"[('Florida', 'sta')]"
+634,1119970966728101891,"[('SriLanka', 'con'), ('St Anthony Church', 'lan'), ('Colombo', 'sta')]"
+635,1050081414320926723,[]
+636,1050030594216878085,"[('shelter', 'oth')]"
+637,1050187171972427776,"[('Georgia', 'sta')]"
+638,1049970327898476544,[]
+639,1119956153495015424,"[('India', 'con'), ('Sri Lankan', 'con')]"
+640,295747409932328960,"[('track', 'lan'), ('emeraldlakes', 'ctc'), ('queensland', 'sta'), ('oswald', 'ctc')]"
+641,1049919311618473985,"[('hurricane', 'sta'), ('moon', 'oth'), ('jupiter', 'oth'), ('mercury', 'oth'), ('venus', 'oth'), ('neptune', 'oth')]"
+642,1119949887548694528,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan')]"
+643,1119975770401792002,"[('srilanka', 'con')]"
+644,1050094872466771969,[]
+645,1049748692025135104,"[('37th Ave', 'oth'), ('Gulf Boulevard', 'oth')]"
+646,591903245716443137,"[('Katmandu', 'ctc')]"
+647,1050226168606183425,"[('Florida', 'sta'), ('Southeast', 'reg')]"
+648,1050286730090348546,"[('Hurricane', 'sta')]"
+649,1119973827662897152,"[('Sri Lanka', 'con'), ('church', 'lan')]"
+650,1050083487305388036,[]
+651,1050376074314600448,"[('Tree', 'lan'), ('driveway', 'lan'), ('Power Line', 'lan'), ('Telephone Line', 'lan')]"
+652,1050029125929459712,"[('Florida', 'sta'), ('U.S.', 'con')]"
+653,1119951430721261570,"[('Sri Lanka', 'con'), ('churches and hotels', 'lan'), ('United States', 'con'), ('Sri Lanka', 'con')]"
+654,1050286175297130498,"[('Mexico Beach', 'ctc'), ('beach', 'reg'), ('FloridaPanhandle', 'reg'), ('oldflorida', 'reg')]"
+655,1049847051784245249,"[('TUPELO', 'ctc')]"
+656,1049995920203534337,"[('Creek', 'ctc'), ('Creek', 'ctc')]"
+657,1119973374862745601,"[('Sri Lanka', 'con'), ('place of worship', 'lan')]"
+658,1049907610437206016,"[('Florida', 'sta')]"
+659,1050032619629338624,"[('Florida', 'sta')]"
+660,1119954647249240065,"[('sri lanka', 'con'), ('The world', 'oth')]"
+661,1050037445683761152,"[('FL', 'sta'), ('panhandle', 'reg')]"
+662,1050070480097558529,"[('Panama City', 'ctc')]"
+663,1049996276195086336,"[('Alabama', 'sta'), ('Bass Trail', 'lan')]"
+664,1050026343252074501,[]
+665,1050208757391810560,[]
+666,1049902605005144065,"[('panhandle', 'reg')]"
+667,1049964102624399360,"[('Shaw AFB', 'lan'), ('Sumter', 'ctc')]"
+668,1050076107330981892,"[('Florida', 'sta')]"
+669,1050181323279732736,[]
+670,1050069968337793025,"[('Waffle House', 'lan'), ('Florida', 'sta'), ('locations', 'lan')]"
+671,1049853702100660224,"[('Florida', 'sta')]"
+672,1119969932534353920,"[('Sri Lanka', 'con')]"
+673,1050068766338555904,"[('SCStateFair', 'oth'), ('Midlands', 'reg')]"
+674,1119969943834058755,"[('SriLanka', 'con')]"
+675,1050066754335064065,"[('SriLanka', 'con'), ('FloridaPanhandle', 'reg')]"
+676,1050178337220583426,"[('Erie , Pennsylvania', 'ctc')]"
+677,1050386243559809024,"[('North Carolina', 'sta')]"
+678,1119955118030352385,"[('Sri Lanka', 'con')]"
+679,1050023694062546944,[]
+680,1049963905680887808,"[('Florida', 'sta')]"
+681,1119969628065804293,"[('Sri Lanka', 'con')]"
+682,1119952235394260992,"[('sri lanka', 'con')]"
+683,1049837880707862528,[]
+684,1119969696906747905,"[('Sri Lanka', 'con'), ('Churches and Hotels', 'lan'), ('Churches', 'lan')]"
+685,1050164179301228545,"[('Puerto Rico', 'oth')]"
+686,1050035394677493761,"[('Florida', 'sta')]"
+687,1050373617572335616,"[('U.S.', 'con')]"
+688,1119971079462604800,"[('churches', 'lan'), ('SriLanka', 'con'), ('your door step', 'oth')]"
+689,1049853691312914437,"[('BigBend', 'ctc'), ('Florida', 'sta')]"
+690,1119971782541369344,"[('Sri Lanka', 'con'), ('churches', 'lan')]"
+691,1050095935190110209,"[('Florida', 'sta')]"
+692,1050089866950656000,[]
+693,1050329186513113088,"[('Roofs', 'oth'), ('neighborhoods', 'ctc')]"
+694,1049804476264124416,"[('Florida', 'sta')]"
+695,1050375167040544768,"[('Florida', 'sta'), ('panhandle', 'reg'), ('Montreal', 'ctc')]"
+696,1050101599392227329,[]
+697,1050146475265728513,[]
+698,1050075870919057408,"[('Florida', 'sta')]"
+699,1049947485957959680,[]
+700,1050192294232645634,[]
+701,1050369016395689984,[]
+702,1119971164695220224,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+703,1119971739377618944,"[('mosques', 'lan'), ('Sri Lanka', 'con')]"
+704,295389782417211393,"[('Brisbane Airport', 'lan'), ('Toombul road', 'oth')]"
+705,1119952507311095808,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan'), ('United States', 'con'), ('Sri Lanka', 'con')]"
+706,591903259004182530,"[('Nepal', 'con')]"
+707,1040005376219996160,"[('coast', 'reg')]"
+708,1119972016893911044,[]
+709,591903087473885184,"[('Panaoti', 'con'), ('Nepal', 'con')]"
+710,1119974936989167616,"[('Sri Lanka', 'oth'), ('Sri Lanka', 'oth'), ('India', 'con')]"
+711,1050126479001042949,"[('858th 888th Minute', 'oth'), ('Towers 858', 'oth'), ('Hurricane Michael 888', 'oth'), ('Gematria The 858th Minute is 2 18pm', 'oth'), ('PANIC 218', 'oth'), ('TRUMP 218', 'oth'), ('Year 2018', 'oth')]"
+712,1119951838713925632,"[('iglesias', 'lan'), ('Sri Lanka', 'con')]"
+713,1119951350400471041,"[('Sri Lanka', 'con'), ('Christchurch', 'ctc'), ('Mumbai', 'ctc')]"
+714,1119956132150169603,"[('Sri Lanka', 'con'), ('world', 'reg')]"
+715,1119965195504422913,[]
+716,1050002053693505536,[]
+717,1119950770030256128,"[('Sri Lanka', 'con')]"
+718,1050044539765972994,"[('Florida', 'sta'), ('Louisiana', 'sta')]"
+719,1050135443226935301,[]
+720,1049998901447716864,[]
+721,1119971199910596609,"[('United States', 'con'), ('Sri Lanka', 'oth'), ('churches', 'lan'), ('hotels', 'lan')]"
+722,1050084748373176325,"[('Florida', 'sta')]"
+723,1050281010275987458,"[('SE United States', 'reg')]"
+724,1050118040602517509,"[('I 10 near 301.', 'oth')]"
+725,1050051896067719176,"[('Panama City', 'ctc'), ('Florida', 'sta')]"
+726,1050351465204731904,[]
+727,1049971592346787845,[]
+728,1050138503189811200,"[('Florida', 'sta')]"
+729,1119972036057739264,"[('NZ', 'oth'), ('mosque', 'lan'), ('SriLanka', 'con'), ('buildings', 'lan')]"
+730,1050138948176150533,"[('U.S.', 'con'), ('Florida', 'sta'), ('Panhandle', 'ctc')]"
+731,1050070156389568512,"[('WaffleHouse', 'lan'), ('Wafflehouse', 'lan'), ('FL', 'sta'), ('Panhandle', 'ctc')]"
+732,591903394551463936,"[('India', 'con'), ('Nepal', 'con')]"
+733,1119970704919879681,"[('Sri Lanka', 'con')]"
+734,1119950676392472576,"[('Sri Lanka', 'con')]"
+735,1049780852543107072,"[('tampabay', 'ctc')]"
+736,1050116862325985280,"[('landfall', 'oth')]"
+737,1050115359456391168,"[('Florida Panhandle', 'reg')]"
+738,1119970812596035584,"[('NZ', 'con'), ('SriLanka', 'oth'), ('buildings', 'lan')]"
+739,1050089358211080193,"[('the panhandle', 'reg')]"
+740,1050108073111683073,"[('houston', 'ctc')]"
+741,1050219515068452864,[]
+742,1049816882721816576,[]
+743,1050127844028895234,"[('Florida', 'sta')]"
+744,1050111463359172609,[]
+745,1050060888009523201,"[('CNN News', 'lan'), ('Tallahassee', 'ctc'), ('Florida', 'sta')]"
+746,1119954591532093440,"[('Sri Lanka', 'con'), ('churches and hotels', 'lan'), ('India', 'con'), ('Sri Lanka', 'con')]"
+747,1119952983461023752,"[('island', 'lan'), ('Sri Lanka', 'con')]"
+748,1050385818446114817,"[('northeast', 'reg'), ('Florida', 'sta')]"
+749,1049839287078801408,[]
+750,295799176866983936,"[('Australia', 'con')]"
+751,591902847370792960,"[('Nepal', 'con')]"
+752,1119974769674338305,"[('Sri Lanka', 'con')]"
+753,1050081075928715265,"[('stock market', 'lan')]"
+754,1050031996364193795,[]
+755,1119949134025383937,"[('Sri Lanka', 'con')]"
+756,1119972859319812098,"[('SRI LANKA', 'con'), ('Churches', 'lan'), ('luxury hotels', 'lan')]"
+757,1050079413965123584,"[('Florida', 'sta')]"
+758,1050136786461253632,[]
+759,591903361340866560,[]
+760,1050019343436828674,"[('Cuba', 'oth')]"
+761,1119971168574943232,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+762,1050034235447410689,"[('Florida Panhandle', 'reg')]"
+763,1050109051785400322,"[('SE', 'reg'), ('GA', 'sta'), ('NE', 'reg'), ('Florida', 'sta'), ('SE', 'reg'), ('GA', 'sta'), ('NE', 'reg'), ('FL', 'sta')]"
+764,1050068148794339330,"[('Mexico Beach', 'ctc'), ('FL', 'sta')]"
+765,1119971561392394240,[]
+766,1119971024571916293,"[('SriLanka', 'con')]"
+767,1050057361510027264,"[('Charlotte', 'ctc')]"
+768,1049860219247972352,"[('N.C.', 'sta')]"
+769,591902885375447040,"[('Nepal', 'con'), ('No Mans Land', 'oth')]"
+770,1119951309145300993,"[('hotels and churches', 'lan'), ('Sri Lanka', 'con')]"
+771,1050078589796970496,"[('parking lot', 'oth')]"
+772,1050383134620098566,"[('FLORIDA', 'sta')]"
+773,1050143002537136128,"[('AMERICA', 'con')]"
+774,1119974591710019585,"[('Sri Lanka', 'con')]"
+775,1049836190902444032,"[('Florida', 'sta')]"
+776,1119974659695497216,"[('Sri Lanka', 'con'), ('Kochchikade Church', 'lan'), ('Katuwapitiya Church', 'lan'), ('Shangrila hotel', 'lan'), ('Cinnamon Grand Hotel', 'lan'), ('Kingsbury Hotel Church', 'lan'), ('Batticaloa', 'ctc')]"
+777,1050032653301403648,"[('Ocala', 'ctc'), ('FL', 'sta'), ('Florida', 'sta')]"
+778,1050052789080969216,[]
+779,1119973916603236354,"[('Sri Lanka', 'con')]"
+780,1050191747198914560,[]
+781,1050112667090849792,"[('Florida', 'sta'), ('panhandle', 'reg')]"
+782,1119949858746568710,"[('Sri Lanka', 'con')]"
+783,1050048618982531075,"[('Florida', 'sta')]"
+784,1050322470736158720,"[('home', 'lan')]"
+785,1050021361979146240,"[('Florida Panhandle', 'reg'), ('area', 'reg')]"
+786,1050139293124108289,"[('Florida', 'sta'), ('Chicago', 'ctc'), ('International Airport', 'lan')]"
+787,1050011781039415296,[]
+788,1050098617992826881,"[('landfall', 'lan'), ('Florida', 'sta')]"
+789,1050390092911661057,[]
+790,1050213055974510592,[]
+791,1050188897152630784,"[('Donalsonville', 'ctc'), ('Alabama', 'sta'), ('Georgia', 'sta'), ('Dothan', 'ctc'), ('Dothan', 'ctc'), ('Dothan', 'ctc')]"
+792,1049795007346032640,"[('Atlantic', 'oth'), ('Florida Panhandle', 'reg'), ('Big Bend', 'reg'), ('Georgia', 'sta'), ('Carolinas', 'sta'), ('southeast', 'reg'), ('Virginia', 'sta')]"
+793,1049945109943455745,"[('Walmart', 'lan')]"
+794,1050355481036886016,[]
+795,1049846764319240193,"[('New Jersey', 'sta'), ('Alabama', 'sta')]"
+796,1050383397183479809,"[('coastal area', 'oth'), ('Mexico Beach', 'ctc'), ('FL', 'sta')]"
+797,1050115976056983552,"[('roof', 'lan'), ('playhouse', 'lan')]"
+798,1119972704361287681,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+799,1050163664899231749,[]
+800,1050239493691908098,"[('Florida', 'sta'), ('Georgia', 'sta')]"
+801,1050239526726176770,[]
+802,1050060911673659392,"[('Florida', 'sta'), ('Panhandle', 'reg')]"
+803,1049963765125414912,"[('Florida', 'reg')]"
+804,1050157838234988544,"[('Panama City', 'ctc')]"
+805,1119972041891782656,"[('Florid', 'sta'), ('NOTRE DAME CATHEDRAL', 'lan')]"
+806,1119975813699518464,"[('SriLanka', 'con')]"
+807,295867393048211456,"[('Australia', 'con')]"
+808,1119974537972654080,"[('Sri Lanka', 'con'), ('Church', 'lan'), ('Church', 'lan')]"
+809,1119971845560606726,"[('NZ', 'con'), ('mosque', 'lan'), ('SriLanka', 'con')]"
+810,1050144515267407873,"[('Florida', 'sta')]"
+811,1050011926145708037,"[('panhandle', 'reg')]"
+812,1050241877507739649,"[('Florida', 'sta')]"
+813,1050170985280884737,"[('JacksonCounty', 'reg')]"
+814,1050155306783858688,"[('Florida', 'sta'), ('Erie', 'ctc'), ('Florida', 'sta')]"
+815,1049967659083816960,[]
+816,1119950664392687617,"[('churches', 'lan'), ('hotels', 'lan'), ('Sri Lanka', 'con')]"
+817,1050026934867034112,[]
+818,1050094586197098497,"[('Florida Panhandle', 'reg')]"
+819,1050085833636814854,"[('Florida Panhandle', 'reg')]"
+820,1050121049248071680,[]
+821,1050006407020507136,"[('hurricane', 'oth'), ('Florida', 'sta'), ('Panhandle', 'reg')]"
+822,1119949538809323520,"[('Sri Lanka', 'con'), ('country', 'reg')]"
+823,1050086198637678592,[]
+824,1119970489005428737,"[('SriLanka', 'con')]"
+825,1050076276881543170,"[('areas', 'reg')]"
+826,1050188527005130752,"[('Florida', 'sta'), ('PANAMA CITY', 'ctc'), ('USA', 'con')]"
+827,1049938984120537089,"[('Florida', 'sta')]"
+828,1119954092481241089,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan'), ('United States', 'con'), ('Sri Lanka', 'con')]"
+829,1119972381177438209,"[('Sri Lanka', 'con')]"
+830,1050234217085337600,[]
+831,1049883912003080193,[]
+832,1050067328271040514,"[('Waffle House', 'lan'), ('Florida', 'sta')]"
+833,1050090967355846662,"[('gulf coast', 'reg'), ('Mexico beach', 'reg'), ('Panama City', 'ctc'), ('Florida', 'sta')]"
+834,1050141696271368192,"[('Streets', 'lan'), ('Gulf Coast', 'reg'), ('Florida', 'sta'), ('Panhandle', 'reg'), ('United States', 'con')]"
+835,1050242250201079816,[]
+836,1049875009521537024,"[('Florida s panhandle', 'reg'), ('Fort Walton ,', 'ctc'), ('FL', 'sta'), ('Pensacola', 'ctc'), ('FL', 'sta'), ('Tallahassee', 'ctc'), ('FL', 'sta')]"
+837,1050091198461956097,"[('Pensacola', 'ctc'), ('Perdido Key', 'ctc')]"
+838,1050106348975742977,"[('Panama City Beach', 'ctc'), ('Fla.', 'sta'), ('houses', 'lan')]"
+839,1119950721934352384,"[('Sri Lanka', 'con'), ('Mosque attack', 'oth'), ('NZ', 'con'), ('Sri Lanka', 'con')]"
+840,1119973053209939970,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+841,1050168816167280641,"[('Florida', 'sta'), ('Panhandle', 'reg')]"
+842,1050300005339287552,[]
+843,1040003047110443009,"[('Alamance county', 'oth'), ('Texas', 'sta')]"
+844,1050084684540141568,"[('Atlantic', 'reg'), ('Mexico Beach', 'ctc'), ('Florida', 'sta')]"
+845,1119973229378957312,"[('churches', 'lan'), ('hotels', 'lan'), ('Sri Lanka', 'con')]"
+846,1119974879967817729,"[('Sri Lanka', 'oth'), ('place of worship', 'lan'), ('world', 'oth')]"
+847,1050218712144498688,[]
+848,1050123176221396992,"[('hallway', 'oth'), ('high school', 'lan'), ('shelter', 'lan'), ('Panama City Beach', 'ctc'), ('Florida', 'sta')]"
+849,1119953641425608705,"[('Sri Lanka', 'con')]"
+850,1050071874175205378,[]
+851,1049899833593454592,"[('Florida', 'sta')]"
+852,1119975397268107264,"[('SriLanka', 'con'), ('churches', 'lan'), ('Colombo', 'ctc'), ('Negombo', 'ctc'), ('hotels', 'lan')]"
+853,1119950471622549504,"[('Sri Lanka', 'con'), ('Pakistan', 'con'), ('Sri Lanka', 'con')]"
+854,1050220772701147136,"[('Raleigh', 'ctc')]"
+855,1119952189324021765,"[('world', 'reg'), ('hotels', 'lan'), ('churches', 'lan'), ('Sri Lanka', 'con')]"
+856,1119954675804012544,"[('Sri Lanka', 'con'), ('hotels', 'lan'), ('overpass', 'oth')]"
+857,1050067927410634752,"[('closet on middle floor', 'oth'), ('HurricaneMichael', 'oth'), ('Rosemarybeach', 'ctc')]"
+858,1050125126509973504,"[('home', 'lan')]"
+859,1050385303033196545,[]
+860,1119949472367349761,"[('SriLanka', 'con'), ('Churches', 'lan')]"
+861,1050056449194381312,"[('Florida', 'sta')]"
+862,1049880680077946880,[]
+863,1050120610813231108,[]
+864,1119969231280324608,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+865,1119956181949267968,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan'), ('United States', 'con'), ('Sri Lanka', 'con')]"
+866,1050114547871150080,[]
+867,1119962810732011520,"[('Sri Lanka', 'con'), ('churches', 'lan')]"
+868,1050293641447690240,"[('Charlotte', 'ctc')]"
+869,1119973185229746177,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+870,1050240220803858432,"[('path', 'lan')]"
+871,1050101784176418816,"[('Florida', 'sta'), ('Panhandle', 'reg')]"
+872,1050161570108583937,"[('ATLANTA', 'ctc')]"
+873,1119970642239967232,"[('Sri Lanka', 'con'), ('Churches and Hotels', 'lan'), ('Churches', 'lan')]"
+874,1119949679071059969,"[('sri lanka', 'con')]"
+875,1119950368715227136,"[('churches', 'lan'), ('hotels', 'lan'), ('Sri Lanka', 'con'), ('Christians', 'ctc')]"
+876,1049878447227592707,"[('FL panhandle , AL , MS', 'sta'), ('GA', 'sta'), ('Eastern seaboard', 'reg'), ('FL to New England', 'sta')]"
+877,591903091663863808,"[('Everest', 'lan'), ('Nepal', 'con')]"
+878,1119973420148645888,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+879,1119973682078728192,"[('Sri Lanka', 'con'), ('World', 'oth')]"
+880,1119955115241279490,"[('Sri Lanka', 'con'), ('Churches', 'lan'), ('Hotels', 'lan')]"
+881,1040005888516546561,"[('southwest', 'reg'), ('North Carolina', 'sta')]"
+882,1050175141072777216,"[('Lowcountry', 'reg')]"
+883,1049956876392251393,"[('FL', 'sta'), ('Panhandle', 'reg')]"
+884,1050082609521459200,[]
+885,1050137543545520128,"[('Florida', 'sta'), ('Jacksonville', 'ctc')]"
+886,1050152155133476864,[]
+887,1050153710184222720,[]
+888,1119950740867428352,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan')]"
+889,1119973747459489800,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+890,1050070244071337984,"[('upper', 'reg'), ('Florida', 'sta'), ('the area', 'reg')]"
+891,1050207169096966144,[]
+892,1050020751196209152,"[('coast', 'reg'), ('Midwest', 'reg')]"
+893,1119949694036324354,"[('Sri Lanka', 'con')]"
+894,1050014881288736768,"[('Florida', 'sta')]"
+895,1119971163524956160,"[('hotels', 'lan'), ('Sri Lanka', 'con')]"
+896,1119969421546496000,"[('churches', 'lan'), ('hotels', 'lan'), ('Sri Lanka', 'con')]"
+897,1050172392817987584,[]
+898,1050005937048735744,"[('Florida Panhandle', 'reg'), ('Watersound', 'ctc')]"
+899,1049822234511114240,"[('gulfcoast', 'reg')]"
+900,1050072941780561920,[]
+901,1050016177525858305,"[('Hurricane', 'oth')]"
+902,1050047856852312067,"[('Panama City', 'ctc')]"
+903,1050128283491291138,"[('Hurricane', 'sta')]"
+904,1049853969827319808,"[('FL', 'sta')]"
+905,1050081610660343808,[]
+906,296160225172525056,"[('Queensland', 'sta')]"
+907,1050219880631476224,"[('ProvidenceAnimalCenter', 'lan')]"
+908,1050385558524973056,[]
+909,1050118458766180353,"[('Florida', 'sta'), ('Southeastern United States', 'reg')]"
+910,1119974237991657472,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+911,1050118489887989760,"[('Nova Scotians', 'ctc')]"
+912,1049909929631465472,[]
+913,1050383065187581957,"[('Florida Panhandle', 'reg')]"
+914,1050374131798167557,"[('Apalachicola', 'ctc')]"
+915,1050386395636932608,[]
+916,1050304071138201600,"[('Florida', 'sta'), ('Mississippi', 'sta'), ('Alabama', 'sta'), ('Georgia', 'sta'), ('South Carolina', 'sta'), ('pharmacies', 'lan'), ('shelter', 'lan')]"
+917,1119956754152845312,"[('Churches', 'lan'), ('Nigeria', 'con'), ('Egypt', 'con'), ('SriLanka', 'con'), ('Hindu Temples', 'lan'), ('India', 'con'), ('Pakistan', 'con'), ('Bangladesh', 'con'), ('statue', 'lan'), ('Lucknow', 'ctc'), ('Bamiyan', 'ctc')]"
+918,1119955044021960704,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan')]"
+919,1050075754904485888,[]
+920,1119952484557107202,"[('Sri Lanka', 'con')]"
+921,1040001987516014595,"[('cells', 'oth')]"
+922,1050314182061694976,"[('Florida', 'sta'), ('Panhandle', 'reg')]"
+923,1050102596743127040,"[('Schools', 'lan')]"
+924,1050175043957915648,"[('outside', 'oth')]"
+925,1119954503091019776,"[('SRI LANKA', 'con'), ('Churches', 'lan'), ('luxury hotels', 'lan')]"
+926,1050039985271971840,"[('coastline', 'reg'), ('Florida', 'sta')]"
+927,1050065735840493568,"[('city', 'ctc'), ('city', 'ctc')]"
+928,1049917657737306112,"[('Gulf Coast', 'reg'), ('homes', 'lan')]"
+929,1050225927261745153,[]
+930,1050172882586935302,[]
+931,1050196480823320576,"[('Hurricane', 'oth'), ('tornado', 'oth')]"
+932,1119974257004617740,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+933,1119974270099021827,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+934,1050063543838679040,"[('Florida', 'sta')]"
+935,1050229919958126597,[]
+936,1050018165416181760,"[('Publix', 'lan'), ('stores', 'lan'), ('stores', 'lan')]"
+937,1050137223553667073,[]
+938,1050306523006689280,"[('Florida', 'sta'), ('PANAMA CITY , Fla.', 'ctc'), ('Florida', 'sta'), ('Georgia', 'sta'), ('Panhandle', 'reg')]"
+939,1049913697009881089,"[('Florida', 'sta')]"
+940,591903281049423872,"[('Simpani', 'ctc'), ('Pokhara', 'ctc')]"
+941,1050191522761723904,"[('Georgia', 'sta')]"
+942,1050189819647799296,"[('Georgia', 'sta')]"
+943,1050119334729801728,"[('Selfridge Air National Guard Base', 'oth'), ('Florida', 'sta')]"
+944,1050023363786215424,[]
+945,1049751470558588929,"[('NY NJ', 'sta'), ('Brooklyn', 'ctc'), ('hoboken', 'ctc'), ('njhurricane', 'sta'), ('noreaster', 'oth'), ('statenisland', 'ctc'), ('queens', 'reg')]"
+946,1050058768854241280,[]
+947,1050080437190762496,"[('Florida', 'sta')]"
+948,1050121054323167232,[]
+949,1119965098376880128,"[('Sri Lanka', 'con'), ('Notre Dame Cathedral', 'lan')]"
+950,1119949157920321536,"[('church', 'lan'), ('hotels', 'lan'), ('Sri Lanka', 'con')]"
+951,1119955245390553088,"[('Sri Lanka', 'oth'), ('churches', 'lan'), ('hotels', 'lan')]"
+952,1049887262098554880,[]
+953,1119969272950853635,"[('Sri Lanka', 'con'), ('New Zealand', 'con'), ('world', 'oth')]"
+954,1119974252214722561,"[('church', 'lan'), ('Sri Lanka', 'con')]"
+955,1050148730886860801,"[('Georgia', 'sta')]"
+956,1050193144300666881,"[('Wakulla County', 'oth')]"
+957,1050147385761026048,[]
+958,1049932262526083073,[]
+959,1050050285719212032,"[('Florida', 'sta')]"
+960,1119969506682531840,"[('Sri Lanka', 'con')]"
+961,1050184807857180672,"[('Hurricane', 'oth'), ('Mexico Beach , Florida', 'oth')]"
+962,1119965080098099205,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan')]"
+963,1050140369390895105,[]
+964,1050286272269430785,"[('buildings', 'lan'), ('buildings', 'lan')]"
+965,1049811933447241728,"[('Florida', 'sta'), ('area', 'reg')]"
+966,1050015871098413057,"[('St. Kitts', 'oth')]"
+967,1050008885447208960,[]
+968,1119956644689891333,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan'), ('United States', 'con'), ('Sri Lanka', 'con')]"
+969,1050223460931244033,"[('Columbus', 'ctc')]"
+970,1050179915453263872,"[('Florida', 'sta')]"
+971,1050048687282548737,"[('Alabama', 'sta'), ('Farley nuke plant', 'lan')]"
+972,1119949874429087744,"[('Sri Lanka', 'con')]"
+973,1050151684620476417,[]
+974,1050085250037161985,"[('Tyndall AFB', 'lan'), ('east', 'oth'), ('Panama City , Florida', 'ctc'), ('blue circle drawn', 'oth')]"
+975,1049982179802079232,[]
+976,1049843649641672704,[]
+977,1119972719028854784,"[('NZ', 'con'), ('mosque', 'lan'), ('SriLanka', 'con'), ('buildings', 'lan')]"
+978,1119974363292418048,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+979,1050093538850066434,[]
+980,1119949608111747072,"[('Sri Lanka', 'con'), ('churches , hotels', 'lan')]"
+981,1119950393457266689,"[('Sri Lanka', 'con')]"
+982,1050215368457969664,"[('states', 'reg'), ('south', 'oth')]"
+983,1119974624303779840,"[('hotel', 'lan'), ('Sri Lanka', 'con')]"
+984,1050082262874824710,[]
+985,1050029820741083137,"[('gulf coast', 'reg')]"
+986,1050066054888738816,"[('HurricaneMichael', 'oth'), ('Saint Peter s Catholic School', 'lan')]"
+987,1050129257752608781,[]
+988,1119950750757654528,"[('Sri Lanka', 'con')]"
+989,1050081938470506497,"[('Florida', 'sta')]"
+990,1119956859849408512,"[('Sri Lanka', 'con'), ('churches and hotels', 'con'), ('United States', 'con'), ('Sri Lanka', 'con')]"
+991,1050100001018392576,"[('Hurricane Michael', 'oth')]"
+992,1050017671973150720,"[('FloridaPanhandle', 'reg')]"
+993,1050081967704866817,"[('hometown', 'oth')]"
+994,1119974859704954880,"[('PC', 'ctc'), ('SriLanka', 'con')]"
+995,296099577348624384,"[('Australia', 'con')]"
+996,1040002033900814336,"[('river', 'lan'), ('Carolinas', 'reg'), ('southern and central Appalachians', 'reg'), ('coast', 'reg'), ('inland', 'reg')]"
+997,1119951399436128257,"[('churches and hotels', 'lan'), ('Sri Lanka', 'con')]"
+998,1049834695205285888,"[('FL', 'sta'), ('Florida', 'sta'), ('Gulf', 'reg'), ('Florida', 'sta'), ('Panhandle', 'reg')]"
+999,1050071278701473795,"[('Florida', 'sta'), ('Carolina', 'sta'), ('Florence', 'ctc')]"
+1000,1049955262055047168,"[('University of West Florida', 'lan'), ('National Hurricane Center', 'lan')]"
+1001,1119950549745643525,"[('Sri Lanka', 'con')]"
+1002,1050282396036280320,"[('Atlantic', 'reg'), ('FL Panhandle', 'reg'), ('GA', 'sta')]"
+1003,1119974374721957888,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+1004,1040004173368983552,"[('US', 'con'), ('US', 'con'), ('China', 'con'), ('US', 'con'), ('US', 'con')]"
+1005,1050162703371816961,"[('Carolinas', 'sta')]"
+1006,296955498148806658,"[('Queensland', 'sta')]"
+1007,1050028176066383873,"[('Waffle House', 'lan'), ('Panama City Beach', 'ctc')]"
+1008,1050119964269658118,"[('Mexico Beach', 'ctc')]"
+1009,1050025007751909376,"[('Florida', 'sta'), ('Panhandle', 'reg'), ('florida', 'sta')]"
+1010,1050376811853430786,"[('Florida', 'sta'), ('US', 'con')]"
+1011,1119952301228273664,"[('Sri Lanka', 'con')]"
+1012,1050223261915770880,"[('mountains', 'oth')]"
+1013,913973145773629440,"[('Vegas', 'ctc')]"
+1014,1119955844035174400,"[('Sri Lanka', 'con'), ('central Colombo', 'ctc')]"
+1015,1050163093140049921,[]
+1016,1119955196707262465,"[('church', 'lan'), ('church', 'lan'), ('hotel', 'lan'), ('Sri Lanka', 'con')]"
+1017,1040006007752192000,"[('South Carolina', 'sta')]"
+1018,1119950755555893249,"[('churches', 'lan'), ('hotels', 'lan'), ('Sri Lanka', 'con')]"
+1019,296180025714155520,"[('Queensland', 'sta')]"
+1020,1050115870197014528,"[('Atlantic', 'reg')]"
+1021,1050045373622996997,"[('Apalachicola', 'ctc'), ('FL', 'sta'), ('Gulf of Mexico', 'reg')]"
+1022,1050216309567381504,"[('Gulf Coast', 'reg'), ('Cancun', 'ctc')]"
+1023,1050056158348812288,"[('Florida', 'sta')]"
+1024,1119952668586176512,"[('Sri Lanka', 'con')]"
+1025,1050031390065131520,"[('Apalachicola', 'reg'), ('FL', 'sta')]"
+1026,1049982069479276546,[]
+1027,1050378498634907649,"[('homes', 'lan')]"
+1028,1119962977761783808,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan'), ('The United States', 'con'), ('Sri Lanka', 'con')]"
+1029,1049848218685755392,[]
+1030,1119971051528757248,"[('Sri Lanka', 'con'), ('churches', 'lan')]"
+1031,1119962818835562496,"[('Sri Lanka', 'con')]"
+1032,1049854679776206848,[]
+1033,1040003166002180099,"[('Atlanta', 'ctc'), ('GA', 'sta'), ('Atlanta', 'ctc'), ('GA', 'sta')]"
+1034,1119969067417440256,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan'), ('United States', 'con'), ('Sri Lanka', 'con')]"
+1035,1050155523088310274,"[('Tallahassee', 'ctc'), ('FL', 'sta')]"
+1036,1050063134399102977,[]
+1037,1050305547520471040,"[('Florida', 'sta')]"
+1038,1050348668421906432,[]
+1039,1050081156442537984,"[('East', 'reg'), ('Raleigh', 'ctc')]"
+1040,1050144054544093184,[]
+1041,1040003179746746369,"[('the ocean', 'oth'), ('Carolinas', 'sta'), ('coast', 'reg')]"
+1042,1050297782110744576,"[('Headland', 'ctc'), ('Alabama', 'sta')]"
+1043,1050121857788186624,[]
+1044,1050138164835176448,[]
+1045,1050180906974175232,"[('world', 'oth'), ('Atlantic', 'reg')]"
+1046,1050148706320822272,[]
+1047,1049839811618594816,[]
+1048,1050056063851122688,"[('Destin', 'ctc'), ('FL', 'sta')]"
+1049,1050156809057636353,"[('Structures', 'lan'), ('streets', 'lan'), ('Mexico Beach', 'ctc'), ('FL', 'sta')]"
+1050,1050041036003844096,"[('Hurricane', 'sta'), ('Florida', 'sta')]"
+1051,1050166225735692296,[]
+1052,1050159271361441792,"[('Florida', 'sta')]"
+1053,1119974346435391488,"[('Sri Lanka', 'con')]"
+1054,1050021854872817664,"[('Florida', 'sta')]"
+1055,1050165868368420865,"[('South', 'reg'), ('West', 'reg'), ('Florida', 'sta')]"
+1056,1119974086388613120,"[('Sri Lanka', 'con'), ('Mesopotamia', 'reg')]"
+1057,1050149085632765954,"[('Florida', 'sta')]"
+1058,1119951599885930496,"[('Sri Lanka', 'con')]"
+1059,1050110944309903360,[]
+1060,1050281704798253057,"[('Florida Panhandle', 'reg')]"
+1061,1050140471799046147,"[('Florida', 'sta')]"
+1062,1050072257643442176,"[('PanamaCity', 'ctc')]"
+1063,1050079247358939137,"[('Panama City', 'ctc')]"
+1064,1050099195850309632,"[('Florid', 'sta')]"
+1065,591903314486415360,"[('NEPAL', 'con')]"
+1066,1050362078211518465,[]
+1067,1049999911343837184,"[('Panhandle', 'reg')]"
+1068,1050205023353925632,[]
+1069,1119972828634394624,"[('mosques', 'lan'), ('Sri Lanka', 'con')]"
+1070,1119954687288053760,"[('Canada', 'con'), ('Sri Lanka', 'con')]"
+1071,1050354220342411264,"[('Georgia', 'sta')]"
+1072,1050028136979714048,"[('PanamaCity', 'ctc'), ('Apalachicola', 'ctc')]"
+1073,1050116526055931904,[]
+1074,1119974484134514688,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+1075,1049805039236190208,"[('Gulf of Mexico', 'reg'), ('Florida', 'sta'), ('Florida', 'sta')]"
+1076,1050294558259523584,"[('Panama City Beach', 'ctc'), ('Fl', 'sta'), ('roof', 'oth'), ('home', 'lan')]"
+1077,1050103861875277825,[]
+1078,1050159182358429696,[]
+1079,1119965240534413313,"[('church', 'lan'), ('Sri Lanka', 'con'), ('Malegaon', 'ctc'), ('Mecca Masjid', 'lan')]"
+1080,1050245412089724928,"[('Georgia', 'sta')]"
+1081,1119969758902775809,"[('Sri Lanka', 'con'), ('India', 'con'), ('Sri Lanka', 'con')]"
+1082,1119952896949460993,"[('Sri Lanka', 'con')]"
+1083,1119965138487074820,"[('SriLanka', 'con'), ('churches', 'lan'), ('hotels', 'lan')]"
+1084,1050094133585616896,"[('Florida', 'sta')]"
+1085,1050125555025219584,[]
+1086,1050033879942197248,"[('Florida', 'sta')]"
+1087,1049839832200110080,"[('Florida', 'sta'), ('impact zone', 'reg')]"
+1088,1119956246986096640,"[('Sri Lanka', 'con'), ('churches and hotels', 'lan')]"
+1089,1050300170951225345,"[('Gulf Coast', 'reg'), ('Florida , Alabama and Georgia', 'sta')]"
+1090,1050294512181014529,[]
+1091,1050097787944091648,[]
+1092,1119950709259108357,"[('churches', 'lan'), ('Sri Lanka', 'con')]"
+1093,1050146046821761024,"[('Ft Lauderdale', 'ctc'), ('Opal', 'ctc'), ('Florida', 'sta')]"
+1094,1050045659745640449,"[('FL Panhandle', 'reg')]"
+1095,1119974685104644101,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+1096,1050216639583506432,"[('New York', 'ctc')]"
+1097,1119970851284119552,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan')]"
+1098,1050036970347487233,"[('Wellness Centers', 'lan')]"
+1099,1049862492271374336,[]
+1100,296024314606673923,"[('Queensland', 'reg')]"
+1101,1050367160218980352,[]
+1102,1050042756658270210,"[('Florida', 'sta')]"
+1103,1050069548869738496,[]
+1104,1050052261026643968,"[('CNN', 'lan'), ('Hurricane Michael', 'oth')]"
+1105,1050054353703198720,"[('Georgia', 'sta')]"
+1106,1119950892642394112,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+1107,1050053270541086720,[]
+1108,591903347365412864,"[('Nepal', 'con')]"
+1109,1050040241535545344,"[('landfall', 'lan')]"
+1110,1119949215034003457,"[('churches', 'lan'), ('hotels', 'lan'), ('Sri Lanka', 'con')]"
+1111,1119969543466577920,"[('CHURCHES', 'lan'), ('hotels', 'lan'), ('Sri Lanka', 'con')]"
+1112,1119965051337826311,"[('SriLanka', 'con')]"
+1113,1119962891581440001,"[('Sri Lanka', 'con')]"
+1114,1119974819469103105,"[('Sri Lanka', 'con')]"
+1115,1049873124609744896,[]
+1116,1050133608705482752,"[('Florida', 'sta')]"
+1117,1050005437385494528,[]
+1118,1050279984068288512,"[('Atlantic', 'oth'), ('southeastern', 'reg'), ('U.S.', 'con')]"
+1119,1050104286711930880,"[('area', 'oth')]"
+1120,1050027442683998209,[]
+1121,1050344886401163265,"[('FL', 'sta'), ('homes', 'lan')]"
+1122,1050169677299810304,"[('Atlanta', 'ctc')]"
+1123,1119953745314373632,"[('Shnagri La hotel', 'lan'), ('Batticalao church', 'lan')]"
+1124,1119970512074092544,"[('Sri lanka', 'con')]"
+1125,1119969805216489472,"[('Sri Lanka', 'con')]"
+1126,296115428110004224,"[('Australia', 'oth')]"
+1127,1119969304848420864,"[('Sri Lanka', 'con')]"
+1128,1050138119885004800,[]
+1129,1119974770739699712,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+1130,1119974500504727554,"[('Sri Lanka', 'con'), ('Christchurch', 'ctc'), ('Malegaon', 'ctc'), ('Mecca', 'lan')]"
+1131,1119956077251039232,"[('Sri Lanka', 'con'), ('Notre Dame', 'lan'), ('Paris', 'ctc'), ('Quebec', 'oth'), ('New Brunswick', 'oth')]"
+1132,1119955893880119297,"[('Sri Lanka', 'con')]"
+1133,1050190903372115968,"[('Ga', 'sta')]"
+1134,1050073562227335168,[]
+1135,1119975042241134592,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+1136,1050089601761562624,[]
+1137,1119952675100078080,"[('Sri Lanka', 'con')]"
+1138,1119953425884643329,"[('Sri Lanka', 'con')]"
+1139,295782868091817986,"[('eastern Australia', 'reg')]"
+1140,1050305196331388928,"[('Florida', 'sta'), ('Southeast', 'reg')]"
+1141,1050027374870491136,"[('Waffle Houses', 'lan'), ('PCB', 'ctc')]"
+1142,1119954248161202176,"[('mosques', 'lan'), ('Sri Lanka', 'con')]"
+1143,1050040128251551744,"[('Florida', 'sta')]"
+1144,1050064501146554370,"[('Panama City', 'ctc'), ('Tyndall AFB', 'lan'), ('Apalachicola', 'ctc'), ('eyewall', 'reg'), ('coastline', 'reg')]"
+1145,1119971474947833856,"[('Sri Lanka', 'con'), ('world', 'reg')]"
+1146,1050024289804701696,"[('hospitals', 'lan')]"
+1147,1050280809339514880,"[('Trail', 'oth')]"
+1148,1119974144274259968,"[('churches', 'lan'), ('hotels', 'lan'), ('Sri Lanka', 'con')]"
+1149,1050370529717342208,[]
+1150,1050104946522243074,[]
+1151,1119970164274016256,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan'), ('The United States', 'con'), ('Sri Lanka', 'con')]"
+1152,1050170332945018880,[]
+1153,1050079256993255424,"[('Panama City', 'ctc'), ('hurricane', 'sta')]"
+1154,1119973005482872833,"[('Sri Lanka', 'con'), ('NZ', 'con')]"
+1155,1050051625820270592,"[('National Hurricane Center', 'lan')]"
+1156,1049924277506637825,"[('school', 'lan')]"
+1157,1040003212030484480,"[('Carolinas', 'sta'), ('St. Johns County', 'oth')]"
+1158,1049954500277088259,"[('Tarpon Springs', 'ctc'), ('Fire Department', 'lan')]"
+1159,1040002860006731779,"[('shelters', 'lan')]"
+1160,1119953112209534976,"[('Sri Lanka', 'con')]"
+1161,1119949279634833408,"[('Sri Lanka', 'con'), ('Christchurch', 'lan'), ('Malegaon', 'lan'), ('Mecca Masjid', 'lan')]"
+1162,1050330185235611648,[]
+1163,1049980778384412672,[]
+1164,1050018984219828225,"[('Panama City Beach', 'ctc'), ('FL', 'sta')]"
+1165,1119954146214457345,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan')]"
+1166,1049876893405761537,"[('Florida', 'sta')]"
+1167,1050027264962912258,[]
+1168,1050253009983336448,"[('Florence', 'ctc')]"
+1169,1050372696117252096,[]
+1170,1050020636079349760,"[('space', 'oth')]"
+1171,1119975250106753024,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+1172,1050345275645198336,"[('Storm', 'oth'), ('eye', 'oth')]"
+1173,1119956005377519618,"[('Sri Lanka', 'con')]"
+1174,1050080599816527874,[]
+1175,1050128838741676033,"[('Florida', 'sta'), ('Panhandle', 'reg')]"
+1176,1119969637519642630,"[('Sri Lanka', 'con'), ('Colombo', 'ctc')]"
+1177,1119973834201784325,"[('Churches', 'ctc'), ('Nigeria', 'con'), ('Egypt', 'con'), ('Temples', 'lan'), ('India', 'con'), ('Pakistan', 'con'), ('Bangladesh', 'con'), ('Buddha statue', 'lan'), ('Lucknow', 'ctc'), ('Bamiyan', 'ctc')]"
+1178,1050388891298160640,"[('Hurricane Michael s', 'oth')]"
+1179,1050356298502590465,[]
+1180,1049777099538460672,"[('Pensacola Beach', 'ctc'), ('Molino Park Elementary School', 'lan'), ('The Equestrian Center', 'lan')]"
+1181,1119975062906519553,"[('Sri Lanka', 'con')]"
+1182,1050126948821860352,"[('Tyndall Air Force Base', 'ctc')]"
+1183,1050098452129042432,"[('TyndallAFB', 'ctc'), ('Eglin AFB', 'oth')]"
+1184,1049910208103890944,[]
+1185,1050183823412129792,"[('Panama City Beach', 'ctc')]"
+1186,1050193401537269760,"[('in the Storm', 'oth')]"
+1187,1050130489489670146,[]
+1188,1050146377534078976,"[('Saudi Arabia', 'con')]"
+1189,1050164151237206016,"[('Southwest', 'reg'), ('GA', 'sta'), ('SE', 'reg'), ('Alabama', 'sta')]"
+1190,1119951331014447104,"[('Sri Lankan', 'con'), ('hotels', 'lan')]"
+1191,1050047179962941440,"[('india', 'con')]"
+1192,1049845229375885312,"[('Mandarin Middle', 'lan')]"
+1193,1119975055629230080,"[('Sri Lanka', 'con'), ('Churches', 'lan'), ('Hotels', 'lan'), ('Churches', 'lan')]"
+1194,1050168550172893185,"[('house', 'lan'), ('Tallahassee', 'ctc'), ('fence', 'oth'), ('Panama City', 'ctc'), ('Mexico', 'ctc')]"
+1195,1050127149821251584,"[('Florida Panhandle', 'reg')]"
+1196,1050037670758535170,"[('Charlotte', 'ctc'), ('towns', 'ctc'), ('parkway', 'lan')]"
+1197,1119951514154557440,"[('Sri Lanka', 'con')]"
+1198,1050194819778322433,"[('Northwest', 'oth'), ('Florida', 'sta')]"
+1199,1119949481825280008,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('Colombo', 'ctc')]"
+1200,1049996742777802752,"[('Middle', 'ctc'), ('GA.', 'sta')]"
+1201,1040003722170970112,"[('Virginia', 'sta'), ('Virginia', 'sta')]"
+1202,1049777769142513665,[]
+1203,1050032210852630528,[]
+1204,1119972909076893696,"[('hospital', 'lan'), ('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan')]"
+1205,1119956498258415616,"[('Sri Lanka', 'con')]"
+1206,1049869121788174336,"[('shelter', 'oth')]"
+1207,1119948770781945856,"[('India', 'con'), ('Sri Lanka', 'con'), ('Digvijay', 'oth')]"
+1208,1119971144352837632,"[('Sri Lanka', 'con'), ('Florida', 'sta')]"
+1209,295676404014653441,"[('Brisbane', 'ctc'), ('Queensland', 'oth'), ('Sydney', 'ctc')]"
+1210,1049991731389845505,"[('Florida', 'sta')]"
+1211,1119973586465431553,"[('Sri Lanka', 'con')]"
+1212,1050196032980684800,[]
+1213,1050162838919176192,"[('Florida', 'sta')]"
+1214,1050113461651263488,"[('Florida', 'sta'), ('panhandle', 'reg'), ('Gulf Coast', 'reg')]"
+1215,1049987109392707585,"[('indoors', 'oth')]"
+1216,1119949199209050113,"[('Sri Lanka', 'con')]"
+1217,1050290492146094080,[]
+1218,1119974420758564864,"[('Sri Lanka', 'con')]"
+1219,1119974751739400193,"[('churches', 'lan'), ('hotels', 'lan'), ('Sri Lanka', 'con')]"
+1220,1050043901338427393,"[('Earth Nullschool', 'oth')]"
+1221,1119975419485261824,"[('Sri Lanka', 'oth'), ('Sri Lanka', 'oth')]"
+1222,1049972356427452419,[]
+1223,1119951120128856064,"[('Sri Lanka', 'con')]"
+1224,1050082073850077185,[]
+1225,1040004526693117953,"[('South Carolina', 'sta'), ('Atlanta', 'ctc')]"
+1226,1049918250971226113,[]
+1227,1050084688788893696,[]
+1228,1119953275481141254,"[('Sri Lanka', 'con')]"
+1229,1050086727166103553,"[('coast', 'reg')]"
+1230,1050085585241686016,"[('Florida', 'sta'), ('Gulf Coast', 'reg')]"
+1231,1050045044781182982,[]
+1232,1050173518334361600,"[('Alabama , Georgia including Atlanta and South Carolina', 'sta'), ('Florida', 'sta'), ('Panhandle', 'reg')]"
+1233,1050034150571474945,[]
+1234,1040003139674370049,"[('free rooms', 'oth')]"
+1235,1119974350411538435,"[('churches', 'lan'), ('Colombo', 'ctc')]"
+1236,1119951520500305920,"[('church', 'ctc'), ('Sri Lanka', 'con'), ('Malegaon', 'ctc'), ('Mecca Masjid', 'lan')]"
+1237,1050141939914420225,"[('Columbia', 'ctc'), ('SC', 'sta')]"
+1238,1050125805358071809,"[('Florida', 'sta')]"
+1239,1119970660443480066,"[('Sri Lanka', 'con'), ('churches and hotels', 'lan'), ('United States', 'con'), ('Sri Lanka', 'con')]"
+1240,1119948744022265857,[]
+1241,1119950923592126470,"[('international', 'oth')]"
+1242,1119974158182637570,"[('Sri Lanka', 'con'), ('churches', 'lan')]"
+1243,1050100789010665474,"[('Panama City', 'ctc'), ('Miami', 'ctc')]"
+1244,296159421027975168,"[('Australia', 'con')]"
+1245,1119962953275457537,"[('Sri Lanka', 'con')]"
+1246,1050085186304704512,"[('Florida', 'sta')]"
+1247,1049775193131020288,[]
+1248,1050019145780252673,"[('CNNnewsroom', 'oth'), ('Panama City Beach', 'ctc'), ('Bay County', 'oth')]"
+1249,1050087024080896002,"[('Gulf Coast', 'reg'), ('northwest Florida', 'reg'), ('Panhandle', 'reg')]"
+1250,1049988786220863489,"[('south of the area', 'oth'), ('I 75', 'oth')]"
+1251,1050069703916445703,"[('Destin', 'ctc'), ('Panama City', 'ctc'), ('Florida', 'sta')]"
+1252,1050039416868261890,"[('Apalachicola', 'ctc'), ('fla.', 'sta'), ('Fla.', 'sta')]"
+1253,296185522110480384,"[('New South Wales', 'sta'), ('river', 'oth'), ('Queensland', 'sta')]"
+1254,1119951473784156165,"[('Sri Lanka', 'con'), ('India', 'con'), ('Sri Lanka', 'con')]"
+1255,1050146219190837248,"[('WhiteHouse', 'lan')]"
+1256,1050110617275822080,"[('Florida St.', 'sta'), ('FAMU', 'ctc')]"
+1257,592695062468898816,[]
+1258,1050170367833034752,[]
+1259,1119949681189183488,"[('Pakistani', 'oth'), ('Sri Lanka', 'con'), ('Pakistani', 'oth'), ('NotreDameCathedral', 'lan')]"
+1260,1049811851742236673,[]
+1261,1050137168956383232,"[('Florida', 'sta')]"
+1262,1050126683053936640,"[('Panama City Beach', 'ctc'), ('eastern', 'reg')]"
+1263,1040001949880512523,"[('Coastal', 'reg'), ('Wake Co', 'oth'), ('Raleigh', 'ctc'), ('Winston Salem', 'ctc'), ('LJVM Coliseum 2825 University Parkway', 'lan'), ('Wake Co', 'oth')]"
+1264,296582825602318336,"[('Australia', 'con')]"
+1265,1050140187773169665,[]
+1266,1050059931787788288,[]
+1267,1050181824721256449,"[('U.S.', 'con'), ('Florida', 'sta'), ('path', 'reg'), ('Los Angeles', 'ctc')]"
+1268,1119965187665211394,"[('Churches', 'lan'), ('hotels', 'lan')]"
+1269,1049902737641656320,[]
+1270,1119973435730350080,"[('Southeast Asia', 'oth'), ('Kerala', 'sta'), ('Tamil Nadu', 'sta')]"
+1271,1050039046234402816,"[('Florida', 'sta')]"
+1272,1050042564458500096,"[('Florida', 'sta'), ('Gulf Coast', 'reg')]"
+1273,1050086393332948992,"[('the water', 'lan'), ('beach', 'reg'), ('the water', 'lan')]"
+1274,1050029148025118721,[]
+1275,295761209746141184,"[('Queensland', 'sta')]"
+1276,1050017159324135425,"[('Florida Panhandle', 'reg'), ('Southwest Alabama', 'reg'), ('South Georgia', 'reg')]"
+1277,1049969829384478720,[]
+1278,1050108218184257537,[]
+1279,1119975737103147008,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+1280,1119969842633805827,"[('Sri Lanka', 'con')]"
+1281,1050057483518136322,"[('Florida coast', 'reg'), ('Panhandle', 'reg'), ('Panhandle', 'reg')]"
+1282,1050014543995437057,"[('gulf coast', 'reg')]"
+1283,1050074447267299328,"[('Florida', 'sta')]"
+1284,1049902355272093696,[]
+1285,1050028779240853505,"[('iran', 'con'), ('the coast', 'reg'), ('shelter', 'lan')]"
+1286,1119975835635732482,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+1287,1050071562647420928,"[('Apalachicola', 'ctc'), ('porch of the building', 'oth'), ('Water Street', 'oth'), ('Water Street', 'oth')]"
+1288,1050110345476526080,"[('Florida', 'sta')]"
+1289,1119973510468661248,"[('Sri Lanka', 'con'), ('Ireland', 'con'), ('Sri Lanka', 'con')]"
+1290,1119950825714069504,"[('Sri Lanka', 'con'), ('Churches', 'lan')]"
+1291,1050149460704153604,"[('Atlantic', 'reg')]"
+1292,1119954195073982464,"[('churches', 'lan'), ('Sri Lanka', 'con')]"
+1293,1050388491429928960,[]
+1294,1119951781570785280,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+1295,1050130903295565825,[]
+1296,1050164088083496960,[]
+1297,1119964984325263360,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+1298,1050028579310850050,"[('Florida', 'sta')]"
+1299,1050037264879943684,"[('inland', 'reg')]"
+1300,1119952535580807168,"[('Sri Lanka', 'con'), ('Churches', 'lan'), ('multi cultural locations', 'lan')]"
+1301,1119969845787987969,"[('Colombo', 'ctc'), ('Sri Lanka', 'con')]"
+1302,1050081982472830976,"[('Tallahassee', 'ctc'), ('Florida', 'sta')]"
+1303,1050111429779615746,"[('Florida panhandle', 'reg')]"
+1304,1050026477750603780,[]
+1305,1049917067502280704,"[('Georgia Power', 'lan')]"
+1306,1050360761074085890,[]
+1307,1050087949700882432,"[('Panama City', 'ctc'), ('inside', 'oth')]"
+1308,1050065277692628992,"[('Panama City Beach', 'ctc'), ('Florida', 'sta')]"
+1309,1119969969805176833,"[('church', 'lan'), ('Colombo', 'ctc'), ('Sri Lanka', 'con')]"
+1310,1050134012604366848,"[('Florida Handle', 'reg')]"
+1311,592849761885093889,"[('Nepal', 'con')]"
+1312,1119965085882044421,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+1313,1119975522384138240,"[('Sri Lankan', 'con')]"
+1314,1050114964533510144,"[('Augusta', 'ctc')]"
+1315,1049822722602258432,[]
+1316,1119972582785261569,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan'), ('The United States', 'con'), ('Sri Lanka', 'con')]"
+1317,1050187991644278784,"[('Florida', 'sta')]"
+1318,1050083095267999744,"[('landfall', 'oth')]"
+1319,1119952017739399168,"[('Sri Lanka', 'con'), ('Churches', 'lan'), ('Hotels', 'lan'), ('Churches', 'lan')]"
+1320,1050085646885416961,"[('GulfStatePark', 'oth')]"
+1321,1050283252609626113,[]
+1322,1050156098169245698,"[('Florida', 'sta'), ('TyndallAFB', 'lan')]"
+1323,1040004931111944192,"[('Waffle House Storm Center', 'lan')]"
+1324,1119951845873655809,"[('church', 'ctc'), ('Sri Lanka', 'con'), ('Malegaon', 'ctc'), ('Mecca Masjid', 'lan')]"
+1325,1050011483625717761,[]
+1326,1050054581357559809,"[('Ala.', 'sta'), ('Farley nuke plant', 'lan')]"
+1327,1049993916605296640,"[('Florida', 'sta')]"
+1328,1050223365917761536,[]
+1329,1050148170657931264,"[('White House', 'lan'), ('areas affected by Hurricane Michael', 'reg')]"
+1330,1119951487013203969,"[('churches', 'lan'), ('hotels', 'lan'), ('Sri Lanka', 'con')]"
+1331,1049886302370451456,"[('landfall', 'ctc')]"
+1332,1050150471137136642,"[('Georgia', 'sta')]"
+1333,1119952872639041536,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('Colombo', 'ctc')]"
+1334,1119965107751145473,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+1335,1049856697462738944,[]
+1336,1119955317121437696,"[('churches', 'lan'), ('hotels', 'lan'), ('Sri Lanka', 'con')]"
+1337,1119955329020596225,"[('sri lanka', 'con'), ('The world', 'oth')]"
+1338,1050075842976632832,"[('Panama City', 'ctc'), ('Florida', 'sta')]"
+1339,1050133018332020747,"[('Panama City', 'ctc'), ('Miami', 'ctc')]"
+1340,1050082578605240320,[]
+1341,591903252578312192,"[('Kathmandu', 'ctc'), ('airport', 'lan'), ('Nepal', 'con')]"
+1342,1050158320139554817,"[('a safe place', 'oth'), ('inland', 'reg')]"
+1343,295866925085503494,"[('Australia', 'con')]"
+1344,1040005242144911367,"[('east coast', 'reg'), ('Mississippians', 'sta')]"
+1345,1050051161594765314,"[('Leesburg Parts Department', 'lan'), ('locations', 'oth')]"
+1346,1050094532921106432,"[('AL', 'sta'), ('FL panhandle', 'reg'), ('south central Georgia', 'reg')]"
+1347,1049973456161447937,[]
+1348,1050198503866228736,"[('Florida Panhandle', 'reg')]"
+1349,1049953072351457280,[]
+1350,1049828922261692416,"[('cruise ships', 'oth'), ('Florida', 'sta')]"
+1351,1050031112427368451,"[('New Jersey', 'sta'), ('Alabama', 'sta')]"
+1352,1050361712506036224,"[('Canada', 'con')]"
+1353,1119965158959394817,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+1354,1049862469458554880,"[('10PM', 'oth'), ('coasts', 'reg')]"
+1355,1050120947674607618,[]
+1356,1050083341020610560,"[('area', 'oth')]"
+1357,1119955438810927104,"[('SRI LANKA', 'con')]"
+1358,1050068885137960960,"[('Landfall', 'lan')]"
+1359,1119949280834408451,"[('Sri Lanka', 'con')]"
+1360,1119973608779067393,"[('Sri Lanka', 'con')]"
+1361,1050005014159257600,"[('Florida', 'sta')]"
+1362,1050093167679340544,"[('gulf coast', 'reg'), ('interior areas', 'reg')]"
+1363,1119962956266184706,"[('Sri Lanka', 'con')]"
+1364,1050066528471830534,"[('Thomasville', 'ctc')]"
+1365,1050124951775195136,"[('Panama City zoo', 'lan')]"
+1366,1050042775176130561,"[('storm proof structures', 'lan')]"
+1367,1050162373292638208,"[('Panama City', 'ctc')]"
+1368,1119949760679464960,[]
+1369,1050140473195515904,[]
+1370,1050052600081641472,[]
+1371,1050048300294893568,"[('panhandle', 'reg'), ('Panama City', 'ctc')]"
+1372,1050078151190011904,"[('The National Hurricane Center', 'lan')]"
+1373,1040002443944386560,"[('International Space Station', 'oth'), ('east coast', 'reg'), ('ISS', 'oth')]"
+1374,1050193253314777088,"[('Tallahassee', 'ctc')]"
+1375,1119974428253622272,"[('SRI LANKA', 'con')]"
+1376,1050062896246546432,"[('Florida County', 'oth')]"
+1377,1119965036544450562,"[('SriLanka', 'con'), ('Churches', 'lan')]"
+1378,1050088354346360833,[]
+1379,1049920093935849472,[]
+1380,1119973221669978113,"[('hotels', 'lan'), ('churches', 'lan'), ('Sri Lanka', 'con')]"
+1381,1049917917184315392,"[('Florida s Gulf Coast', 'reg')]"
+1382,1050052071112810497,[]
+1383,1050069160527507456,[]
+1384,1050082512096112641,"[('Florida', 'sta')]"
+1385,1050280443843698688,"[('Pennsylvania', 'sta'), ('Hurricane', 'sta'), ('Florida', 'sta')]"
+1386,295759977841315840,"[('Queensland', 'sta'), ('Australian', 'con'), ('Sydney', 'ctc')]"
+1387,1119974838125223939,"[('Sri Lanka', 'con')]"
+1388,1050090024430067712,"[('Florida', 'sta')]"
+1389,1049981173215240192,[]
+1390,1049802574252138502,"[('Mike s Tree Company', 'lan'), ('homeowner', 'oth')]"
+1391,295799889357590528,"[('Australia', 'con')]"
+1392,1119970447196606465,"[('Diyanet Center of America', 'lan'), ('Sri Lanka', 'con')]"
+1393,1050068470451372032,"[('South Florida', 'reg')]"
+1394,1119949532215820288,"[('Sri Lanka', 'con'), ('hotels', 'lan'), ('churches', 'lan'), ('Colombo', 'ctc'), ('Batticaloa', 'ctc'), ('eastern part of country', 'reg')]"
+1395,1050016209792585728,"[('Louisiana', 'sta'), ('Gulf', 'reg'), ('FL', 'sta'), ('MS River', 'oth'), ('N.O . Lakefrt', 'oth')]"
+1396,295649385352667136,"[('Queensland', 'ctc')]"
+1397,1119965178966224896,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+1398,1119974209181114369,"[('Sri Lanka', 'con')]"
+1399,1050009297059569664,[]
+1400,1040006112462942208,"[('Garden City Beach', 'ctc')]"
+1401,1050202158870740993,"[('inland', 'reg')]"
+1402,1119950772698013696,"[('Sri Lanka', 'con')]"
+1403,1119955084572549120,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con'), ('world', 'oth')]"
+1404,1050235541562777600,[]
+1405,1050005495623245824,[]
+1406,1119971471730905088,"[('SRI LANKA', 'con'), ('Churches', 'lan'), ('hotels', 'lan')]"
+1407,1049852914624339968,"[('Hurricane Michael', 'oth')]"
+1408,1050159173055500288,"[('Florida', 'sta')]"
+1409,1050126133012746240,"[('Florida', 'sta')]"
+1410,1050184688202072065,"[('coast', 'reg')]"
+1411,1119952204687867905,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan')]"
+1412,1050281364585627648,"[('schools', 'lan')]"
+1413,1119968987184549888,"[('Sri Lanka', 'con'), ('church', 'lan'), ('synagogue , mosques and churches', 'lan')]"
+1414,1049955277741715456,"[('path', 'oth')]"
+1415,1049781448620814337,"[('Loganville', 'ctc')]"
+1416,1119950396280250368,[]
+1417,1119971469792956416,"[('SRI LANKA', 'con'), ('churches', 'lan'), ('hotels', 'lan'), ('Churches', 'lan'), ('Kochikade', 'lan'), ('St Sebastian', 'lan'), ('Hotels', 'lan'), ('Shangri La', 'lan'), ('Cinnamon Grand', 'lan'), ('Kingsbury', 'lan')]"
+1418,1119952451480825856,"[('Sri Lanka', 'con')]"
+1419,1050142324452454401,"[('Savannah Chatham County', 'oth'), ('Public School', 'lan')]"
+1420,1050206485110710273,[]
+1421,1119954908273369094,"[('The World', 'oth'), ('hotels', 'lan'), ('churches', 'lan'), ('SriLanka', 'con')]"
+1422,296126659566923776,"[('Queensland', 'con')]"
+1423,1050231063765770240,"[('Florida', 'sta'), ('Penn State', 'lan')]"
+1424,1050370177924308993,"[('U.S.', 'con'), ('Carolinas', 'sta'), ('MidAtlantic', 'reg')]"
+1425,1119973466101383168,"[('bridges', 'oth'), ('walls', 'oth')]"
+1426,1119952774584774661,"[('church', 'lan'), ('Sri Lanka', 'con'), ('Malegaon , Mecca', 'ctc')]"
+1427,1049980503938486273,"[('the path', 'reg')]"
+1428,1040003452762578945,"[('Charleston', 'ctc'), ('Downtown', 'ctc'), ('streets', 'oth')]"
+1429,1119953014524133376,"[('Sri Lanka', 'con'), ('Churches', 'lan'), ('Hotels', 'lan'), ('Churches', 'lan')]"
+1430,1050074855893336065,"[('onshore', 'reg'), ('US', 'con')]"
+1431,1119952307834089472,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan')]"
+1432,1050112928857382912,[]
+1433,1050116708332130306,[]
+1434,1049930833056997382,[]
+1435,592836892179169280,[]
+1436,1050132527623548928,[]
+1437,1119948941095784448,"[('Sri Lanka', 'con')]"
+1438,1119965206245851137,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+1439,1119955353343418368,"[('Sri Lanka', 'con')]"
+1440,1050302360948547585,"[('U.S.', 'con')]"
+1441,1050150644001038336,"[('US', 'con'), ('states', 'reg')]"
+1442,1050303340473708546,"[('Florida Panhandle', 'reg')]"
+1443,1050279397863944192,"[('centre', 'reg')]"
+1444,1119975219240873986,"[('Sri Lanka', 'con')]"
+1445,1119969926696058881,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan'), ('overpass', 'lan')]"
+1446,1119951087048458243,"[('Sri Lanka', 'con'), ('hotels', 'lan'), ('churches', 'lan')]"
+1447,1119965223895486469,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+1448,1119971108449439744,"[('Sri Lanka', 'con')]"
+1449,1049860351129542656,[]
+1450,1049784771935707137,"[('Shore Acres', 'ctc'), ('florida', 'sta'), ('florida', 'sta')]"
+1451,1050062091116302336,"[('the South', 'reg')]"
+1452,1050062192656175104,"[('GaStateParks', 'lan')]"
+1453,1050064952667529216,[]
+1454,1050081080932487169,"[('563 miles SW of Raleigh', 'oth')]"
+1455,1050367248492363776,[]
+1456,1119953072703197184,"[('world', 'reg'), ('Sri Lanka', 'con'), ('Church', 'lan')]"
+1457,1119955089672638464,"[('SRI LANKA', 'con'), ('Churches', 'lan'), ('hotels', 'lan')]"
+1458,1050371066248523777,"[('Tallahassee', 'ctc')]"
+1459,1050171251950571520,"[('landfall', 'reg'), ('Panama', 'ctc'), ('FL', 'sta')]"
+1460,1050061462029459456,"[('Panama City', 'ctc')]"
+1461,1050142821091426304,"[('Georgia', 'sta'), ('state', 'sta')]"
+1462,1050314449440174080,"[('West Columbia', 'ctc')]"
+1463,1050006102304325632,"[('land', 'oth'), ('interior , windowless room', 'oth'), ('highest floor', 'oth')]"
+1464,591902846892642304,"[('Everest', 'lan')]"
+1465,1050007467160207360,"[('Florida', 'sta'), ('Gulf Coast', 'reg')]"
+1466,1050118266344095746,[]
+1467,1119969133532274688,"[('Sri Lanka', 'con'), ('country', 'con')]"
+1468,1050274271807836160,"[('Florida', 'sta'), ('Georgia', 'sta'), ('Carolina', 'sta')]"
+1469,1049962767195824128,[]
+1470,1050140106516914176,[]
+1471,1050196895606468608,"[('homes', 'lan'), ('Tallahassee', 'oth')]"
+1472,1050095510378278912,[]
+1473,1119950596499337217,"[('hotel', 'lan')]"
+1474,1119973803746967555,"[('SRI LANKA', 'con'), ('Churches', 'lan'), ('hotels', 'lan')]"
+1475,1119971276766896130,"[('Sri Lanka', 'con')]"
+1476,1050103621268828160,"[('the path', 'reg')]"
+1477,1049984688423501827,[]
+1478,1119953367881666562,"[('Sri Lanka', 'con')]"
+1479,1050262233203298304,"[('costa', 'reg')]"
+1480,1049784945961566208,"[('office', 'oth')]"
+1481,1119965226445807618,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+1482,1050106360325595136,"[('Elbert County School District', 'oth')]"
+1483,1050122216640303104,"[('Panama City Beach', 'reg')]"
+1484,1050101374858526721,"[('Gatlinburg PigeonForge Tennessee', 'reg')]"
+1485,1119974193184088067,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan'), ('United States', 'con'), ('Sri Lanka', 'con')]"
+1486,1119949411071688704,"[('Sri Lanka', 'con'), ('Canada', 'con'), ('churches', 'lan'), ('hotels', 'lan')]"
+1487,1119956004043657218,[]
+1488,1050052415343534081,"[('Florida', 'sta')]"
+1489,1119968953319575552,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+1490,1049925324568432640,[]
+1491,1050118651691626498,"[('WhiteHouse', 'lan'), ('path', 'oth')]"
+1492,1050171153812267011,"[('Panama City', 'ctc')]"
+1493,1050142416441872384,"[('UK', 'con'), ('Florida', 'sta'), ('Southeastern', 'reg'), ('United States', 'reg')]"
+1494,1040005179746082816,"[('Southeastern coast', 'reg'), ('US', 'con')]"
+1495,1119974896774283264,"[('Shangri La hotel', 'lan'), ('second floor restaurant', 'oth'), ('Sri Lanka', 'con')]"
+1496,1049998859651489792,"[('Florida', 'sta')]"
+1497,1119956062281420800,"[('SriLanka', 'con')]"
+1498,1049827424232501248,"[('Florida', 'sta'), ('panhandle', 'reg')]"
+1499,1049958917814583296,[]
+1500,1050076606142849024,[]
+1501,1119969221302206464,"[('Catalonia', 'reg'), ('Sri Lanka', 'con')]"
+1502,1119953515907043329,"[('Sri Lanka', 'con')]"
+1503,1049981954492456960,"[('Florida', 'sta'), ('Panhandle', 'reg')]"
+1504,1050343181626339328,"[('Georgia', 'sta')]"
+1505,1050056883082592262,[]
+1506,1119951924067995648,"[('churches', 'lan'), ('hotels', 'lan'), ('Sri Lanka', 'con')]"
+1507,1049897172509044736,[]
+1508,1050073939047636999,"[('Mexico Beach', 'ctc'), ('FL', 'sta')]"
+1509,1050072365294530560,"[('FLORIDA', 'sta')]"
+1510,1050376074071351302,[]
+1511,1119956821618372608,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan')]"
+1512,1050137231359393793,"[('Florida', 'sta'), ('Coast', 'lan')]"
+1513,1050078525636706306,"[('Episcopal Day School', 'lan')]"
+1514,1119949421695967232,"[('Sri Lanka', 'con')]"
+1515,1050002169544478721,[]
+1516,1040002041446318080,"[('Lane College', 'lan')]"
+1517,1119974107968413696,[]
+1518,1040005516230111232,"[('CCS', 'lan'), ('Cabarrus County', 'lan')]"
+1519,1040001964682223616,"[('Space Station', 'oth')]"
+1520,1050358459953291269,[]
+1521,1119954418647150594,"[('Sri Lanka', 'con')]"
+1522,1050222578864988160,"[('Florida', 'sta'), ('Strike Zone', 'oth')]"
+1523,1050104793270771712,[]
+1524,296150227268816896,"[('Queensland', 'sta'), ('New South Wales', 'sta')]"
+1525,1049993192974749697,[]
+1526,1040004797024399361,"[('US Southeast', 'reg')]"
+1527,1119974935286419457,"[('Sri Lanka', 'con'), ('country', 'reg')]"
+1528,1050373545786822656,"[('school districts', 'reg')]"
+1529,1049855802956222466,"[('Hurricane', 'sta')]"
+1530,1119951598556520449,[]
+1531,1050055262172631040,"[('landfall', 'oth'), ('landfall', 'oth')]"
+1532,1050129320272904210,"[('Landfall', 'reg')]"
+1533,1050133933667565592,"[('Tallahassee', 'ctc')]"
+1534,1040001903327817728,"[('Atlantic', 'oth'), ('Gulf of Mexico', 'oth')]"
+1535,1049992235083804673,"[('Florida', 'sta'), ('panhandle', 'reg'), ('central', 'reg'), ('NC', 'sta')]"
+1536,1050203750034366464,[]
+1537,1119949464578482185,"[('Sri Lanka', 'con'), ('Canada', 'con'), ('churches', 'lan'), ('hotels', 'lan')]"
+1538,1050005042936320001,[]
+1539,1119969326151471107,"[('Sri Lanka', 'con')]"
+1540,1050151622381395969,"[('Alabama', 'sta'), ('Georgia', 'sta')]"
+1541,1119968981308149761,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+1542,1050359222762901506,"[('Taking Many', 'lan')]"
+1543,1049932548636172288,[]
+1544,295889995741417474,"[('states', 'oth'), ('Brisbane', 'ctc'), ('Australia', 'con')]"
+1545,1119953556629610497,"[('Sri Lanka', 'con'), ('Hospitals', 'lan')]"
+1546,1050108820498931713,"[('Florida Panhandle', 'reg')]"
+1547,1119952727923023877,"[('Sri Lanka', 'con')]"
+1548,1049919345239961602,"[('Florida Panhandle', 'reg')]"
+1549,1050121335693828098,[]
+1550,1050019766486921219,[]
+1551,1050331202010406918,"[('land', 'oth')]"
+1552,1119954475458990081,"[('Sri Lanka', 'con')]"
+1553,1050009185428103168,[]
+1554,1049918589086650368,"[('Florida', 'sta')]"
+1555,296121735042985984,"[('eastern Australia', 'reg')]"
+1556,1050074747965444096,"[('bar', 'lan')]"
+1557,1119974757393264640,"[('Sri Lanka', 'con')]"
+1558,1049921299563405314,"[('local', 'reg')]"
+1559,1119952331737653248,"[('churches', 'lan'), ('hotels', 'lan'), ('Sri Lanka', 'con')]"
+1560,1050067099786375168,"[('Mississippi', 'sta')]"
+1561,1050121173462372352,"[('Florida Panhandle', 'reg')]"
+1562,1119974752666492929,"[('Sri Lanka', 'con'), ('churches and hotels', 'lan'), ('United States', 'con'), ('Sri Lanka', 'con')]"
+1563,1050085250943148032,"[('America', 'con')]"
+1564,1050165885296623616,"[('Florida', 'sta'), ('coast', 'oth')]"
+1565,591902727044603904,[]
+1566,1050080563565142016,"[('Mobile', 'oth')]"
+1567,1050078507727024129,[]
+1568,1050200971043885056,"[('Pennsylvania', 'sta')]"
+1569,1050191318348156928,"[('Space Station', 'oth')]"
+1570,1119953532726255616,"[('Sri Lanka', 'con')]"
+1571,1119974184392777729,"[('Sri Lanka', 'con'), ('Church', 'lan'), ('NZ', 'con')]"
+1572,1050003873220325376,"[('Uwharrie National Forest', 'lan'), ('recreation sites', 'lan'), ('west', 'oth')]"
+1573,1049983775394938881,"[('Florida', 'sta'), ('Florida', 'sta')]"
+1574,1049863398035415040,[]
+1575,1050261167824916480,"[('Pennsylvania', 'sta'), ('Florida', 'sta')]"
+1576,1050079084259287040,"[('Florida', 'sta'), ('Panhandle', 'reg')]"
+1577,1049837032514707456,[]
+1578,1050330552925081600,"[('US Gulf', 'reg')]"
+1579,1040005522395721728,"[('Rose Garden', 'oth')]"
+1580,1050154533421080576,"[('world', 'reg'), ('NOAA', 'lan')]"
+1581,1119968973154656256,"[('Palestinian land', 'reg'), ('Notre Dame', 'lan'), ('Sri Lanka', 'con')]"
+1582,1050032772499288065,[]
+1583,296313671649464322,"[('Australia', 'con'), ('QUEENSLAND S', 'oth'), ('entire suburbs in Bundaberg', 'ctc')]"
+1584,1050038363489792001,"[('Hurricane', 'sta')]"
+1585,1040002032524918784,"[('PR', 'oth')]"
+1586,1050154775801671685,"[('all over', 'reg')]"
+1587,1119949530101964801,"[('Sri Lanka', 'con')]"
+1588,1050191265223139328,[]
+1589,1119955141606637568,"[('Sri Lanka', 'con'), ('churches', 'lan')]"
+1590,1050330642167287808,[]
+1591,1119952434535833600,"[('churches', 'lan'), ('Sri Lanka', 'con')]"
+1592,1049820512229027840,"[('Florida', 'sta')]"
+1593,1050211544217337856,[]
+1594,1119953570894417921,"[('Sri Lanka', 'con')]"
+1595,1119962750573146114,"[('Sri Lanka', 'con')]"
+1596,1050083527507742720,"[('Mexico Beach', 'ctc'), ('ashore', 'reg')]"
+1597,1119969617508614146,"[('Colombo', 'ctc')]"
+1598,1050018267501346816,[]
+1599,1050174829075357696,[]
+1600,1049776449790640128,"[('HurricaneMichael gawx storm11 https t.co FMAOzajaTo', 'oth'), ('Florida', 'sta')]"
+1601,1049775481611067397,[]
+1602,1049996480814055425,"[('florida', 'sta')]"
+1603,1049966925013544965,"[('Gulf Coast', 'reg')]"
+1604,1049957793074241536,"[('landfall', 'lan'), ('Florida', 'sta')]"
+1605,591902863376297985,[]
+1606,1119956433842393088,"[('statue of Our Lady', 'lan'), ('Katukurunda', 'ctc'), ('Kalutara', 'ctc'), ('Sri Lanka', 'con')]"
+1607,1049757364776292352,[]
+1608,591902810918264833,"[('Nepal', 'con'), ('corpus christi', 'ctc')]"
+1609,1050109443034243074,"[('window', 'oth'), ('building', 'lan'), ('hotel sign', 'oth'), ('McDonalds M', 'lan')]"
+1610,1119971573547450368,"[('Sri Lanka', 'con')]"
+1611,1119954680761790469,"[('Sri Lanka', 'con')]"
+1612,1050160134557769728,"[('Tallahassee', 'ctc')]"
+1613,1119968985380945920,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+1614,1119956310596956160,"[('Sri Lanka', 'con')]"
+1615,1050021828243181569,"[('National Response Coordination Center', 'lan'), ('DC', 'ctc'), ('Atlanta', 'ctc'), ('Florida', 'sta')]"
+1616,1050077750441205761,"[('Mexico Beach', 'ctc')]"
+1617,1050206186962870273,[]
+1618,1050187521542508544,"[('Panama City Wal Mart', 'oth')]"
+1619,1119965221572022273,[]
+1620,1119973888375521280,"[('Sri Lanka', 'con')]"
+1621,1050223320166219776,"[('USA', 'con')]"
+1622,1050133341737910272,"[('Florida', 'sta')]"
+1623,1119950783506788352,"[('Sri Lanka', 'oth'), ('Mesopotamia', 'oth')]"
+1624,1119970985225093120,"[('Sri Lanka', 'con'), ('church and hotel', 'lan')]"
+1625,1119973331086610433,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+1626,1119948905989443587,"[('NZ', 'con'), ('mosque', 'lan'), ('British', 'lan'), ('Sri Lanka', 'con'), ('churches', 'lan')]"
+1627,1119956714760101888,"[('churches', 'lan'), ('hotels', 'lan'), ('Sri Lanka', 'con')]"
+1628,1050255529099087872,"[('US', 'con')]"
+1629,1050067135203090439,"[('Whitehouse', 'lan')]"
+1630,1119974636496646144,"[('Sri Lanka', 'con')]"
+1631,1049949195384344576,[]
+1632,1050088310490759168,"[('MEXICO BEACH', 'ctc'), ('FLORIDA', 'sta')]"
+1633,1050140320858628096,[]
+1634,1049890723921846275,"[('PanamaCityBeach', 'ctc')]"
+1635,295812717590237184,"[('queensland', 'sta')]"
+1636,1049814687121063936,"[('Florida Panhandle', 'reg')]"
+1637,1050117714474340353,"[('Florida', 'sta')]"
+1638,1050140665798172672,"[('hotel', 'oth')]"
+1639,1050076457035272192,"[('Florida', 'sta')]"
+1640,1119951950340956160,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+1641,1049776169053278209,"[('Florida Panhandle s', 'reg')]"
+1642,1050021733011415040,"[('path', 'oth'), ('hurricane', 'oth'), ('path', 'oth')]"
+1643,1050261379138117632,"[('central georgia', 'sta')]"
+1644,1050371330644856832,"[('sky', 'oth'), ('Shell Point Beach', 'ctc'), ('FL', 'sta'), ('carolinas', 'sta'), ('fl', 'sta')]"
+1645,1050339875625549824,"[('The World', 'oth')]"
+1646,1050097412008742919,[]
+1647,1050354099407872000,"[('Hudson Valley', 'reg')]"
+1648,1050218211281645568,[]
+1649,1050078367830151170,"[('Mexico Beach', 'ctc'), ('Florida', 'sta')]"
+1650,1050074891733659650,[]
+1651,1049754102102614017,"[('NE Gulf Coast', 'reg')]"
+1652,1040003463831150593,"[('Space', 'oth')]"
+1653,1049882371317817344,"[('Florida', 'sta'), ('Panhandle', 'reg')]"
+1654,592942103296135168,"[('Lalitpur', 'ctc')]"
+1655,1119973853135089664,"[('Sri Lanka', 'con')]"
+1656,1049991071487455232,[]
+1657,1050162435334656000,"[('Florida', 'sta')]"
+1658,1050028192868814848,"[('Southeast', 'reg')]"
+1659,1119969039059693569,"[('Sri Lanka', 'oth'), ('Sri Lanka', 'oth')]"
+1660,1119954904511070208,"[('Sri Lanka', 'con'), ('bloqueia', 'lan'), ('igrejas', 'lan')]"
+1661,1050284894624989184,"[('Southeast', 'reg'), ('north Florida', 'reg')]"
+1662,1050083597091106817,"[('PanamaCityBeach', 'reg'), ('Florida', 'sta')]"
+1663,1119969140943609856,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+1664,1050079723810902016,"[('Panama City Beach', 'ctc'), ('Florida', 'sta')]"
+1665,1050089226140872704,[]
+1666,1050065838009667584,[]
+1667,1050056448397496325,[]
+1668,1050173083754135553,[]
+1669,1049993674078208002,"[('Florida', 'sta'), ('landfall', 'reg')]"
+1670,1050094222865502208,"[('US', 'con'), ('NWS', 'oth')]"
+1671,1050017812780122112,"[('Florida', 'sta')]"
+1672,1049821473513168896,[]
+1673,1119973256663109633,"[('Srilanka', 'con'), ('Church', 'lan'), ('heaven', 'oth')]"
+1674,1050052504044490752,[]
+1675,1119972016046727169,"[('churches', 'lan'), ('Sri Lanka', 'con')]"
+1676,591902958922702848,"[('Nepal', 'con')]"
+1677,1050054896077148160,"[('pool', 'oth')]"
+1678,1050150961535246336,"[('Florida', 'sta')]"
+1679,1050005979222421510,"[('nytimes', 'oth'), ('southeastern', 'reg'), ('U.S.', 'con')]"
+1680,1050078146798571520,"[('ashore', 'reg'), ('St. Vincent Island', 'oth'), ('Panama City', 'ctc'), ('FL', 'sta'), ('panhandle coast', 'reg')]"
+1681,1119949314950946816,[]
+1682,1119948662942130176,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan'), ('The United States', 'con'), ('Sri Lanka', 'con')]"
+1683,1119951349519720450,"[('SRI LANKA', 'con'), ('Churches', 'lan'), ('luxury hotels', 'lan')]"
+1684,1049972992678223872,"[('Panama city', 'ctc'), ('panhandle', 'reg')]"
+1685,1049930153831424000,[]
+1686,1050196381896503297,"[('Tyndall Air Force Base', 'lan')]"
+1687,1119969273433264133,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+1688,1050083971021905920,"[('Viersen', 'ctc')]"
+1689,1050363382271016960,[]
+1690,1050221845029548033,[]
+1691,1119954724936089602,"[('Sri Lanka', 'con')]"
+1692,1119954895900033025,"[('Sri Lanka', 'con')]"
+1693,1049812007640293376,"[('FL', 'sta')]"
+1694,1050014053257699328,"[('panamacity', 'ctc'), ('florida', 'sta')]"
+1695,1049958840605790208,"[('U.S.', 'con'), ('Florida', 'sta'), ('Panhandle', 'reg'), ('Hurricane', 'oth')]"
+1696,1050005689463128064,[]
+1697,1050112820258463751,"[('Coastal Waters', 'reg'), ('Tallahassee', 'ctc'), ('Jacksonville', 'ctc'), ('AtlantaGA', 'ctc')]"
+1698,1050078269347962880,"[('gulf', 'reg')]"
+1699,1050164214898282496,"[('Florida', 'sta'), ('Gulf Coast', 'reg')]"
+1700,1049976668515958789,"[('America', 'con')]"
+1701,1050039084079607810,"[('Maryland', 'sta')]"
+1702,1050185603231432704,"[('FL', 'sta'), ('US .', 'con')]"
+1703,1119971085087334401,"[('Sri Lanka', 'con'), ('Churches', 'lan'), ('Hotels', 'lan'), ('churches', 'lan'), ('hotels', 'lan'), ('Sri Lanka', 'con')]"
+1704,1119954382198583296,"[('churches', 'lan'), ('hotels', 'lan'), ('Sri Lanka', 'con')]"
+1705,1049820736515448832,"[('FL', 'sta')]"
+1706,1119969282874642437,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+1707,1050059624177721344,"[('MexicoBeach', 'con'), ('PanamaCity', 'ctc'), ('Pensacola', 'ctc'), ('Tallahassee', 'ctc'), ('Florida', 'sta')]"
+1708,1050210651606409216,"[('Midlands', 'reg')]"
+1709,1049973683119374336,"[('gulf', 'reg')]"
+1710,1050095612945989640,"[('Covington County', 'oth'), ('Alabama', 'sta'), ('Okaloosa county', 'oth'), ('Florida', 'sta')]"
+1711,1050038625822498818,"[('Florida Panhandle', 'reg')]"
+1712,1050060615417511937,"[('DeFuniak Springs', 'ctc'), ('landfall', 'reg')]"
+1713,1050153305001865217,[]
+1714,1049965012746407936,[]
+1715,1119971586705113090,"[('Sri Lanka', 'con')]"
+1716,1119971580283695104,"[('Sri Lanka', 'con'), ('Churches', 'lan')]"
+1717,1050016629327843328,[]
+1718,1050147529789231107,"[('Montgomery shelter', 'lan'), ('Aldersgate Church', 'lan'), ('6610 Vaughn Road', 'oth')]"
+1719,1050092998799872000,"[('cockpit', 'oth')]"
+1720,1050073014350503937,"[('Panama City Beach', 'ctc'), ('Florida', 'sta')]"
+1721,1050007590179094530,"[('Atlantic', 'reg'), ('Florida', 'sta'), ('Panhandle', 'reg')]"
+1722,1040001931597553664,"[('Puerto Ricans', 'oth')]"
+1723,591902800742916096,"[('Nepal', 'con'), ('Nepal', 'con')]"
+1724,1049972191633100800,"[('Hot Towers', 'lan')]"
+1725,1049820925347225601,[]
+1726,1050341363093364737,"[('South', 'reg')]"
+1727,1050370264247226368,[]
+1728,1050186846993620992,"[('Atlanta', 'ctc')]"
+1729,1050119970787602436,"[('Florida', 'sta'), ('Panhandle', 'reg')]"
+1730,1050028646226952197,[]
+1731,1049790318768467968,"[('landfall', 'lan')]"
+1732,1050132268403048466,"[('northern course', 'reg'), ('Nova Scotia', 'sta')]"
+1733,1050145088486199296,"[('House', 'lan')]"
+1734,1119969024467701760,"[('multiple churches', 'lan'), ('Sri Lanka', 'con')]"
+1735,1050211565071454208,[]
+1736,1119948720936714240,"[('houses of worship', 'lan'), ('Sri Lanka', 'con')]"
+1737,1119969284548177920,"[('communities', 'reg'), ('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+1738,1050307505778319360,"[('Florida', 'sta')]"
+1739,591903254562222080,"[('Nepal', 'con')]"
+1740,1049842907539107841,[]
+1741,1049843277950844939,[]
+1742,1050108101687414784,[]
+1743,1049992089130467328,[]
+1744,1119953430527655936,"[('Sri Lanka', 'con'), ('Pakistan', 'con'), ('Sri Lanka', 'con')]"
+1745,1049857555692843008,[]
+1746,1050328413406457856,[]
+1747,1050058829088661504,[]
+1748,1119955895658504196,"[('Periyamulla', 'ctc'), ('Negombo', 'ctc'), ('Sri Lanka', 'con'), ('home', 'lan')]"
+1749,1119970189817331713,"[('Christians', 'ctc'), ('mosques', 'lan'), ('Christians', 'ctc'), ('Sri Lanka', 'con')]"
+1750,1119975686142332928,"[('churches', 'lan'), ('Sri Lanka', 'con')]"
+1751,1050006585223929857,"[('shelter', 'oth'), ('Florida', 'sta')]"
+1752,1050045401540243457,"[('US', 'con')]"
+1753,1050364292300722176,[]
+1754,1050133988575256576,"[('PanamaCity', 'ctc')]"
+1755,295696120674398208,"[('Queensland', 'ctc')]"
+1756,1049918832205283330,"[('Atlantic', 'reg')]"
+1757,1050077134423842817,"[('Port St. Joe', 'ctc'), ('FL', 'sta')]"
+1758,295677387759300608,"[('Queensland', 'sta')]"
+1759,1119948688049094656,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan'), ('United States', 'con'), ('Sri Lanka', 'con')]"
+1760,295759300335390720,"[('regional', 'reg'), ('Australia', 'oth')]"
+1761,1119970780425666561,"[('hotel', 'lan')]"
+1762,1119951729536065536,"[('hotels', 'lan'), ('churches', 'lan')]"
+1763,1049846864705675267,"[('SriLanka', 'con')]"
+1764,1050051999172059137,[]
+1765,1050095552782888962,"[('inland', 'reg')]"
+1766,1050088591093878784,[]
+1767,1050128838817067009,"[('Emporia', 'ctc'), ('Florida', 'sta'), ('panhandle', 'reg')]"
+1768,1119950978541871104,[]
+1769,1119969344761389057,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+1770,1119950830336131074,"[('Sri Lanka', 'oth')]"
+1771,1049880223758655489,[]
+1772,1050257390388617216,"[('India', 'con'), ('Oman', 'con')]"
+1773,1119975429211918336,"[('Florid USA', 'sta'), ('Sri Lanka', 'con')]"
+1774,1040003479757090818,"[('German', 'con')]"
+1775,1119952552970346497,"[('Sri Lanka', 'con')]"
+1776,1049986456922595328,"[('Walmart', 'lan'), ('shelves', 'oth')]"
+1777,1049989853637685248,[]
+1778,1119948975967227906,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan'), ('United States', 'con'), ('Sri Lanka', 'con')]"
+1779,1119969361245028352,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+1780,1050024653366943745,"[('Gov Scotts office', 'oth'), ('Tallahassee', 'ctc'), ('FSU University', 'lan')]"
+1781,1119950439099904000,"[('Pakistani', 'con'), ('Sri Lanka', 'con'), ('Pakistani', 'con'), ('online forums', 'oth')]"
+1782,1050152220946255872,"[('U.S.', 'con'), ('Florida', 'sta'), ('Los Angeles', 'ctc'), ('Pennsylvania', 'sta')]"
+1783,1119956183937376256,"[('Sri Lanka', 'con'), ('church', 'lan')]"
+1784,591902705276313600,"[('Nepal', 'con')]"
+1785,1049913049417752576,[]
+1786,913976381155020800,"[('landfall', 'reg'), ('Las Vegas', 'ctc')]"
+1787,1049996089036804096,"[('landfall', 'reg'), ('Florida', 'sta'), ('panhandle', 'reg')]"
+1788,1050067280632139783,"[('Florida', 'sta'), ('Gulf Coast', 'reg')]"
+1789,1049843103991877633,[]
+1790,1050170887448739841,[]
+1791,1119973572380958720,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan')]"
+1792,1119973746431938560,[]
+1793,1119973054275178499,"[('Canadians', 'con'), ('Sri Lanka', 'con')]"
+1794,1119973395557437445,"[('bridges', 'lan')]"
+1795,1050076903883845632,"[('Hurricane Michael', 'oth')]"
+1796,1050028243116384256,"[('Florida', 'sta'), ('USA', 'con')]"
+1797,1119953363184099334,"[('Sri Lanka', 'con'), ('Churches', 'lan')]"
+1798,1050084612087648256,"[('panhandle', 'reg')]"
+1799,1119950744914944000,"[('Sri Lanka', 'con')]"
+1800,1050366673952366593,"[('Gulf Coast', 'reg')]"
+1801,1119974999429918722,"[('Sri Lanka', 'con')]"
+1802,1050213346253910019,[]
+1803,1049994064450514944,"[('FAMU', 'oth'), ('Florida', 'sta')]"
+1804,1050040614060986369,"[('Baker County', 'ctc')]"
+1805,1050227162207272960,"[('center', 'lan')]"
+1806,1050035672420093952,[]
+1807,1049805050548117507,[]
+1808,1050047017681133568,"[('out and about', 'oth')]"
+1809,1050009366315892737,[]
+1810,1119972738397945857,[]
+1811,1050047112950501376,[]
+1812,1050004711812812801,[]
+1813,1050281122087747584,"[('Florida', 'sta'), ('Panhandle', 'reg')]"
+1814,1119965023474987008,"[('Sri Lanka', 'con'), ('Brit', 'con'), ('Colombo', 'lan'), ('hotel', 'lan'), ('church', 'lan')]"
+1815,1050075589070213121,"[('Pensacola Beach', 'ctc')]"
+1816,1119951863447601157,"[('Sri Lanka', 'con'), ('Canada', 'con'), ('churches', 'lan'), ('hotels', 'lan')]"
+1817,1050121459534835713,[]
+1818,1050060077430792192,"[('Floridians', 'sta')]"
+1819,1119953876340416512,"[('Sri Lanka', 'con'), ('Churches', 'lan'), ('Sri Lanka', 'con')]"
+1820,1119954413278228480,"[('hotels', 'lan'), ('Colombo', 'ctc')]"
+1821,1050122020422209536,[]
+1822,1050264804768841728,"[('Hurricane Michael', 'oth')]"
+1823,1050064157763137541,"[('Panama City', 'ctc')]"
+1824,1050079270586994688,"[('Florida s Panhandle', 'reg')]"
+1825,296697150769868800,"[('Sunshine Coast', 'con'), ('Queensland', 'con')]"
+1826,1050019396045824001,"[('Florida', 'sta'), ('Panhandle', 'reg')]"
+1827,1049998770631561216,"[('High Island , TX', 'ctc')]"
+1828,1050015669952151553,"[('DC', 'ctc')]"
+1829,1050383085894799360,"[('Florida Panhandle', 'reg')]"
+1830,1050025584460484608,"[('Florida', 'sta'), ('Washington', 'sta')]"
+1831,1119969479902007296,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+1832,1050157226609000448,"[('Michael', 'oth')]"
+1833,1119974144655994880,"[('SriLanka', 'con'), ('Churches', 'lan')]"
+1834,1050160302048890881,"[('International Space Station', 'oth'), ('Gulf of Mexico', 'reg')]"
+1835,1050217381958742016,[]
+1836,1050162096263102464,"[('FLCapital4Biz', 'sta')]"
+1837,1119956319132196865,"[('New Zealand', 'con'), ('Christians', 'ctc'), ('Sri Lanka', 'oth')]"
+1838,1050018825612201985,[]
+1839,1050264762473439233,"[('Florida', 'sta'), ('Panhandle', 'reg')]"
+1840,1050079591736446976,"[('Mexico', 'con'), ('Florida', 'sta')]"
+1841,1119954147787333632,"[('Sri Lanka', 'con'), ('Churches', 'lan'), ('locations', 'lan')]"
+1842,1119969480371838978,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+1843,1050142447882330113,"[('Florida', 'sta')]"
+1844,591903027772030976,"[('Nepal', 'con')]"
+1845,1049825707981979648,"[('Florida', 'sta')]"
+1846,1050234737363570689,[]
+1847,1049836379214139393,[]
+1848,1119975140601802752,"[('Sri Lanka', 'con')]"
+1849,1049803892261867520,[]
+1850,1050063412955402240,"[('Florida', 'sta')]"
+1851,591902726675689472,"[('Pak', 'con'), ('Nepal', 'con')]"
+1852,1050080664668839938,"[('Johnston County', 'oth')]"
+1853,1119971928112910338,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan')]"
+1854,1119969480761909248,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+1855,1050003352665432065,"[('Destin', 'ctc'), ('Emerald Coast', 'ctc'), ('destin', 'ctc'), ('30a', 'reg'), ('rosemarybeach', 'ctc')]"
+1856,592164145073692672,"[('Nepal', 'con')]"
+1857,1050055995366477826,[]
+1858,1050050586945703936,"[('Florida Panhandle', 'reg')]"
+1859,591961009566396416,[]
+1860,1119954947779338241,"[('Sri Lanka', 'con')]"
+1861,1050095324604366849,"[('Rosemary Beach', 'ctc'), ('FL', 'sta'), ('PANAMA CITY BEACH', 'ctc')]"
+1862,1049870253755428864,[]
+1863,1119954486741520384,"[('hotels', 'lan'), ('churches', 'lan'), ('Churches', 'lan')]"
+1864,1050102534046699525,"[('Florida', 'sta'), ('Panhandle', 'reg')]"
+1865,1119949143542325248,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan'), ('United States', 'con'), ('Sri Lanka', 'con')]"
+1866,1050388903696506881,"[('Home', 'lan')]"
+1867,1049800087856013313,[]
+1868,1049748268748591107,"[('Gulf of Mexico', 'reg'), ('Florida', 'sta')]"
+1869,1049909401140781056,"[('Destin', 'ctc')]"
+1870,1050091376212205570,[]
+1871,1050089292175880192,"[('Atlantic', 'reg'), ('Denver', 'ctc')]"
+1872,1050074490510696448,"[('Jacksonville', 'ctc'), ('Orange Park', 'ctc')]"
+1873,1119950282597781505,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan'), ('United States', 'con'), ('Sri Lanka', 'con')]"
+1874,1050353873863536640,[]
+1875,1050107297253519367,"[('Mexico Beach , FL', 'ctc')]"
+1876,1050068254687940609,[]
+1877,1119974260980711424,"[('sites', 'lan'), ('Sri Lanka', 'con'), ('Mumbai', 'ctc'), ('Sri Lanka', 'con'), ('west', 'reg'), ('Mumbai', 'ctc'), ('city', 'ctc')]"
+1878,1050034496903380992,"[('NHC', 'lan')]"
+1879,1119969496905633792,"[('Sri Lanka', 'oth')]"
+1880,1119950577230696449,"[('Sri Lanka', 'con'), ('Canada', 'con'), ('churches', 'lan'), ('hotels', 'lan')]"
+1881,1040004703956992000,"[('South Carolina', 'sta'), ('highway 26', 'oth')]"
+1882,1050281639278833664,"[('Grocery stores', 'lan'), ('Athens', 'ctc')]"
+1883,1119952933158825987,"[('churches', 'oth'), ('hotels', 'lan'), ('Sri Lanka', 'con')]"
+1884,1050132393888235546,"[('Panama City', 'ctc')]"
+1885,1049912932979695616,"[('garage', 'oth'), ('basement', 'oth'), ('shed', 'lan'), ('indoors', 'oth'), ('vents', 'oth'), ('openings', 'oth'), ('wall outlet', 'oth')]"
+1886,1050230044050804736,"[('Roseville', 'ctc'), ('columbia', 'ctc')]"
+1887,1040005975128907776,"[('Space Station', 'oth')]"
+1888,1119949495616274432,"[('Sri Lanka', 'con')]"
+1889,1040001971497955333,"[('East Coast', 'reg')]"
+1890,1119969559103057926,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+1891,1050344528723496960,"[('Northeast', 'reg'), ('Florida', 'sta')]"
+1892,297199637431992320,"[('Queensland', 'sta')]"
+1893,1050009214242963458,"[('Panhandle', 'reg')]"
+1894,1050146800882118656,"[('FloridaPanhandle', 'reg')]"
+1895,1119972575084449792,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+1896,1050228455630082048,"[('Farmington Heights in Wilson , NC', 'ctc')]"
+1897,1050188139560624128,[]
+1898,1119970748792233985,"[('churches', 'lan'), ('hotels', 'lan'), ('Sri Lanka', 'oth'), ('Sri Lanka', 'oth')]"
+1899,1119969581072900096,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+1900,1049998491953577985,"[('Florida', 'sta')]"
+1901,1050341315425300480,"[('Florida Panhandle', 'reg'), ('neighborhoods', 'ctc')]"
+1902,1050205639941722113,"[('Florida', 'sta')]"
+1903,1119969678296850433,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+1904,1050168153634832384,[]
+1905,1050096206880395264,"[('Hurricane Michael', 'oth')]"
+1906,591902952568139777,"[('Nepal', 'con')]"
+1907,1049863713526898690,[]
+1908,1050262606815121408,[]
+1909,1050278512450359296,"[('Carolinas', 'sta')]"
+1910,296361121709961216,"[('Australia', 'con')]"
+1911,1050143202961895425,"[('Gulf', 'reg'), ('Florida Panhandle', 'sta')]"
+1912,1119951958813609984,"[('Old Notre Dame Catholic Church', 'lan'), ('Petersburg Church', 'lan'), ('Sri Lanka', 'con')]"
+1913,1050388824646270976,"[('Georgia', 'sta')]"
+1914,1049915240601870338,[]
+1915,1050058953814507521,"[('Florida Gulf Coast', 'reg')]"
+1916,1049781497765515266,"[('northern half', 'oth')]"
+1917,1050019980031533057,[]
+1918,1050177906243239936,[]
+1919,1050077110591664128,"[('Hurricane', 'sta')]"
+1920,1119953346549489665,"[('churches', 'lan'), ('hotels', 'lan'), ('Sri Lanka', 'con')]"
+1921,1050089706317381635,"[('U.S', 'con')]"
+1922,1049979212445229057,"[('Gh', 'con'), ('Sirius', 'oth')]"
+1923,1050213079894626304,[]
+1924,1050098321426132992,"[('Florida', 'sta'), ('Panhandle', 'reg')]"
+1925,1050006539350634497,[]
+1926,592182301125054464,"[('Kathmandu valley', 'reg')]"
+1927,1049975327403970560,"[('Nepal', 'con'), ('Florida', 'sta')]"
+1928,1050205619062562816,"[('Saudi Arabia', 'con')]"
+1929,1050075628618145792,[]
+1930,295865605121257472,"[('Australia s', 'con')]"
+1931,1040004634134437893,"[('Trader Joe s on 14th', 'lan')]"
+1932,1050034675455062017,"[('Panama City', 'ctc'), ('FL', 'sta')]"
+1933,1119973032028774400,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan')]"
+1934,1119969940268732417,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+1935,1050315144138563585,"[('US', 'con')]"
+1936,1050069903502381056,"[('landfall', 'oth')]"
+1937,1050080792884465664,"[('Mexico Beach', 'ctc')]"
+1938,1050342682692857856,[]
+1939,1050073098534481921,"[('FL', 'sta')]"
+1940,1050151534489739264,"[('US', 'con'), ('command center', 'lan')]"
+1941,1119971925856362496,"[('Sri Lanka', 'con'), ('churches of Colombo', 'lan'), ('Indian high commission', 'lan')]"
+1942,1119972865133240321,"[('Sri Lanka', 'con')]"
+1943,1050196983095406594,"[('Georgia', 'sta'), ('Alabama', 'sta')]"
+1944,1050218900540002305,[]
+1945,1050029635730321409,"[('place', 'oth'), ('perdidokey', 'ctc')]"
+1946,1119972171294617601,"[('Sri Lanka', 'con')]"
+1947,1050206787075526656,[]
+1948,591918526140706816,"[('Nepal', 'con'), ('Kathmandu', 'ctc')]"
+1949,1050033552040038400,[]
+1950,1050050361728425985,"[('NHC Atlantic', 'lan')]"
+1951,591903111398043648,"[('Nepal', 'con')]"
+1952,1050157457606086657,[]
+1953,1119970407178809344,"[('mosques', 'lan'), ('Sri Lanka', 'con')]"
+1954,1050358676177981440,"[('Carolinas', 'reg'), ('Mid Atlantic', 'reg')]"
+1955,1050084035718868992,"[('HOSPITALS', 'lan'), ('HURRICANE', 'sta')]"
+1956,1050066104285126658,"[('Florida', 'sta')]"
+1957,1050105249921417217,[]
+1958,1119973018879397891,"[('HurricaneMichael', 'oth'), ('Sri Lanka', 'con'), ('Asia Pacific', 'reg')]"
+1959,1119948890751602688,"[('churches', 'lan')]"
+1960,1050026518561345536,[]
+1961,1119954510028443648,"[('Sri Lanka', 'con')]"
+1962,1050132614223417344,[]
+1963,1050038430330220545,"[('Gulf Coast', 'reg'), ('Panama City', 'ctc')]"
+1964,1049924625130549248,[]
+1965,1050186491824037889,[]
+1966,1050080942000414722,"[('Florida', 'sta'), ('Panhandle', 'reg')]"
+1967,1049950772140679169,"[('landfall', 'reg')]"
+1968,1119953038519754752,"[('churches', 'lan'), ('hotel', 'lan'), ('Sri Lanka', 'con')]"
+1969,1050036778349064192,[]
+1970,1050125086240399360,"[('USC', 'lan')]"
+1971,1049871414222905345,"[('florida', 'sta')]"
+1972,1049779537389576192,"[('florida', 'sta'), ('Citrus Co', 'oth'), ('RVs', 'lan'), ('Shelters', 'lan'), ('Inverness', 'ctc'), ('Forest Ridge Elem', 'lan'), ('CrystalRiver', 'ctc'), ('Inverness', 'ctc'), ('BeverlyHills', 'ctc'), ('CitrusSprings', 'ctc')]"
+1973,1050040625163309056,[]
+1974,1119951953449107459,"[('Churches', 'lan'), ('Hotels', 'lan'), ('hotels', 'lan')]"
+1975,1049875229370142720,"[('space', 'oth')]"
+1976,1119955950906089473,"[('churches', 'lan'), ('hotels', 'lan'), ('Sri Lanka', 'con')]"
+1977,1119953630436544513,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan'), ('India', 'con'), ('Sri Lanka', 'con')]"
+1978,296399509074898946,"[('QUEENSLAND', 'sta'), ('suburbs', 'ctc')]"
+1979,1050048852911431680,[]
+1980,1050387168609341441,"[('U.S.', 'con')]"
+1981,1050381711073132546,"[('nation', 'oth')]"
+1982,592150813050609665,[]
+1983,1119956246562521089,"[('Sri Lanka', 'con'), ('churches hotels', 'lan')]"
+1984,1119970232808775680,"[('Sri Lanka', 'con')]"
+1985,1050237235298279424,"[('Ashore', 'reg')]"
+1986,1050234536968290305,"[('Tallahassee', 'ctc'), ('Florida', 'sta'), ('state', 'sta')]"
+1987,1119952015776473088,"[('Sri Lanka', 'con')]"
+1988,1049919079627333632,[]
+1989,1049951411692347392,"[('Atlantic', 'reg'), ('panhandle', 'reg')]"
+1990,1050034365579886592,[]
+1991,1050134371385131016,"[('Music City', 'lan')]"
+1992,1050365444786413568,"[('Waffle House', 'lan')]"
+1993,1050156023934259200,[]
+1994,1050116172191031303,"[('Carolinas', 'reg')]"
+1995,1119950533161357312,[]
+1996,1050109021485768705,"[('Florida', 'sta'), ('Panhandle', 'reg')]"
+1997,1050280909826678786,"[('BBC News', 'oth')]"
+1998,1050042183095656448,"[('beach', 'oth')]"
+1999,1049890206810341378,[]
+2000,1119949768740884483,"[('Sri Lanka', 'con'), ('3 churches and 3 hotels', 'lan'), ('Sri Lanka', 'con')]"
+2001,1050317695332290560,"[('Military base', 'lan'), ('Florida', 'sta')]"
+2002,1050002184589299721,[]
+2003,1050104998674219013,[]
+2004,1050073915127750657,"[('Tyndall AFB', 'lan'), ('Panama City', 'ctc'), ('FL', 'sta')]"
+2005,1119951412220321792,[]
+2006,1050072976413085698,[]
+2007,1050055866328723456,"[('Florida', 'sta')]"
+2008,1050093491517382657,[]
+2009,913976701977288704,"[('VEGAS', 'ctc')]"
+2010,1050387078180159491,[]
+2011,1050132438087811075,"[('South Bibb Rec Center', 'lan'), ('shelters', 'lan')]"
+2012,1119975715569582085,"[('Sri Lanka', 'con')]"
+2013,1050067411150491648,"[('Florida', 'sta'), ('Florida', 'sta')]"
+2014,1050067233605648385,"[('Panama City', 'ctc')]"
+2015,1050144323935891456,[]
+2016,1050355703259521025,"[('georgia', 'sta')]"
+2017,1050020981022941184,"[('Florida', 'sta'), ('Panhandle', 'reg')]"
+2018,1050074622320934913,"[('Winthrop Park', 'lan'), ('Leon Co', 'oth'), ('FL', 'sta'), ('RANDOLPH', 'ctc')]"
+2019,1050349972984647680,"[('Tallahassee', 'ctc'), ('DeFuniak Springs', 'ctc'), ('Florida', 'sta')]"
+2020,1049997669203103745,[]
+2021,1050078256039378944,[]
+2022,1050079260856262657,"[('Panama City', 'ctc')]"
+2023,1119954971590635520,"[('Florid', 'sta'), ('Sri Lanka', 'con')]"
+2024,1119975248487751680,"[('Sri Lanka', 'con')]"
+2025,1119950649238671360,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan'), ('United States', 'con'), ('Sri Lanka', 'con')]"
+2026,1049989843441393664,[]
+2027,592751640685457409,"[('China', 'con'), ('India', 'con'), ('Nepal', 'con'), ('BEIJING', 'ctc')]"
+2028,1050105748632547329,"[('Florida', 'sta')]"
+2029,1049914682411241472,"[('Florida Panhandle', 'reg')]"
+2030,1119953871936335872,"[('churches', 'lan'), ('hotels', 'lan'), ('Sri Lanka', 'con')]"
+2031,1049988320560902150,"[('Florida Panhandle', 'reg'), ('Tampa Bay', 'ctc')]"
+2032,1050167022796050433,"[('Florida', 'sta')]"
+2033,1050310218498920451,"[('Georgia', 'sta'), ('Carolinas', 'reg')]"
+2034,1119970030496694272,"[('sri lanka', 'con'), ('world', 'oth')]"
+2035,1049947152947003392,"[('northeast', 'oth'), ('Florida', 'sta'), ('panhandle', 'reg')]"
+2036,1050012239363747840,"[('landfall', 'lan'), ('Florida', 'sta')]"
+2037,295755966648041473,"[('Queensland', 'sta')]"
+2038,1119970198017191936,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+2039,1119956759752396800,"[('Sri Lanka', 'con')]"
+2040,1119974738783293440,"[('Sri Lanka', 'con')]"
+2041,1050333230195466240,"[('water system', 'lan')]"
+2042,1119953969323937793,"[('churches', 'lan'), ('Sri Lanka', 'con')]"
+2043,1049786557899702272,"[('Tallahassee', 'ctc')]"
+2044,1050163053885571077,"[('Florida', 'sta'), ('panhandle', 'reg'), ('home', 'lan')]"
+2045,1049847944990679041,[]
+2046,1050046216355160065,[]
+2047,1049934678088736768,"[('FL Panhandle', 'reg')]"
+2048,1119955390328922113,"[('Sri Lanka', 'con')]"
+2049,1049949450775527424,"[('Florida', 'sta'), ('panhandle', 'reg'), ('Hampton Roads', 'ctc')]"
+2050,1050082211549118464,"[('landfall', 'ctc'), ('Florida', 'sta'), ('Panama City', 'ctc')]"
+2051,1049785201872818176,"[('FSU', 'lan'), ('Tallahassee', 'ctc')]"
+2052,1119971738140516359,"[('Shnagri La hotel', 'lan'), ('Batticalao church', 'lan')]"
+2053,1050128867946565632,"[('High School', 'lan')]"
+2054,1050079323997331456,"[('Panama City', 'ctc')]"
+2055,1050130766737358851,"[('Florid', 'sta'), ('Florida', 'sta')]"
+2056,1119974887660113921,"[('Sri Lanka', 'con'), ('Notre Dame Cathedral', 'lan')]"
+2057,1050160296298500096,"[('Florida', 'sta'), ('Panhandle', 'reg'), ('Florida', 'sta')]"
+2058,1050364616025485312,"[('New York', 'sta')]"
+2059,1050018894369484800,"[('homes', 'lan')]"
+2060,1119970297795547137,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+2061,591902992112037888,"[('tents', 'oth')]"
+2062,1119953512027381762,"[('Sri Lanka', 'con'), ('Pakistan', 'con'), ('Sri Lanka', 'con')]"
+2063,1050064740960149504,"[('PanamaCity', 'ctc')]"
+2064,1049844474145312768,"[('space', 'oth')]"
+2065,1049799209082335233,[]
+2066,1050368996246282240,"[('Panhandle', 'reg')]"
+2067,1119953982070448128,"[('church', 'lan'), ('Sri Lanka', 'con'), ('Malegaon , Mecca', 'ctc'), ('Masjid', 'ctc')]"
+2068,1119965101094731776,[]
+2069,1119970366258958338,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+2070,1049813547641970691,[]
+2071,913970168887312390,"[('Vegas', 'ctc')]"
+2072,1050042755982995456,"[('Florida', 'sta')]"
+2073,1050072029205008385,"[('FL', 'sta')]"
+2074,1119972401947795457,"[('Sri Lanka', 'con')]"
+2075,1119949358185664512,"[('Blasts', 'ctc'), ('Sri Lanka', 'con')]"
+2076,1119951400472064001,"[('Sri Lanka', 'con'), ('churches', 'lan')]"
+2077,296878540740243456,"[('Australia', 'con')]"
+2078,1119970366384934912,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+2079,1050325661745696769,[]
+2080,1050104212921692160,"[('U.S.', 'con')]"
+2081,1050095590896541697,[]
+2082,1119971896441876481,"[('Sri Lanka', 'con'), ('churches and hotels', 'oth')]"
+2083,1119970396848238594,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+2084,1049834213191639041,[]
+2085,1119953055879966720,[]
+2086,1050383827066134528,[]
+2087,1050103806401409025,"[('Flori', 'sta')]"
+2088,1049808734036402176,[]
+2089,1119970447586660353,"[('landfall', 'oth'), ('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+2090,1050345936227106817,[]
+2091,1050073534213566464,"[('Florida', 'sta'), ('panhandle', 'reg')]"
+2092,1050169068597207040,"[('Florida', 'sta')]"
+2093,1119951557254979584,"[('Sri Lanka', 'con')]"
+2094,1049823096167751680,"[('Florida', 'sta')]"
+2095,1050355957744713728,"[('space', 'oth')]"
+2096,1050115415366557696,"[('Florida', 'sta'), ('panhandle', 'reg')]"
+2097,1050119115455762432,"[('Richland County', 'oth'), ('offices', 'oth')]"
+2098,296567416870297600,"[('Queensland', 'sta')]"
+2099,1050378660870574080,"[('Hurricanes', 'oth')]"
+2100,1050177261943619585,[]
+2101,1050056173637066752,[]
+2102,591902718584758274,"[('Nepal', 'con')]"
+2103,1049920380050305026,[]
+2104,1119970569351499776,"[('Churches', 'lan'), ('Nigeria', 'con'), ('Egypt', 'con'), ('SriLanka', 'con'), ('Hindu Temples', 'lan'), ('India', 'con'), ('Pakistan', 'con'), ('Bangladesh', 'con'), ('Lucknow', 'ctc'), ('Bamiyan', 'ctc')]"
+2105,1119956311758782465,"[('Sri Lanka', 'con')]"
+2106,1040005658299518976,"[('San Juan', 'ctc')]"
+2107,1050067575856496640,"[('southeast', 'reg'), ('FL', 'sta'), ('GA', 'sta'), ('AL', 'sta')]"
+2108,1119953555341942785,[]
+2109,1119972941087805440,"[('Colombo', 'ctc'), ('SriLanka', 'con')]"
+2110,1119951979911045120,"[('Sri Lanka', 'con')]"
+2111,1050052790054203392,"[('Barry', 'lan')]"
+2112,1119954487656030210,"[('Sri Lanka', 'con'), ('Churches', 'lan'), ('multi cultural locations', 'ctc')]"
+2113,1050208306696990721,[]
+2114,1050149374255394818,"[('NC', 'reg')]"
+2115,1119954078979768325,[]
+2116,1050360415278882816,"[('Pensacola', 'ctc')]"
+2117,1050129315382345737,[]
+2118,1050188323396947968,[]
+2119,1040002240336080896,"[('Carolinas', 'sta'), ('Virginia', 'sta')]"
+2120,1050350693083561984,"[('Pennsylvania', 'sta'), ('Florida', 'sta')]"
+2121,295696773811425282,"[('Queensland', 'sta')]"
+2122,1119954434031853568,"[('Sri Lanka', 'con')]"
+2123,1119969997021949955,"[('hotels', 'lan'), ('churches', 'lan'), ('Sri Lanka', 'con'), ('country', 'reg'), ('Pakistan', 'oth')]"
+2124,1050262794036305920,"[('FLORIDA', 'sta')]"
+2125,1119970373301358592,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan')]"
+2126,1119962727278104576,"[('Sri Lanka', 'con'), ('country', 'con')]"
+2127,1049834532956987393,"[('coast', 'reg')]"
+2128,1049955092781326341,"[('Lee County', 'oth')]"
+2129,1119951601572167682,"[('SRI LANKA', 'con'), ('Churches', 'lan'), ('hotels', 'lan')]"
+2130,1050072959728144384,[]
+2131,1050120312367575040,"[('Florida', 'sta')]"
+2132,1119970460031180800,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+2133,1119971980453842947,"[('Sri Lanka', 'con')]"
+2134,1050121312583208961,[]
+2135,1119970476187471872,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+2136,1119970504260169728,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+2137,1119970538703790080,"[('Sri Lanka', 'con')]"
+2138,1050037755231662080,"[('Middle', 'reg'), ('Tennessee', 'sta')]"
+2139,1049754080300675072,"[('Carolinas', 'sta')]"
+2140,1050362912253116416,[]
+2141,1050093642722013190,"[('Florida Panhandle', 'reg')]"
+2142,1119970531019595776,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+2143,1049857932119220224,[]
+2144,1049777663865495552,"[('states', 'sta'), ('shelter', 'oth'), ('safe location', 'oth'), ('area', 'ctc')]"
+2145,1050125098839986177,"[('Hurricane Michael', 'oth')]"
+2146,1119970550971944960,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+2147,1050051134407225346,[]
+2148,1040002504270987266,"[('shelter', 'lan'), ('Orlando', 'ctc'), ('FL', 'sta'), ('evacuation zones', 'lan'), ('Orlando', 'ctc'), ('FL', 'sta')]"
+2149,1050080229035728896,"[('landfall', 'reg'), ('PanamaCityBeach', 'ctc'), ('Florida', 'sta')]"
+2150,1119965153955422209,"[('Sri Lanka', 'con'), ('churches', 'lan')]"
+2151,1049994372136267783,"[('New York', 'sta')]"
+2152,1119969818231345153,"[('Sri Lanka', 'con'), ('Churches', 'lan'), ('Hotels', 'lan'), ('Churches', 'lan')]"
+2153,1049775982792626186,"[('path', 'reg')]"
+2154,1050244365208018944,[]
+2155,296024957555724288,[]
+2156,1119974793258913794,"[('Sri Lanka', 'con')]"
+2157,1050379998039826434,"[('Panhandle', 'oth')]"
+2158,1050006596980547585,"[('Southern US', 'reg'), ('Florida s Gulf Coast', 'reg')]"
+2159,1049790591058366465,"[('FLORIDA', 'sta'), ('FLORIDA', 'sta')]"
+2160,1050218464324055045,"[('gulfofmexico', 'con'), ('georgia', 'sta'), ('florida', 'sta'), ('landfall', 'lan')]"
+2161,1049813598577549313,[]
+2162,1119970593149861888,"[('Sri Lanka', 'con')]"
+2163,1050248201406693376,"[('Florida', 'sta'), ('U.S.', 'con')]"
+2164,1050149764409565185,"[('Southwest Georgia', 'reg')]"
+2165,1050108219379642368,"[('Ft. Walton Beach', 'ctc')]"
+2166,1119952717579988993,"[('Sri Lanka', 'con')]"
+2167,1050001000201891840,[]
+2168,1050145166940606471,"[('Georgia', 'sta'), ('state', 'reg')]"
+2169,1119970584367128577,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+2170,1050083799462305794,"[('Panama City', 'ctc')]"
+2171,1050380162574024704,"[('Panama City', 'ctc'), ('Florida', 'sta')]"
+2172,1119949133417189376,"[('Sri Lanka', 'con')]"
+2173,1050195532059033600,"[('Florida', 'sta'), ('region', 'reg')]"
+2174,1050151501480505345,"[('Florida', 'sta'), ('Panhandle', 'reg')]"
+2175,1119954946571603968,"[('Sri Lanka', 'con'), ('Pakistan', 'con'), ('Sri Lanka', 'con')]"
+2176,1119948726733344768,"[('Sri Lanka', 'con'), ('church', 'lan'), ('hotel', 'lan')]"
+2177,1119954214065721345,"[('SRI LANKA', 'con'), ('Churches', 'lan'), ('hotels', 'lan')]"
+2178,1050312847291486209,"[('Florida', 'sta'), ('Panhandle', 'reg'), ('NEW YORK', 'ctc')]"
+2179,1050121085583315010,"[('Florida', 'sta')]"
+2180,1050369377554427904,"[('Georgia', 'sta')]"
+2181,592074463300157441,"[('Nepal', 'con')]"
+2182,1119974914801295360,[]
+2183,1119952666350592001,"[('Sri Lanka', 'con')]"
+2184,1050070178988482560,"[('Gulf Coast , Florida', 'reg')]"
+2185,1050056564076351490,"[('Florida', 'sta')]"
+2186,1050062000808583168,"[('National Hurricane Center', 'oth')]"
+2187,1119975644186566658,"[('SriLanka', 'con'), ('Churches', 'lan'), ('hotels', 'lan')]"
+2188,1050209723981721600,[]
+2189,1050109479646158849,"[('landfall', 'reg'), ('Florida Panhandle', 'reg')]"
+2190,1050389308715257856,"[('MexicoBeach', 'ctc')]"
+2191,1050205904065323009,"[('campaign rally', 'oth'), ('office', 'oth'), ('Hurricane Michael', 'oth'), ('over there', 'oth')]"
+2192,1050166289950498818,[]
+2193,1050330685003591681,"[('Jackson', 'ctc'), ('Georgia', 'sta'), ('South Carolina', 'sta'), ('border', 'lan')]"
+2194,1049814605416058881,"[('florida', 'sta'), ('mexicobeach', 'oth')]"
+2195,1050052579194011648,"[('Philly', 'ctc'), ('Florida', 'sta'), ('panhandle', 'reg'), ('Florida', 'sta'), ('Philly', 'ctc')]"
+2196,1119972869923049472,"[('Sri Lanka', 'con')]"
+2197,1049971387794948096,[]
+2198,1119970681599537152,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+2199,1050062808078082049,"[('storage room', 'oth'), ('Florence', 'ctc'), ('Mother Nature', 'oth')]"
+2200,1050359910633000961,"[('Florida', 'sta'), ('Georgia', 'sta')]"
+2201,1050372163994300416,"[('nczoo', 'lan')]"
+2202,1050010480838942720,[]
+2203,1050329168796405761,"[('Florida', 'sta')]"
+2204,1050081330850160641,[]
+2205,1050077143076622342,[]
+2206,1050025695999651840,"[('landfall', 'reg'), ('Florida', 'sta')]"
+2207,1050280956542799873,"[('Florida', 'sta'), ('Georgia', 'sta'), ('Alabama', 'sta')]"
+2208,1050148254984400898,"[('Family Home', 'lan'), ('Hiland Park', 'ctc'), ('Panama City', 'ctc'), ('FL', 'sta')]"
+2209,1119971333419536384,"[('Sri Lanka', 'con')]"
+2210,1050120182549512192,"[('Waffle House', 'lan'), ('18 restaurants', 'lan')]"
+2211,1050169489084551168,"[('FL', 'sta'), ('GA', 'sta'), ('AL', 'sta')]"
+2212,1050373362747367425,[]
+2213,1050147118394925057,"[('Florida', 'sta'), ('California', 'sta')]"
+2214,1050034293303599105,[]
+2215,1050070548615757824,[]
+2216,1050109686094188544,[]
+2217,1050048163439157248,"[('Tyndall', 'lan')]"
+2218,1119970648690835456,"[('churches', 'lan'), ('hotels', 'lan'), ('Sri Lanka', 'con')]"
+2219,1050284389505093632,[]
+2220,1050155288907718656,"[('landfall', 'reg')]"
+2221,1050064369634168833,[]
+2222,1050299015764631552,"[('Panama', 'ctc'), ('City', 'ctc')]"
+2223,1050262680794255360,"[('Florida', 'sta'), ('Panhandle', 'reg'), ('PANAMA CITY', 'ctc'), ('streets', 'reg'), ('docks', 'lan')]"
+2224,1119972574161788929,[]
+2225,1050233932392919040,"[('crawlspace', 'oth')]"
+2226,1050160952065359872,"[('damaged roofs', 'oth')]"
+2227,1050175034675757056,[]
+2228,1049973181941997568,[]
+2229,1049750711192432640,"[('Panhandle', 'ctc')]"
+2230,1050092407155515392,"[('Florida', 'sta')]"
+2231,1049848181926883329,"[('Pensacola', 'ctc')]"
+2232,1050176424701845504,"[('Home', 'lan')]"
+2233,1050253905664364550,"[('Saudi', 'con'), ('Sierra Leone', 'con'), ('China', 'con'), ('China', 'con'), ('Somalia', 'con'), ('Majorca', 'oth')]"
+2234,1050318723024871425,[]
+2235,1119974158039965696,"[('churches', 'lan'), ('hotels', 'lan'), ('Sri Lanka', 'con')]"
+2236,1119971021874876416,"[('Sri Lanka', 'con'), ('Pakistan', 'con'), ('Sri Lanka', 'con')]"
+2237,1049815689706528768,"[('North Carolina', 'sta')]"
+2238,1050108663917096961,"[('Florida Panhandle', 'reg')]"
+2239,1119949569805230081,"[('Sri Lanka', 'con'), ('Pakistan', 'con'), ('Sri Lanka', 'con')]"
+2240,1050230305917825025,"[('Florida', 'sta'), ('Georgia', 'sta')]"
+2241,1119975370407776257,"[('churches and hotels', 'lan'), ('Sri Lanka', 'con')]"
+2242,1050125765600264216,"[('Florida', 'sta'), ('stica', 'reg'), ('franja', 'reg'), ('noroeste', 'reg'), ('Florida', 'sta')]"
+2243,1050144204628942850,[]
+2244,1050050418670211074,"[('Panhandle', 'reg'), ('Bay County', 'oth')]"
+2245,1050076179003260928,"[('town', 'ctc')]"
+2246,1119971172748279808,"[('hotels', 'lan'), ('Sri Lanka', 'con')]"
+2247,1049963549982904320,"[('Marine Terminal', 'oth')]"
+2248,1119975552390189057,"[('Sri Lanka', 'con')]"
+2249,1119951527760867329,"[('Christians', 'ctc'), ('Sri Lanka', 'con')]"
+2250,1050385178902827008,"[('Panama City', 'ctc')]"
+2251,1050113925893767169,"[('Tallahassee', 'ctc')]"
+2252,1050017980829130757,"[('Ga', 'sta'), ('Florida', 'sta')]"
+2253,1049810825291198464,"[('Gulf', 'reg')]"
+2254,1050085458926063618,"[('panamacitybeach', 'reg')]"
+2255,1050172899066335233,"[('Florida', 'sta'), ('Panhandle', 'reg')]"
+2256,1050110045671837696,"[('Eastpoint', 'oth'), ('Florida Panhandle', 'reg')]"
+2257,1050150024439574528,[]
+2258,1119956926513729541,"[('Sri Lanka', 'con')]"
+2259,1119970720635858944,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+2260,1049991332066938880,"[('Florida', 'sta'), ('Southwest Florida', 'reg'), ('Sanibel Island', 'oth')]"
+2261,1119972166152478720,"[('Sri Lanka', 'con'), ('churches and hotels', 'oth')]"
+2262,1050223818625740800,[]
+2263,1040002262637178882,"[('Hurricane Florence', 'oth'), ('US east coast', 'reg')]"
+2264,1050388710955597824,"[('florida', 'sta'), ('Panhandle', 'reg'), ('GulfCoast', 'reg')]"
+2265,1050094910794293248,"[('HurricaneMichael', 'oth')]"
+2266,1050077193328517120,"[('US', 'con')]"
+2267,1119971583844585472,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+2268,1050111747326009344,"[('Florida', 'sta')]"
+2269,1050153295430512641,[]
+2270,1050069426446450688,"[('landfall', 'reg')]"
+2271,1050196467393159168,[]
+2272,1050319856720072704,"[('Florida', 'sta')]"
+2273,1050065873812299776,"[('region', 'reg'), ('facilities', 'lan'), ('roadways', 'lan')]"
+2274,1050143787387940864,"[('Erie', 'ctc'), ('Pennsylvania', 'sta'), ('Gulf Coast', 'reg')]"
+2275,1049937492168851457,"[('Florida panhandle', 'reg')]"
+2276,1050271261312643074,"[('US', 'con')]"
+2277,1119951462560350209,"[('Sri Lanka', 'con')]"
+2278,1119969357096988673,"[('Sri Lanka', 'con')]"
+2279,1050040889568047106,"[('Florida', 'sta')]"
+2280,1119970545116876806,"[('Sri Lanka', 'con'), ('Shnagri La hotel', 'lan'), ('Batticalao church', 'lan')]"
+2281,1119970725060907008,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+2282,1050156165743697920,"[('The Manchester Press Club', 'lan')]"
+2283,1050166102393786368,"[('Pensacola Beach , FL', 'ctc')]"
+2284,1050074174243385346,[]
+2285,1040004466831806467,"[('Piazza Santa Maria Novella', 'lan'), ('Florence', 'ctc')]"
+2286,1119954265089499136,[]
+2287,1050213396774354944,"[('Florida', 'sta'), ('Georgia', 'sta')]"
+2288,1050130578970988546,[]
+2289,1119954949486440449,"[('church', 'lan'), ('Sri Lanka', 'con'), ('Malegaon', 'ctc'), ('Mecca', 'ctc'), ('Masjid', 'lan')]"
+2290,1050335962096721920,"[('north', 'reg'), ('south', 'reg')]"
+2291,1119952073125027840,"[('Sri Lanka', 'con'), ('Maldivian community', 'reg')]"
+2292,1119955932178468865,"[('hotels', 'lan'), ('Sri Lanka', 'con')]"
+2293,1050176450836475904,"[('facility', 'lan'), ('South Florida', 'reg'), ('state', 'sta')]"
+2294,1050281854668918784,"[('sea surface', 'reg'), ('Florence', 'ctc')]"
+2295,1050094078690508802,"[('Florida', 'sta')]"
+2296,1050049700018233344,[]
+2297,1050369584308658176,"[('land', 'reg')]"
+2298,1050093948545507331,[]
+2299,591918973286912000,"[('India', 'con')]"
+2300,1049959050178383877,[]
+2301,1050007654058340353,[]
+2302,1049753758442377216,"[('StPetersburg', 'ctc')]"
+2303,1050360309880303616,"[('New York', 'ctc')]"
+2304,1050043140164517889,[]
+2305,1049857148895801344,[]
+2306,1119953395773788160,"[('Sri Lanka', 'con')]"
+2307,1050010916799111168,"[('weatherchannel', 'oth'), ('weatherchannel', 'oth'), ('Florida', 'sta'), ('companies', 'oth')]"
+2308,1050039468152053760,"[('inland', 'reg')]"
+2309,1050287108584349697,[]
+2310,1119962789517438976,"[('Churches', 'lan'), ('hotels', 'lan'), ('SL', 'con'), ('SL', 'con'), ('SL', 'con'), ('Pakistan', 'con')]"
+2311,1050123712111005698,"[('Srilanka', 'con'), ('Southeastern Community College', 'lan'), ('SCC Child Development Center', 'lan')]"
+2312,1119962826519527425,"[('Sri Lanka', 'con')]"
+2313,1049826850057404416,"[('South Carolina', 'sta'), ('South Carolina', 'sta')]"
+2314,1050112871143809025,[]
+2315,1119951828089802752,"[('Sri Lanka', 'con')]"
+2316,1119974413187919872,"[('Philippines', 'con'), ('Sri Lanka', 'con')]"
+2317,1050052585594519552,[]
+2318,1050214854328442880,[]
+2319,1050039740777533440,"[('New York', 'sta'), ('Florida', 'sta'), ('Mississippi', 'sta')]"
+2320,1050185340076605441,[]
+2321,592593253012152320,[]
+2322,1119972560035139591,"[('Sri Lanka', 'con')]"
+2323,1050141775359295488,"[('Georgia', 'sta')]"
+2324,1050381043570753537,"[('Tesla', 'lan')]"
+2325,1119962839555272704,"[('Sri Lanka', 'con')]"
+2326,1050101346379149312,"[('west side', 'reg')]"
+2327,1050093384323481602,[]
+2328,296172783371698176,"[('Queensland', 'sta'), ('New South Wales', 'sta')]"
+2329,1050275089717968896,"[('Florida', 'sta')]"
+2330,1119950722693500933,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan'), ('United States', 'con'), ('Sri Lanka', 'con')]"
+2331,295788304740253696,"[('Australia', 'con')]"
+2332,1119970732698681344,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+2333,1119956751896338435,"[('world', 'oth'), ('churches', 'lan'), ('Sri Lanka', 'con')]"
+2334,1119951471510994944,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan'), ('The United States', 'con'), ('Sri Lanka', 'con')]"
+2335,1050074223207538688,"[('Mexico Beach , FL', 'ctc')]"
+2336,1119965203158970368,"[('Sri Lanka', 'con'), ('Mesopotamia', 'reg')]"
+2337,1050074659625070592,"[('branch', 'lan')]"
+2338,1119969081036345346,"[('churches', 'lan'), ('hotels', 'lan'), ('Sri Lanka', 'con')]"
+2339,1050371205616848897,"[('Southeast', 'reg'), ('Florida', 'sta')]"
+2340,1119972668680343553,"[('notre dame cathedral', 'lan'), ('Sri Lanka', 'con')]"
+2341,1050323220640030721,"[('Florida', 'sta')]"
+2342,1050072537491800064,"[('The FCMP tower', 'lan'), ('Tyndall', 'ctc')]"
+2343,1119972740553854977,"[('hotel', 'lan'), ('Sri Lanka', 'con')]"
+2344,1119970826609156097,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+2345,1050108477643911168,[]
+2346,1119956800051326976,"[('Sri Lanka', 'con'), ('hotels', 'lan')]"
+2347,1050051922940579842,"[('Tally', 'ctc')]"
+2348,1050008350581248000,"[('Georgia', 'sta'), ('shelter', 'lan'), ('Atlanta', 'ctc'), ('Augusta', 'ctc'), ('Columbus', 'ctc'), ('Macon', 'ctc'), ('Savannah', 'ctc'), ('Athens', 'ctc'), ('Clarke', 'ctc'), ('SandySprings', 'ctc'), ('Roswell', 'ctc'), ('JohnsCreek', 'ctc')]"
+2349,1050014466820198400,[]
+2350,1050053134050037761,[]
+2351,1119955127811608576,"[('churches', 'lan'), ('hotels', 'lan'), ('Sri Lanka', 'con')]"
+2352,1049869479050694656,"[('Shelters', 'lan'), ('Northwest Florida', 'reg')]"
+2353,1050069046807486466,[]
+2354,1050061670637137921,[]
+2355,1049947062043910144,[]
+2356,1119952118637584385,"[('Sri Lanka', 'con'), ('churches and hotels', 'lan'), ('The United States', 'con'), ('Sri Lanka', 'con')]"
+2357,1049997088770146304,"[('FL', 'sta')]"
+2358,1119974930131472384,"[('SRILANKA', 'con')]"
+2359,1040006067047022593,"[('Puerto Rican', 'oth')]"
+2360,1050038455181430785,"[('Gillum', 'ctc')]"
+2361,1119956180812619776,"[('Sri Lanka', 'con')]"
+2362,1050095263883423751,"[('path', 'oth')]"
+2363,1050332615222398977,"[('South Carolina', 'sta'), ('Central Indiana', 'reg')]"
+2364,1119954727305994241,"[('New Zealand', 'con'), ('sri Lanka', 'con')]"
+2365,1119950812141301760,"[('Sri Lanka', 'con')]"
+2366,1050035109280108544,"[('water level station', 'lan'), ('Apalachicola', 'reg')]"
+2367,1119955114658107392,"[('Sri Lanka', 'con'), ('Christchurch', 'ctc'), ('Malegaon', 'ctc'), ('Mecca', 'ctc'), ('Masjid', 'lan')]"
+2368,1049859394027102208,[]
+2369,1119955393441140737,"[('Florida', 'sta'), ('Sri Lanka', 'con'), ('Christchurch', 'ctc'), ('Malegaon', 'ctc'), ('Mecca', 'ctc'), ('Masjid', 'lan')]"
+2370,1119953331101679621,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('luxury hotels', 'lan')]"
+2371,1119974011310678016,"[('mosque', 'lan'), ('Sri Lanka', 'con')]"
+2372,1119954344508522498,"[('Sri Lanka', 'con')]"
+2373,1049978025880821761,"[('FL panhandle', 'reg'), ('Jackson', 'ctc')]"
+2374,1050024112456953856,[]
+2375,1119974011553886208,"[('SRI LANKA', 'lan'), ('churches', 'lan'), ('hotels', 'lan'), ('Churches', 'lan'), ('Kochikade', 'lan'), ('St Sebastian', 'lan'), ('Batticaloa', 'lan'), ('Hotels', 'lan'), ('Cinnamon Grand', 'lan'), ('Kingsbury', 'lan')]"
+2376,1119971112450916353,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con'), ('Indian', 'con'), ('US ,', 'con'), ('China', 'con'), ('Denmark', 'con'), ('Japan', 'con'), ('Pakistan', 'con'), ('Bangladesh', 'con'), ('Morocco', 'con')]"
+2377,1050144146663624704,"[('homes', 'lan'), ('outside', 'reg')]"
+2378,1050080116586340352,"[('Florida', 'sta')]"
+2379,1119954258466619393,"[('Churches', 'lan'), ('Sri Lanka', 'con'), ('world', 'oth')]"
+2380,1050171979813277698,"[('Guilford County', 'oth')]"
+2381,1049863219001491461,[]
+2382,1050051559722311681,"[('Alabama', 'sta'), ('Carolinas', 'sta'), ('Hurricane', 'oth')]"
+2383,1049809233141592064,"[('Florida', 'sta')]"
+2384,1119971040556462081,"[('SRI LANKA', 'con'), ('Churches', 'lan'), ('hotels', 'lan')]"
+2385,1050040485551726592,"[('Florida', 'sta'), ('capital city', 'ctc'), ('Hurricane Michael', 'oth')]"
+2386,1119974541651075073,"[('churches', 'lan'), ('hotels', 'lan'), ('SriLanka', 'con')]"
+2387,1119974683972124672,"[('Sri Lanka', 'con')]"
+2388,1050163221481644032,[]
+2389,1049919013554442240,[]
+2390,1050008217181450240,"[('Florida', 'sta')]"
+2391,1050013631730081792,"[('Florida Panhandle', 'reg'), ('Georgia', 'sta'), ('Florida', 'sta')]"
+2392,1050068879345631232,[]
+2393,1049967908061937665,[]
+2394,1050386216431046656,"[('Florida', 'sta'), ('Panhandle', 'reg')]"
+2395,1050225096395120641,"[('GEORGIA', 'sta'), ('Shelters', 'lan')]"
+2396,1050118374079033345,"[('Makkum', 'ctc')]"
+2397,1050112547809099776,"[('Florida', 'sta')]"
+2398,592074018875781120,"[('NEPAL', 'con'), ('NepalEarthquake', 'con')]"
+2399,1050339328466006016,[]
+2400,1119970632085774337,"[('Sri Lankan', 'con'), ('hotels', 'lan'), ('churches', 'lan'), ('Churches', 'lan')]"
+2401,1049801070485139456,[]
+2402,1119973028249649153,"[('Sri Lanka', 'con')]"
+2403,1119970367420891136,"[('Sri Lanka', 'con')]"
+2404,1119970595805048834,"[('Sri Lanka', 'con')]"
+2405,592593216396009472,[]
+2406,1050068005349191680,"[('International Space Station', 'oth'), ('altitude', 'oth'), ('landfall', 'oth'), ('Florida panhandle', 'reg')]"
+2407,1050283379277541376,"[('Florida Panhandle', 'reg')]"
+2408,1050082928800223232,"[('New Port Richey', 'ctc')]"
+2409,1119950357843587073,"[('SriLanka', 'con'), ('church', 'lan'), ('hotel', 'lan')]"
+2410,1119950927828529152,"[('SRI LANKA', 'con'), ('churches and luxury hotels', 'oth'), ('Churches', 'lan'), ('Kochikade', 'lan'), ('St Sebastian', 'lan'), ('Batticaloa', 'lan'), ('Hotels', 'lan'), ('Cinnamon Grand', 'lan'), ('Kingsbury', 'lan')]"
+2411,1049964696156233728,[]
+2412,1050161785037381632,"[('space', 'oth')]"
+2413,1049993127174565888,"[('Navarre Beach', 'ctc'), ('gulf coast', 'reg')]"
+2414,1050357158456553472,[]
+2415,1119950536369823744,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+2416,1049773865570840582,[]
+2417,1049854447487254528,"[('Florida', 'sta'), ('Panhandle', 'reg')]"
+2418,1049987514352701440,"[('Panama City', 'ctc'), ('Florida', 'sta'), ('panhandle', 'reg')]"
+2419,1119972152537600000,"[('Sri Lanka', 'con'), ('hotels', 'lan'), ('suburbs', 'reg'), ('capital', 'reg')]"
+2420,1119952262099546113,"[('NZ', 'con'), ('mosque', 'lan'), ('Sadiq Khan', 'lan'), ('British mosques', 'lan'), ('Sri Lanka', 'con'), ('churches', 'lan'), ('Sadiq Khan', 'lan')]"
+2421,1050115585529565184,[]
+2422,1050373263409344512,"[('Florida s Panhandle', 'reg')]"
+2423,1040002758345203713,"[('local', 'reg'), ('county', 'oth')]"
+2424,1119970885417484288,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+2425,1050327688702021633,[]
+2426,1050070527136550912,[]
+2427,1049966303488831493,"[('Florida', 'reg')]"
+2428,1049959255665721344,[]
+2429,1050160036276629504,"[('Florida s', 'sta')]"
+2430,1119954768179421190,"[('three churches', 'lan'), ('hotels', 'lan'), ('Sri Lanka', 'con')]"
+2431,1050367530106310656,"[('Florida', 'sta'), ('Georgia', 'sta')]"
+2432,295891037317111808,"[('Queensland', 'sta'), ('NSW', 'sta')]"
+2433,1049784094228406274,"[('Florida', 'sta'), ('East Coast', 'reg')]"
+2434,1050220673996607488,"[('RVA', 'reg'), ('SE', 'reg')]"
+2435,1050222535697203200,"[('PA.', 'sta')]"
+2436,1049986925036269568,"[('Florida Panhandle', 'reg')]"
+2437,1050146462645067776,"[('Saudi Arabia', 'con'), ('Hurricane', 'sta')]"
+2438,1049807387878727680,"[('Destin', 'ctc'), ('FL', 'sta')]"
+2439,1119975062508060673,"[('Sri Lanka', 'con')]"
+2440,1119950819753730049,"[('India', 'con'), ('Sri Lanka', 'con'), ('Colombo', 'ctc')]"
+2441,1119973225977479169,"[('SRI LANKA', 'con'), ('Churches', 'lan'), ('luxury hotels', 'lan')]"
+2442,1119954850916134912,"[('Mexico', 'con'), ('Lebanon', 'con'), ('Sri Lanka', 'con')]"
+2443,1119973556975230976,"[('Sri Lanka', 'con')]"
+2444,1050100748581830657,[]
+2445,1050069594717728770,"[('PanamaCity', 'ctc'), ('Florida', 'sta')]"
+2446,1050227420387790850,[]
+2447,1049855713101656065,"[('panhandle', 'reg')]"
+2448,1050150178857078784,"[('U.S.', 'con'), ('Florida Panhandle', 'reg')]"
+2449,1050072255731027970,[]
+2450,1049748521199566849,"[('Florida', 'sta')]"
+2451,1119952387370700802,"[('Sri Lanka', 'con'), ('Canada', 'con'), ('churches and hotels', 'lan')]"
+2452,1119952937814380544,"[('Sri Lanka', 'con'), ('Canada', 'con'), ('churches', 'lan'), ('hotels', 'lan')]"
+2453,1050141576343822336,"[('coastal', 'reg'), ('trees', 'lan'), ('power lines', 'lan')]"
+2454,1049958364782964736,"[('Florida', 'sta'), ('panhandle', 'reg')]"
+2455,1119951735492173825,"[('Sri Lanka', 'con'), ('Pakistan', 'con')]"
+2456,1050229253328003072,[]
+2457,1119955051345141761,"[('churches', 'lan'), ('Sri Lanka', 'con')]"
+2458,1119972590565646337,"[('Sri Lanka', 'con'), ('churches and hotels', 'lan')]"
+2459,1119950854637809670,"[('India', 'con'), ('Sri Lanka', 'con'), ('Colombo', 'ctc')]"
+2460,1119973368764215296,"[('Sri Lankan', 'con'), ('British', 'ctc')]"
+2461,1050170110277611520,"[('US', 'con'), ('Gulf of Mexico', 'reg')]"
+2462,1050197182370988032,[]
+2463,1049965931315773442,"[('Florida panhandle', 'reg')]"
+2464,1050095106491998208,"[('Florida', 'sta')]"
+2465,1119955272766763009,"[('Sri Lanka', 'con'), ('Churches', 'lan')]"
+2466,1050008928128512001,"[('Florida', 'sta')]"
+2467,1119971001888985088,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+2468,1119954106553196544,"[('Sri Lanka', 'con')]"
+2469,913961877562109952,"[('Vegas', 'ctc'), ('The Strip', 'lan')]"
+2470,1050089212719128576,"[('Hernando', 'oth'), ('Pasco', 'oth'), ('Pinellas', 'oth'), ('Hillsborough', 'oth'), ('Manatee', 'oth')]"
+2471,1119975675904000001,"[('UK', 'con'), ('churches', 'lan'), ('UK', 'con'), ('SriLanka', 'con'), ('mosques', 'lan'), ('Christchurch', 'ctc')]"
+2472,1050083139555602433,"[('Florida Panhandle', 'reg')]"
+2473,1049851793579085824,"[('Florida', 'sta')]"
+2474,1119970191088029698,"[('Sri Lanka', 'con'), ('Hotels', 'lan')]"
+2475,1050154490685403136,"[('Florida', 'sta'), ('Gulf Coast', 'reg')]"
+2476,1050076281784668160,"[('school', 'oth')]"
+2477,1050388106388627456,"[('Florida Panhandle', 'reg')]"
+2478,1050043785730826240,"[('eyewall', 'oth'), ('eyewall', 'oth')]"
+2479,1119968998173450240,"[('Sri Lanka', 'con')]"
+2480,1119956055600058369,"[('world', 'reg'), ('Sri Lanka', 'con'), ('Church', 'lan')]"
+2481,1119971056331165696,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+2482,1050006115176603648,"[('shelter locations', 'lan')]"
+2483,1050090385861734402,"[('Atlantic', 'oth')]"
+2484,1049909919300931585,"[('west', 'reg'), ('NE', 'oth')]"
+2485,1050148238840324097,"[('gulf coast', 'oth'), ('Florida', 'sta'), ('Panama City', 'ctc')]"
+2486,1050051595071881216,"[('Florida', 'sta')]"
+2487,1119950621757575168,"[('Sri Lanka', 'oth')]"
+2488,1119955918295269376,"[('Sri Lanka', 'con')]"
+2489,1050043246221635584,"[('HurricaneMichael', 'oth')]"
+2490,1050004028694962176,"[('Florida', 'sta')]"
+2491,1119951528251383808,"[('Sri Lanka', 'con'), ('Pakistan', 'con'), ('Sri Lanka', 'con')]"
+2492,1119965048632422400,[]
+2493,1119971061355827200,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+2494,1050133324717588480,"[('Panama City', 'ctc'), ('Miami', 'ctc')]"
+2495,1119956503388147712,"[('country', 'con'), ('Sri Lanka', 'con')]"
+2496,1050147047242895360,"[('Home', 'lan'), ('Hiland Park', 'ctc'), ('Panama City', 'ctc'), ('FL', 'sta')]"
+2497,1049848995034492928,"[('Tropics', 'reg')]"
+2498,591902889645252608,"[('Nepal', 'con')]"
+2499,1050377322975641600,[]
+2500,1119954892448325632,"[('Sri Lanka', 'con')]"
+2501,591902957450305536,"[('Nepal', 'con')]"
+2502,1119952815315505153,[]
+2503,1050145389590933504,"[('inland', 'reg')]"
+2504,1050038706512351232,[]
+2505,1050080841660059648,"[('Florida', 'sta')]"
+2506,1050072474371674117,"[('Florida', 'sta')]"
+2507,1119971422372233217,"[('Churches', 'lan'), ('Nigeria', 'con'), ('Egypt', 'con'), ('Temples', 'lan'), ('India', 'con'), ('Pakistan', 'con'), ('Bangladesh', 'con'), ('Lucknow', 'ctc'), ('Bamiyan', 'ctc')]"
+2508,1049936985941528576,"[('Florida coast', 'reg')]"
+2509,1050068375450345472,"[('Florida', 'sta'), ('Florida', 'sta')]"
+2510,591904874293518336,"[('Nepal', 'con'), ('mountains', 'reg')]"
+2511,1050062709482385409,"[('Florida', 'sta')]"
+2512,1050061428336422914,[]
+2513,1050321271177658368,"[('city', 'ctc'), ('Florida', 'sta')]"
+2514,1050068246911733765,"[('landfall', 'ctc')]"
+2515,1119969522772000773,"[('Sri Lanka', 'con')]"
+2516,1050145931163774982,"[('Landfall', 'oth'), ('Florida', 'sta'), ('Gulf Coast', 'reg')]"
+2517,1119970944691376128,"[('synagogue', 'lan'), ('Pittsburgh', 'ctc'), ('churches', 'lan'), ('Colombo', 'ctc'), ('Sri Lanka', 'con'), ('Christchurch', 'ctc'), ('NZ', 'con')]"
+2518,1050143943072059394,"[('Waffle Houses', 'lan'), ('Panama City', 'ctc')]"
+2519,1050175004883779589,"[('Panama City', 'ctc'), ('Florida', 'sta')]"
+2520,1040002312796872704,"[('Texas', 'sta'), ('State Government offices', 'lan')]"
+2521,1119970083806306310,"[('church', 'lan'), ('Colombo', 'ctc'), ('Sri Lanka', 'con')]"
+2522,1049864094310903808,"[('Atlantic', 'oth')]"
+2523,1050005952538259457,"[('southeastern U.S.', 'reg'), ('inlan', 'reg')]"
+2524,1050252530532388864,[]
+2525,1050084949355839489,[]
+2526,1050363000174141441,"[('Florida', 'sta')]"
+2527,1050077856804626433,"[('SOUTHERN GA', 'sta'), ('NORTH FL', 'sta'), ('SC', 'sta')]"
+2528,296151377854492673,"[('Queensland', 'ctc'), ('New South Wales', 'sta')]"
+2529,1119956091507478528,[]
+2530,1050084119206653952,"[('Florida', 'sta')]"
+2531,1049785339877961728,"[('areas affected', 'reg')]"
+2532,1050039837993123841,"[('Landfall', 'lan'), ('Florida', 'sta'), ('Gulf Coast', 'reg')]"
+2533,296008132155539456,"[('Queensland', 'reg'), ('STANLEY RIVER', 'lan'), ('BRISBANE', 'ctc')]"
+2534,1119952482292027392,"[('Sri Lanka', 'con'), ('churches', 'lan'), ('hotels', 'lan'), ('The United States', 'con'), ('Sri Lanka', 'con')]"
+2535,1050088647071031296,[]
+2536,1050343461294141443,"[('Florida', 'sta'), ('Panhandle', 'reg'), ('state', 'sta'), ('Florida', 'sta')]"
+2537,1050276972646080512,"[('Panama City Beach', 'ctc'), ('Florida', 'sta')]"
+2538,1050034793004568576,"[('Florida', 'sta')]"
+2539,1050001587173769216,"[('Florida', 'sta')]"
+2540,1119952812836884482,[]
+2541,1049828146424483840,"[('Iran', 'con')]"
+2542,1119953061131190278,"[('Sri Lanka', 'con'), ('Canada', 'con'), ('churches', 'lan'), ('hotels', 'lan')]"
+2543,1050013037506297857,"[('Panhandle', 'reg'), ('St. Marks', 'oth')]"
+2544,1119951560300269568,"[('Sri Lanka', 'con'), ('nationwide', 'reg')]"
+2545,1050033049415630848,"[('Alligator Point', 'oth'), ('Florida Panhandle', 'reg')]"
+2546,1050339612097478656,"[('Florida Coast', 'reg')]"
+2547,1119971164758134786,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+2548,1040002656654241792,"[('Atlantic', 'reg')]"
+2549,1050337737629417472,[]
+2550,1050357872754876416,"[('Port St. Joe', 'ctc'), ('Mexico Beach', 'ctc')]"
+2551,1050154607396171779,"[('Florida', 'sta'), ('Air Force Base', 'lan'), ('Homes and Businesses', 'lan')]"
+2552,1050197526341713920,"[('Florida', 'sta'), ('panhandle', 'reg'), ('Coastal', 'reg')]"
+2553,1119974434180227072,"[('Santiago Bernab', 'lan'), ('Sri Lanka', 'con')]"
+2554,295867297585836032,"[('Australia', 'con')]"
+2555,1119971173432008707,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+2556,1119956698624667648,"[('Sri Lanka', 'con')]"
+2557,1050024233047347202,"[('Atlantic', 'reg'), ('miamiweather', 'sta')]"
+2558,1119969860803411968,"[('Sri Lanka', 'con'), ('world', 'oth')]"
+2559,1050061276058144769,"[('Florida', 'sta'), ('Georgia', 'sta'), ('Carolinas', 'reg')]"
+2560,1050006530030895104,[]
+2561,1050135435261952003,"[('EdMorrissey Another staggering consequence from HurricaneMichael are pictures . Billions of photos ruined from storm surge flooding . This still happens , yet 100 preventable . DM for info . https t.co r0YM3YR8Rp https t.co sDz8BE4pfp https t.co bfUiWz9qcl https t.co jlSVLmbzBm', 'oth'), ('Carolinas', 'sta'), ('CHARLOTTE', 'ctc'), ('N.C.', 'sta')]"
+2562,1050051998974914560,[]
+2563,1050092617692676096,"[('cockpit', 'oth'), ('eye', 'oth')]"
+2564,1049982127977234433,[]
+2565,1050250238680694784,"[('Gulf of Mexico', 'reg'), ('New York', 'ctc')]"
+2566,1050053734661857280,"[('Tallahassee', 'ctc'), ('Florida', 'sta')]"
+2567,1049778294059618311,"[('station', 'lan'), ('Gulf of Mexico', 'reg')]"
+2568,1050120126777966592,"[('Florida', 'con')]"
+2569,1119973270135218176,"[('Sri Lanka', 'con'), ('churches', 'oth'), ('hotels', 'oth')]"
+2570,1050046862298775552,"[('Florida', 'sta')]"
+2571,1049972524069638144,[]
+2572,1050192787545575425,[]
+2573,1050036034833141765,[]
+2574,1050008053339365376,"[('land', 'lan')]"
+2575,1050212291298426882,"[('Florida', 'sta')]"
+2576,591902876315717632,"[('Everest', 'reg'), ('Mountain', 'lan'), ('BC', 'reg')]"
+2577,1119974919650062336,"[('Sri Lanka', 'con')]"
+2578,1050023835116982279,"[('Carolinas', 'sta'), ('Florida Panhandle', 'reg')]"
+2579,1119974392983883777,"[('Sri Lanka', 'con'), ('churches and hotels', 'lan')]"
+2580,1119968967249027073,"[('Sri Lanka', 'con')]"
+2581,1049826438273228800,"[('U.S.', 'con')]"
+2582,1050107689861304320,[]
+2583,1050255753628405760,"[('space', 'oth'), ('Georgia', 'sta'), ('Southeast', 'reg'), ('Florida', 'sta'), ('Panhandle', 'reg'), ('U.S', 'con')]"
+2584,1050003123467681793,[]
+2585,913978101566201856,"[('Vegas', 'ctc'), ('Palms Place Luxury Suite', 'oth')]"
+2586,1119971868742758400,"[('South Asia', 'reg'), ('church', 'lan'), ('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+2587,297155105252315138,"[('Queensland', 'sta')]"
+2588,1119971408434663424,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+2589,1119970215641714695,"[('hotels', 'lan'), ('churches', 'lan'), ('srilanka', 'con')]"
+2590,1050081221089402882,"[('US', 'con'), ('US', 'con')]"
+2591,1050139969556307968,[]
+2592,1050107524765106176,"[('Carolinas', 'sta')]"
+2593,1049953981470924800,"[('Florida', 'sta')]"
+2594,1050017289385390085,[]
+2595,1050033622613483520,"[('Panama City', 'ctc')]"
+2596,1050127455485345793,"[('Greenwood', 'ctc'), ('FL', 'sta')]"
+2597,1119971735778889728,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+2598,1050198231009951744,"[('WhiteHouse', 'lan'), ('Washington , D.C.', 'ctc'), ('the states', 'con')]"
+2599,1049799638834921472,"[('path of hurricane Michael', 'reg')]"
+2600,1119971824601894913,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+2601,1119970072376668161,[]
+2602,1050374367719419904,"[('Hurricane', 'oth')]"
+2603,1119954565380608000,"[('Sri Lanka', 'con')]"
+2604,1050343788206534656,"[('areas', 'reg')]"
+2605,1049786407164805120,[]
+2606,1050142707459473415,"[('landfall', 'reg')]"
+2607,1050089086927720449,"[('FL', 'sta'), ('landfall', 'reg')]"
+2608,1049960857017470977,"[('Panhandle', 'reg'), ('Panama City Beach', 'ctc')]"
+2609,1050062737169178624,"[('Atlantic', 'reg'), ('New Orleans', 'ctc'), ('Hurricane Center', 'lan')]"
+2610,1050123923705290752,"[('Florida', 'sta'), ('Panhandle', 'reg')]"
+2611,1119971865387327490,"[('Sri Lanka', 'con'), ('Sri Lanka', 'con')]"
+2612,1049910068077088768,"[('Hurricane Center', 'lan'), ('panhandle', 'reg')]"
+2613,1049919094420635651,[]
+2614,1119973636402814980,"[('SRI LANKA', 'con'), ('Churches', 'lan'), ('hotels', 'lan')]"
+2615,1050033351199985664,"[('US98', 'lan'), ('break of dawn', 'oth')]"
+2616,1050095880488013825,"[('Bradford', 'oth'), ('Clay', 'oth'), ('Florida', 'sta')]"
+2617,1050142317451997184,"[('Atlantic', 'oth')]"
+2618,1050014694415597568,"[('Florida Panhandle', 'reg')]"
+2619,1050161096147972096,"[('Eric', 'ctc'), ('PA', 'sta'), ('Florida', 'sta'), ('southern states', 'reg')]"
