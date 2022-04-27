@@ -1,0 +1,861 @@
+<html><head><style>body {transition: opacity ease-in 0.2s; } 
+body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relative; } 
+</style><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css" integrity="sha384-XdYbMnZ/QjLh6iI4ogqCTaIjrFk87ip+ekIjefZch0Y+PvJ8CDYtEs1ipDmPorQ+" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <link href="https://gitcdn.github.io/bootstrap-toggle/2.2.2/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+    <style>
+        body {
+            font-family: 'Lato';
+        }/
+
+        .fa-btn {
+            margin-right: 6px;
+        }
+
+    </style>
+<style>
+<style>
+/* Tooltip container */
+.tip-content{
+
+}
+.tip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+/* Tooltip text */
+.tip .tooltiptext {
+  bottom: 100%;
+  left: 50%;
+  margin-left: -80px; /* Use half of the width (120/2 = 60), to center the tooltip */
+  
+  width:160px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0px;
+  border-radius: 6px;
+  
+  /* Position the tooltip text - see examples below! */
+  position: absolute;
+  z-index: 1;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tip:hover .tooltiptext {
+  visibility: visible;
+}
+.tip .tooltiptext::after {
+  content: " ";
+  position: absolute;
+  top: 100%; /* At the bottom of the tooltip */
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+</style>
+
+    <style>
+.navbar-nav li {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+.tabs-container {
+  margin-top: 100px;toggle
+}
+.parent-border, .child-border {
+  border: 1px solid #CCC;
+  border-radius: 4px;
+  padding: 15px;
+  margin-bottom: 15px;
+}
+.btn-circle.btn-lg {
+  width: 50px;
+  height: 50px;
+  padding: 10px 16px;
+  font-size: 18px;
+  line-height: 1.33;
+  border-radius: 25px;
+}
+.context-menu {
+  box-shadow: 0 4px 5px 3px rgba(0, 0, 0, 0.2);
+  display: none;
+  position: absolute;
+  z-index: 10;
+  background-color:#fff;
+  padding: 2px;
+}
+.context-menu--active {
+  display: block;
+}
+.context-menu__items {
+    list-style: none;
+    padding: 10px 0;
+  }
+.context-menu__item{
+      font-weight: 500;
+      font-size: 14px;
+      padding: 10px 40px 10px 20px;
+      cursor: pointer;
+
+      &:hover {
+        background: rgba(0, 0, 0, 0.2);
+      }
+    }
+</style>
+    <!-- JavaScripts -->
+	 
+	 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js" integrity="sha384-I6F5OKECLVtK/BL+8iSLDEHowSAfUo76ZL9+kGAgTRdiByINKJaqTPH/QVNS1VDb" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.0/dist/jquery.validate.min.js"></script>
+	<script src="https://nsfbd.cs.ksu.edu/js/underscore.min.js"></script>
+    
+    <script src="https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js"></script>
+	<script src="https://nsfbd.cs.ksu.edu/js/bootoast.min.js"></script>
+<script>
+	if(typeof(String.prototype.trim) === "undefined")
+	{
+		String.prototype.trim = function() 
+		{
+			return String(this).replace(/^\s+|\s+$/g, '');
+		};
+	}
+	const counter = (str,re) => {
+	  return ((str || '').match(re) || []).length
+	}
+	const INCORRECT_ENTRY = -1;
+	const ALREADY_SELECTED = 1;
+	const SELECTION_CONTAINS_PHRASE = 2;
+	const PHRASE_CONTAINS_SELECTION = 3;
+	const NOT_SELECTED = 4;
+	var selected_phrases=[];
+	function is_selected(str,full_text){
+		var regex_str = new RegExp("\\b"+str+"\\b",'gi');
+		if (selected_phrases.includes(str.toLowerCase())){
+			return [ALREADY_SELECTED,"Phrase already selected."];
+		}else if(counter(full_text,regex_str) == 0){
+			if ((full_text.toLowerCase()).includes(str.toLowerCase())) return [INCORRECT_ENTRY, "Selection did not begin/end on word boundary."];
+			else return [INCORRECT_ENTRY, "Original text does not contain this text."];
+		}else{
+			for(selection of selected_phrases) {
+				var regex_selection = new RegExp("\\b"+selection+"\\b",'gi');
+				if (counter(selection,regex_str) > 0){
+					if (counter(full_text,regex_str) > counter(full_text,regex_selection)){
+						return [NOT_SELECTED,null];				
+					}			
+					else return [SELECTION_CONTAINS_PHRASE,"Phrase is contained on another selection."];			
+				}else if(counter(str,regex_selection) > 0){
+					if (counter(full_text,regex_selection) > counter(full_text,regex_str)){
+						return [NOT_SELECTED,null];				
+					}
+					else return [PHRASE_CONTAINS_SELECTION,"Phrase contains one of the other selection(s). Please remove those if you want to add this longer phrase."];
+				}
+			};	
+		}
+		return [NOT_SELECTED,null];
+	}
+	function addSelection(str,full_text){
+		var is_sel = is_selected(str,full_text);
+		if(is_sel[0] == NOT_SELECTED) selected_phrases.push(str.toLowerCase());
+			
+		
+	}
+	function removeSelection(str){
+		selected_phrases =  _.without(selected_phrases,str.toLowerCase());
+	}
+	function removeUnwantedSelections(full_text){
+		selected_phrases = selected_phrases.filter(selection=>{
+			var regex_selection = new RegExp("\\b"+selection+"\\b",'gi');
+			return counter(full_text,regex_selection) > 0;
+		});
+	}
+	function highlightSelection(dom){
+		var full_text = $(dom)[0].textContent;
+		selected_phrases.sort(function(a, b){
+			// ASC  -> a.length - b.length
+			// DESC -> b.length - a.length
+			return b.length - a.length;
+		});
+		for(selection of selected_phrases) {
+			full_text = full_text.replace(new RegExp("\\b"+selection+"\\b",'gi'), function(str){return "<strong><font color='red'>"+str+"</font></strong>"});	   	
+		
+		}
+		
+		
+		$(dom).html(full_text);
+	}
+	$(document).ready(function() {
+
+	  "use strict";
+
+	  ///////////////////////////////////////
+	  ///////////////////////////////////////
+	  //
+	  // H E L P E R    F U N C T I O N S
+	  //
+	  ///////////////////////////////////////
+	  ///////////////////////////////////////
+
+	  function clickInsideElement( e, className ) {
+		var el = e.srcElement || e.target;
+
+		if ( el.classList.contains(className) ) {
+		  return el;
+		} else {
+		  while ( el = el.parentNode ) {
+			if ( el.classList && el.classList.contains(className) ) {
+			  return el;
+			}
+		  }
+		}
+
+		return false;
+	  }
+
+
+
+	  function getPosition(e) {
+		var posx = 0;
+		var posy = 0;
+
+		if (!e) var e = window.event;
+
+		if (e.pageX || e.pageY) {
+		  posx = e.pageX;
+		  posy = e.pageY;
+		} else if (e.clientX || e.clientY) {
+		  posx = e.clientX + document.body.scrollLeft +
+							 document.documentElement.scrollLeft;
+		  posy = e.clientY + document.body.scrollTop +
+							 document.documentElement.scrollTop;
+		}
+
+		return {
+		  x: posx,
+		  y: posy
+		}
+	  }
+	  function positionMenu(e) {
+		clickCoords = getPosition(e);
+		clickCoordsX = clickCoords.x;
+		clickCoordsY = clickCoords.y;
+
+		menuWidth = menu.offsetWidth + 4;
+		menuHeight = menu.offsetHeight -1000;
+
+		windowWidth = window.innerWidth;
+		windowHeight = window.innerHeight;
+
+		if ( (windowWidth - clickCoordsX) < menuWidth ) {
+		  menu.style.left = windowWidth - menuWidth + "px";
+		} else {
+		  menu.style.left = clickCoordsX + "px";
+		}
+
+		if ( (windowHeight - clickCoordsY) < menuHeight ) {
+		  menu.style.top = windowHeight - menuHeight + "px";
+		} else {
+		  menu.style.top = clickCoordsY + "px";
+		}
+	  }
+	  function highlight(e) {
+		var text = "";
+		if (window.getSelection) {
+			text = window.getSelection().toString();
+		} else if (document.selection && document.selection.type != "Control") {
+			text = document.selection.createRange().text;
+		}
+		  //console.log($($(e.toElement)[0]).attr("data-id"));
+		
+		//right mouse clicked
+		if(event.which==3){
+		  return (text);
+		}
+		else return null;
+	  }
+
+	  ///////////////////////////////////////
+	  ///////////////////////////////////////
+	  //
+	  // C O R E    F U N C T I O N S
+	  //
+	  ///////////////////////////////////////
+	  ///////////////////////////////////////
+
+
+
+	  function resizeListener() {
+		window.onresize = function(e) {
+		  toggleMenuOff();
+		};
+	  }
+	  /**
+	   * Variables.
+	   */
+	  var contextMenuClassName = "context-menu";
+	  var contextMenuItemClassName = "context-menu__item";
+	  var contextMenuLinkClassName = "context-menu__link";
+	  var contextMenuActive = "context-menu--active";
+	  var taskItemClassName = 'tweet_text';
+	  var menu = document.querySelector(".context-menu");
+	  var menuState = 0;
+	  var menuPosition;
+	  var menuPositionX;
+	  var menuPositionY;
+	  var menuWidth;
+	  var menuHeight;
+	  var windowWidth;
+	  var windowHeight;
+	  var clickCoords;
+	  var clickCoordsX;
+	  var clickCoordsY;
+	  var taskItemInContext;
+	  var selection=null;
+	  /**
+	   * Initialise our application's code.
+	   */
+	  function init() {
+		contextListener();
+		clickListener();
+		keyupListener();
+		resizeListener();
+	  }
+
+	  /**
+	   * Listens for contextmenu events.
+	   */
+	   function contextListener() {
+		 document.addEventListener( "contextmenu", function(e) {
+		   taskItemInContext = clickInsideElement( e, taskItemClassName );
+		   if ( clickInsideElement( e, taskItemClassName ) ) {
+			 e.preventDefault();
+			 selection=highlight(e);
+			 selection=selection.trim();
+			 if(selection.length){
+				
+				var full_text = taskItemInContext.textContent;
+				var test = is_selected(selection,full_text);
+				if (test[0] != NOT_SELECTED) {
+					   bootoast.toast({
+						message: test[1],
+						type: 'warning',
+						position: 'top-center'
+						});	
+						alert(test[1])
+				}else {
+					toggleMenuOn();
+					positionMenu(e);
+				}
+				  
+			   
+				
+			 
+
+			 }else{
+			   taskItemInContext = null;
+			   toggleMenuOff();
+			 }
+
+		   } else {
+			 taskItemInContext = null;
+			 toggleMenuOff();
+
+		   }
+		 });
+	   }
+
+	  /**
+	   * Listens for click events.
+	   */
+	   function clickListener() {
+		 document.addEventListener( "click", function(e) {
+		   var clickeElIsLink = clickInsideElement( e, contextMenuLinkClassName );
+		   if ( clickeElIsLink ) {
+			e.preventDefault();
+			menuItemListener( clickeElIsLink);
+		  } else {
+			 var button = e.which || e.button;
+			 if ( button === 1 ) {
+			   toggleMenuOff();
+			 }
+		  }
+		 });
+	   }
+
+	  /**
+	   * Listens for keyup events.
+	   */
+	   function keyupListener() {
+		 window.onkeyup = function(e) {
+		   if ( e.keyCode === 27 ) {
+			 toggleMenuOff();
+		   }
+		 }
+	   }
+
+	  /**
+	   * Turns the custom context menu on.
+	   */
+	  function toggleMenuOn() {
+		if ( menuState !== 1 ) {
+		  menuState = 1;
+		  menu.classList.add( contextMenuActive );
+		}
+	  }
+	  function toggleMenuOff() {
+		if ( menuState !== 0 ) {
+		  menuState = 0;
+		  menu.classList.remove( contextMenuActive );
+		}
+		selection=null;
+	  }
+	  function menuItemListener( link) {
+		var tweet_id=taskItemInContext.getAttribute("data-id");
+		var full_text = taskItemInContext.textContent;
+		var action = link.getAttribute("data-action");
+		if(selection.length){
+			var selected =is_selected(selection,full_text) ; 
+			if(selected[0] == NOT_SELECTED){
+				addSelection(selection,full_text);
+			addRow(tweet_id,{
+				"location":selection
+			});
+		}
+		}
+		toggleMenuOff();
+	  }
+	  /**
+	   * Run the app.
+	   */
+	  init();
+
+	});
+
+
+  (function($) {
+    $.fn.closest_descendent = function(filter) {
+        var $found = $(),
+            $currentSet = this; // Current place
+        while ($currentSet.length) {
+            $found = $currentSet.filter(filter);
+            if ($found.length) break;  // At least one match: break loop
+            // Get all children of the current set
+            $currentSet = $currentSet.children();
+        }
+        return $found.first(); // Return first match of the collection
+    }
+  })(jQuery);
+
+  function newRow(item) {
+
+      var len = $(item).closest('.form-inline').find('.child-border').length;
+      var parent = $(item).closest('.form-inline').find('.parent-border').clone();
+
+      var newRow = parent.find(':input').each(function (idx, ele) {
+          //ele.name=ele.name.replace(/\[\d+\]/g,'['+len+']');
+          $(ele).attr("required","true");
+          $(ele).attr("pattern","\\s*\\S.*");
+          $(ele).attr("title","Field must contain atleast one non whitespace character.");
+          $(ele).attr("data-val","");
+          ele.name = $(ele).attr("data-name");
+          ele.id = ele.id + "_"+len;
+          ele.value = '';
+      }).end().find('.form-group').toggle(true).end()
+              .toggleClass('parent-border child-border').hide();
+      newRow.appendTo($(item).closest('.form-inline').find('.form-container')).slideDown();
+      
+		var textBox = $("input[name='location[]']",newRow)[0];
+		validateLocationInput(textBox);
+
+
+
+  };
+  function addRows(tweet_id,rows){
+    rows.forEach(function(element){
+      addRow(tweet_id,element);
+    });
+  }
+  function addRow(tweet_id,data){
+    var thisForm = $("#form_"+tweet_id);
+    var len = thisForm.find('.child-border').length;
+    var parent = thisForm.find('.parent-border').clone();
+
+    var newRow = parent.find(':input').each(function (idx, ele) {
+        //ele.name=ele.name.replace(/\[\d+\]/g,'['+len+']');
+        $(ele).attr("required","true");
+        $(ele).attr("pattern","\\S(.*\\S)?");
+        $(ele).attr("title","Field must contain atleast one non whitespace character.");
+        ele.name = $(ele).attr("data-name");
+		  $(ele).attr("data-val",data[ele.name.replace(/\[.*]/g,'')] || "");        
+        ele.id = ele.id + "_"+len;
+        ele.value = data[ele.name.replace(/\[.*]/g,'')];
+
+    }).end().find('.form-group').toggle(true).end()
+            .toggleClass('parent-border child-border').hide();
+    newRow.appendTo(thisForm.find('.form-container')).slideDown();
+    var textBox = $("input[name='location[]']",newRow)[0];
+	 validateLocationInput(textBox);
+    highlightSelection($(".tweet_text"));
+    
+  }
+  function validateLocationInput(textBox){
+  	textBox.addEventListener("input", function (event) {
+  				var ev = document.createEvent('Event');
+				ev.initEvent('input', false, true);
+				if(event.isTrusted){
+					$("input[name='location[]']").each(function(index,item){
+						item.dispatchEvent(ev)
+					});
+				}
+				var regex= new RegExp("\\b"+textBox.value.trim()+"\\b",'gi');
+				var form  = $(textBox).closest('form');
+				var jsonData = $(form)
+              .find(':input:not(button)').get()
+              .reduce(function (acc, ele) {
+                if(ele.value.trim().length!=0) acc.push({"name":ele.name,"value":ele.value});
+                return acc;
+              }, []);
+      		var prefix = "location";
+      		var selector = jQuery.validator.format("[unique='{0}']", prefix);
+      		var values = new Array();
+      		$(selector).each(function(index, item) {
+      		    if($(item).val().trim().length)
+     		       values.push($(item).val().trim().toLowerCase());
+     			 });
+     			 var frequency = _.countBy(values);
+     			 var full_text = $(".tweet_text")[0].textContent;
+     			if(counter(full_text,regex) == 0) textBox.setCustomValidity("Does not occur in the original text with the same word boundaries.");
+				else if (frequency[textBox.value.trim().toLowerCase()] > 1) textBox.setCustomValidity("Duplicate entry");
+				else{
+					textBox.setCustomValidity("");
+				}
+  		});
+  		textBox.addEventListener("change", function (event) {
+  			var prev = (textBox.getAttribute('data-val'));
+  			var updated =  textBox.value;
+  			var full_text = $(".tweet_text")[0].textContent;
+  			removeSelection(prev);
+  			 var check = is_selected(updated,full_text);
+  			 if(check[0] == SELECTION_CONTAINS_PHRASE || check[0] == PHRASE_CONTAINS_SELECTION){
+				  		textBox.setCustomValidity(check[1]);	 
+  			 }
+  			addSelection(updated,$(".tweet_text")[0].textContent);
+  			textBox.setAttribute("data-val",updated);
+  			highlightSelection($(".tweet_text"));
+  			var ev = document.createEvent('Event');
+				ev.initEvent('change', false, true);
+				if(event.isTrusted){
+					$("input[name='location[]']").each(function(index,item){
+						item.dispatchEvent(ev)
+					});
+				}
+  		});
+  }
+
+  function validateForm(form) {
+		
+      var jsonData = $("#"+form.id+" div.form-container").find(':input:not(button):not(select)').get()
+      				.reduce(function(acc,ele){
+				      	if(ele.value.trim().length!=0){
+				      		inputID = ele.id;
+								selectID = "location_type_tweet_id_"+inputID.replace( /^\D+/g, '');
+								locationTypeField = $("#"+selectID);
+								acc.push({"location":ele.value,"type":locationTypeField.val()});
+				      	}			
+      				return acc;
+      				},[]);
+      var prefix = "location";
+      var selector = jQuery.validator.format("[unique='{0}']", prefix);
+      var values = new Array();
+      $(selector).each(function(index, item) {      
+          if($(item).val().trim().length)
+            values.push($(item).val().trim().toLowerCase());
+      });
+
+      if(hasDuplicates(values)){
+        console.log("Duplicate location entries");
+        //alert("Duplicate location entries");
+        return false;
+      }
+      if (hasInvalidEntries(values)){
+      	console.log("Invalid location entries");
+        	//alert("Invalid location entry (selection does not begin/end on word boundary).");
+        	return false;
+      }
+	  else{
+			$("#"+form.id+" input[name='data']").val(JSON.stringify(jsonData));
+			
+		   return true;
+	  }
+
+
+      return true;
+  };
+  function hasInvalidEntries(a){
+  		var full_text = $(".tweet_text")[0].textContent;
+		var result = false;		
+		for (value of a){      
+      	var regex= new RegExp("\\b"+value+"\\b",'gi');
+			result =  Boolean((counter(full_text,regex) == 0) | result);
+		}
+		return result;
+	}
+  function hasDuplicates(a) {
+      var counts = [];
+      for(var i = 0; i <= a.length; i++) {
+          if(counts[a[i]] === undefined) {
+              counts[a[i]] = 1;
+          } else {
+              return true;
+          }
+      }
+      return false;
+  }
+  function deleteRow(item) {
+      var jsonData = $(item).closest('.child-border, .parent-border')
+              .find(':input:not(button)').get()
+              .reduce(function (acc, ele) {$("#myform").validate();
+                  acc.push({"name":ele.name,"value":ele.value});
+                  return acc;
+              }, []);
+      $(item).closest('.child-border, .parent-border').remove();
+		var str = "";		
+		for(cv of jsonData){
+			if (cv["name"] == "location[]") {
+				str =  cv.value;
+				break;
+			}
+			 		
+		};
+      removeSelection(str);
+      removeUnwantedSelections($(".tweet_text")[0].textContent);
+      highlightSelection($(".tweet_text"));
+		var ev = document.createEvent('Event');
+		ev.initEvent('change', false, true);
+		$("input[name='location[]']").each(function(index,item){
+			item.dispatchEvent(ev)
+		});
+		var ev = document.createEvent('Event');
+		ev.initEvent('input', false, true);
+		$("input[name='location[]']").each(function(index,item){
+			item.dispatchEvent(ev)
+		});
+		
+
+  };
+  $.validator.addMethod("unique", function(value, element, params) {
+      var prefix = params;
+      var selector = jQuery.validator.format("[name!='{0}'][unique='{1}']", element.name, prefix);
+      var matches = new Array();
+      $(selector).each(function(index, item) {
+          if (value.trim().toLowerCase() == $(item).val().trim().toLowerCase()) {
+              matches.push(item);
+          }
+      });
+
+      return matches.length == 0;
+  }, "Duplicate location entries.");
+	
+  $.validator.classRuleSettings.unique = {
+      unique: true
+  };
+</script>
+    
+
+    
+
+
+
+</head><body><nav class="context-menu navbar" style="left: 609px; top: 341px;">
+  <ul class="context-menu__items">
+    <li class="context-menu__item">
+      <a href="#" class="addRow context-menu__link" data-action="add">
+        <i class="glyphicon glyphicon-plus"></i> Add location
+      </a>
+    </li>
+
+  </ul>
+</nav>
+
+
+<div class="container" style="margin:0;width:100%">
+  
+  <div class="row tabs-container" style="margin-top:10px">
+      <div class="col-sm-offset-0 col-sm-12">
+          <div class="panel with-nav-tabs panel-default">
+              <div class="panel-heading">
+                  <p>From the following tweet, <strong>tag all the location mentions </strong> with the most closest category they fall into from the list. To add a location mention, you can select the text and right click to "add as location" and select the category</p>
+						<p>If the tweet is not in English language, annotate the locations and click the "English/ Not English" toggle and submit.</p>
+						<p>Please feel free to use search engines like <a href="https://www.google.com" target="_blank">Google</a> in case you are not sure of a category for location.</p>
+						<p>If the tweet does not contain any location mentions, hit submit button.</p>
+						<p>You can only tag words (sequence of words separated by space), if you make selection that does not contain the entire word, it will give an error.</p>
+						<p>For abbrviated names like U.S. and U.K. etc. make the selection without the last dot (U.S and U.K)</p>
+						<p>A single location phrase must be annotated exactly once, and should cover the entire phrase. You should not label the part of the single phrase separately, (unless the parts appear separately on the original text as well). eg: <color =="" "red"="">Park St., Manhattan, Kansas</color> should be a single annotation of street address, you do not need to annotate Kansas as state separately, (unless Kansas appears separately somewhere else on the text) </p>
+						<p><code>Here are some examples: <button class="btn btn-primary collapsed" type="button" data-toggle="collapse" data-target="#tweet_examples" aria-expanded="false" aria-controls="tweet_examples">
+    Collapse/View
+  </button></code>
+						</p><ul class="list-group collapse" id="tweet_examples" aria-expanded="false" style="height: 0px;">
+						<li class="list-group-item"></li>
+						<li class="list-group-item">Despite being in the path of Hurricane Florence , some people in <span class="tip tip-content">North Carolina<span class="tooltiptext">State</span></span>'s &nbsp;&nbsp;&nbsp;&nbsp;<span class="tip tip-content">Wrightsville Beach community<span class="tooltiptext">Neighborhood/City/Town</span></span> have yet to leave their waterfront community despite a mandatory evacuation order.  For more updates </li>
+						<li class="list-group-item"></li>
+						<li class="list-group-item">Airbnb hosts are offering <span class="tip tip-content">free rooms<span class="tooltiptext">Other</span></span> to people fleeing Hurricane Florence </li>
+						<li class="list-group-item"></li>
+						<li class="list-group-item">Atten. &lt;USER&gt; newsdesk <span class="tip tip-content">359 Sandpiper Drive, Kill Devil Hills<span class="tooltiptext">Other</span></span>, 2 young adults , elderly neighbor and 3 dogs stranded without vehicle . It was posted on Hurticane Florence Lodging for Evacuees facebook page . They couldn't get through on the evac info phone number .</li>
+						<li class="list-group-item"></li>
+						<li class="list-group-item">5 PM EST Florence Cone   Florence is gonna hang out on the <span class="tip tip-content">coastline<span class="tooltiptext">Region</span></span> and rip it to shreds</li>
+						<li class="list-group-item"></li>
+						<li class="list-group-item">Donations for Hurricane Maria survivors found soiled &amp; soiled with animal feces in <span class="tip tip-content">Puerto Rico<span class="tooltiptext">State</span></span></li>
+						<li class="list-group-item"></li>
+						<li class="list-group-item">Maximum wave height possible ... trough to crest modeled to be &gt; 100 feet for Hurricane Florence &amp; 121 feet for Category 5 Super Typhoon Mangkhut near <span class="tip tip-content">Luzon<span class="tooltiptext">Other</span></span> in the asian country of <span class="tip tip-content">Philippines<span class="tooltiptext">Country</span></span>.  Significance wave height (Hs) is based on average of highest 1/3 of waves in the distribution or spectrum</li>
+						<li class="list-group-item"></li>
+						<li class="list-group-item">Even with the storm track shifting, <span class="tip tip-content">Chesterfield County<span class="tooltiptext">Neighborhood/City/Town</span></span> is still expected to experience wind damage, flash flooding and power outages. Secure loose items now, and don't forget to register for Chesterfield Alert at FlorenceVA Cfield Florence </li>
+						<li class="list-group-item"></li>
+						<li class="list-group-item">&lt;USER&gt;  How many of those lives could have been saved if you weren t too busy playing politics &amp; getting T-Shirts customized during the aftermath of a massive Hurricane?  How many families went hungry while donated food rotted in Government <span class="tip tip-content">parking lots<span class="tooltiptext">Landmark/Building</span></span> for 11 months Disgraceful </li>
+						<li class="list-group-item"></li>
+						<li class="list-group-item">Hurricane Florence Isn't Alone 4 Powerful Storms Seen from <span class="tip tip-content">Space<span class="tooltiptext">Other</span></span> in 1 Day</li>
+						<li class="list-group-item"></li>
+						<li class="list-group-item">&lt;USER&gt;  We were saying today in our briefing how Florence  has been an overachiever since its <span class="tip tip-content">Africa<span class="tooltiptext">Region</span></span> departure , many subseasonal and synoptic precursors have set the stage </li>
+						<p></p><h1></h1><p></p>
+              </ul>
+<p><code>You can now start annotating the tweet shown below</code></p>
+</div>
+              <div class="panel-body">
+              <crowd-form class="form-inline" id="form_tweet_id" onsubmit="return validateForm(this);"><form method="" action="">
+              <table class="table">
+                  <thead>
+                   
+                  </thead>
+                  <tbody>
+                  <tr>
+                		<td class="tweet_text" data-id="tweet_id">Despite being in the path of Hurricane Florence , some people in <strong><font color="red">North Carolina</font></strong> 's <strong><font color="red">Wrightsville Beach community</font></strong> have yet to leave their waterfront community despite a mandatory evacuation order.  For more updates</td>
+                	</tr>
+                	<tr>
+                		<td>
+		                	
+                            <input type="hidden" name="tweet_id" value="${tweet_id}">
+                            <input type="hidden" name="data">
+                            <div class="parent-border col-sm-offset-0 col-sm-12" style="display:none">
+										<div class="form-group">
+												<div class="col-sm-8" style="padding:2px">
+                                        <input type="text" style="width:100%" class="form-control" id="location_mention_tweet_id" placeholder="Enter location" data-name="location[]" unique="location">
+                                    </div>
+                                </div>
+                                <div class="form-group">
+												<div class="col-sm-3" style="padding:2px">
+                                        <select class="form-control" style="width:100%" id="location_type_tweet_id" data-name="location_type[]">
+                                            <option value="" disabled="" selected="">Select location Type</option>
+                                            
+                                              
+                                              <option> State</option>
+											  <option> Country</option>
+											  <option> Neighborhood/City/Town</option>
+											  <option> Landmark/Building</option>
+											  
+											  <option> Region</option>
+											  <option> Other</option>									 
+
+                                            
+                                        </select>
+                                    </div>
+                                	</div>
+                                <div class="form-group">
+	                                <div class="col-sm-offset-0 col-sm-1" style="padding:2px">
+	                                     <button type="button" class="deleteRow btn btn-md btn-danger btn-circle" onclick="deleteRow(this)"><i class="glyphicon glyphicon glyphicon-trash"></i></button>
+	                                </div>
+                                 </div>
+
+	                            </div>
+                            
+                            <div class="form-container">
+                            <div class="col-sm-offset-0 col-sm-12 child-border" style="">
+										<div class="form-group" style="display: block;">
+												<div class="col-sm-8" style="padding:2px">
+                                        <input type="text" style="width:100%" class="form-control" id="location_mention_tweet_id_0" placeholder="Enter location" data-name="location[]" unique="location" required="required" pattern="\s*\S.*" title="Field must contain atleast one non whitespace character." data-val="North Carolina" name="location[]" value="North Carolina">
+                                    </div>
+                                </div>
+                                <div class="form-group" style="display: block;">
+												<div class="col-sm-3" style="padding:2px">
+                                        <select class="form-control" style="width:100%" id="location_type_tweet_id_0" data-name="location_type[]" required="required" pattern="\s*\S.*" title="Field must contain atleast one non whitespace character." data-val="" name="location_type[]">
+                                            <option value="" disabled="" selected="">Select location Type</option>
+                                            
+                                              
+                                              <option selected> State</option>
+											  <option> Country</option>
+											  <option> Neighborhood/City/Town</option>
+											  <option> Landmark/Building</option>
+											  
+											  <option> Region</option>
+											  <option> Other</option>									 
+
+                                            
+                                        </select>
+                                    </div>
+                                	</div>
+                                <div class="form-group" style="display: block;">
+	                                <div class="col-sm-offset-0 col-sm-1" style="padding:2px">
+	                                     <button type="button" class="deleteRow btn btn-md btn-danger btn-circle" onclick="deleteRow(this)" required="required" pattern="\s*\S.*" title="Field must contain atleast one non whitespace character." data-val="" name="undefined" id="_0" value=""><i class="glyphicon glyphicon glyphicon-trash"></i></button>
+	                                </div>
+                                 </div>
+
+	                            </div><div class="col-sm-offset-0 col-sm-12 child-border" style="">
+										<div class="form-group" style="display: block;">
+												<div class="col-sm-8" style="padding:2px">
+                                        <input type="text" style="width:100%" class="form-control" id="location_mention_tweet_id_1" placeholder="Enter location" data-name="location[]" unique="location" required="required" pattern="\S(.*\S)?" title="Field must contain atleast one non whitespace character." name="location[]" data-val="Wrightsville Beach community" value="Wrightsville Beach community">
+                                    </div>
+                                </div>
+                                <div class="form-group" style="display: block;">
+												<div class="col-sm-3" style="padding:2px">
+                                        <select class="form-control" style="width:100%" id="location_type_tweet_id_1" data-name="location_type[]" required="required" pattern="\S(.*\S)?" title="Field must contain atleast one non whitespace character." name="location_type[]" data-val="">
+                                            <option value="" disabled="" selected="">Select location Type</option>
+                                            
+                                              
+                                              <option> State</option>
+											  <option> Country</option>
+											  <option selected> Neighborhood/City/Town</option>
+											  <option> Landmark/Building</option>
+											  
+											  <option> Region</option>
+											  <option> Other</option>									 
+
+                                            
+                                        </select>
+                                    </div>
+                                	</div>
+                                <div class="form-group" style="display: block;">
+	                                <div class="col-sm-offset-0 col-sm-1" style="padding:2px">
+	                                     <button type="button" class="deleteRow btn btn-md btn-danger btn-circle" onclick="deleteRow(this)" required="required" pattern="\S(.*\S)?" title="Field must contain atleast one non whitespace character." name="undefined" data-val="" id="_1" value="undefined"><i class="glyphicon glyphicon glyphicon-trash"></i></button>
+	                                </div>
+                                 </div>
+
+	                            </div></div>
+                            <div class="form-group" style="float:right">
+                                <div class="col-sm-offset-0 col-sm-1">
+                                    <button type="button" class="addRow btn  btn-md btn-primary" onclick="newRow(this)"><i class="glyphicon glyphicon-plus">Add location</i></button>
+                                </div>
+                            </div>
+
+                          
+		                </td>
+	                 </tr>
+                 </tbody>
+                </table>
+                 </form></crowd-form>     
+
+                
+              </div>
+          </div>
+      </div>
+      
+  </div>
+  </div>
+
+
+</body></html>
